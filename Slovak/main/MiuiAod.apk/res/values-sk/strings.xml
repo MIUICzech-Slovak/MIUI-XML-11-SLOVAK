@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="search_menu_title">Vyhľadať</string>
+  <string name="accessibility_battery_level">%d percent.</string>
+  <string name="accessibility_battery_level_charging">Nabíjanie batérie, %d percent.</string>
+  <string name="aod_close_color_inversion">Táto funkcia nemôže byť kombinovaná s funkciou invertovaním farieb.</string>
+  <string name="aod_mode_style">Štýl hodín a pozadia</string>
+  <string name="aod_mode_summary">Zobraziť čas, dátum a SMS keď je displej vypnutý.</string>
+  <string name="aod_mode_time_summary">Naplánujte čas kedy sa má vaše zariadenie prepnúť do Ambientného režimu</string>
+  <string name="aod_mode_time_title">Naplánovať čas</string>
+  <string name="aod_mode_title">Ambientný displej</string>
+  <string name="aod_to_close">Vypnúť</string>
+  <string name="cancel">Zrušiť</string>
+  <string name="paper_mode_end_time_title">Vypnúť</string>
+  <string name="paper_mode_start_time_title">Zapnúť</string>
+  <string name="always_style">Vždy</string>
+  <string name="aod_mode_preview">Náhľad</string>
+  <string name="aod_mode_style_title">Viac nastavení</string>
+  <string name="aod_show_style_title">Zobraziť položky</string>
+  <string name="scheduled_style">Naplánované</string>
+  <string name="summary">"Pre šetrenie batérie, položky nebudú zobrazené v prípade:
+1. Ak je zariadenie v tme dlhší čas.
+2. Ak je aktivovaný režim Nerušiť."</string>
+  <string name="temporary_style">10s po dotyku</string>
+  <string name="animation_clock_panel">Vlny</string>
+  <string name="apply">Použiť</string>
+  <string name="background_icon">Pozadie</string>
+  <string name="black_white_clock_panel">Hodiny</string>
+  <string name="character_counter_content_description">Prekročený limit znakov %1$d z %2$d</string>
+  <string name="choose_aod_style">Vybrať tému</string>
+  <string name="clock_panel_icon">Ciferník</string>
+  <string name="color_change_with_time_description">Zmeniť farbu textu automaticky podľa času</string>
+  <string name="color_change_with_time_title">Zmeniť farbu textu automaticky</string>
+  <string name="deep_space_planet">Vesmír</string>
+  <string name="deep_space_planet_des">\"Vesmír\" znázorňuje zmenu svetla počas dňa. Východ a západ slnka sú synchronizované podľa vašej polohy.</string>
+  <string name="large_time">Veľké hodiny</string>
+  <string name="mini_time">Malé hodiny</string>
+  <string name="mtrl_chip_close_icon_content_description">Odstrániť %1$s</string>
+  <string name="only_show_bg_description">Nezobrazovať čas, dátum a ostatné položky</string>
+  <string name="only_show_bg_title">Zobraziť len pozadie</string>
+  <string name="password_toggle_content_description">Zobraziť heslo</string>
+  <string name="show_battery_status">Zobraziť stav batérie</string>
+  <string name="show_notification">Zobraziť upozornenia</string>
+  <string name="standard_style">Štandardný</string>
+  <string name="text_color">Farba textu</string>
+</resources>
