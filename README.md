@@ -1,3 +1,4 @@
+[![MIUI11 logo](https://i.imgur.com/A44OaCG.gif)](https://miuios.cz/)
 
 MIUI-v11 translation for all supported devices. MIUI Translation: **ingbrzy**
 
