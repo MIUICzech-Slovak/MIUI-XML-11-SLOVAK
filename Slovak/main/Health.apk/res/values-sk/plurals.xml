@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="day_index">
+        <item quantity="other">%1$d dní</item>
+        <item quantity="one">%1$d deň</item>
+        <item quantity="few">%1$d dni</item>
+        <item quantity="many">%1$d dňa</item>
+    </plurals>
+    <plurals name="goal_format_with_unit">
+        <item quantity="other">Cieľ: %1$d krokov</item>
+        <item quantity="one">Cieľ: %1$d krok</item>
+        <item quantity="few">Cieľ: %1$d kroky</item>
+        <item quantity="many">Cieľ: %1$d kroku</item>
+    </plurals>
+    <plurals name="goal_unit">
+        <item quantity="other">" krokov"</item>
+        <item quantity="one">" krok"</item>
+        <item quantity="few">" kroky"</item>
+        <item quantity="many">" kroku"</item>
+    </plurals>
+    <plurals name="menstruation_sum_days">
+        <item quantity="other">%1$d-dňová menštruácia</item>
+        <item quantity="one">%1$d-dňová menštruácia</item>
+        <item quantity="few">%1$d-dňová menštruácia</item>
+        <item quantity="many">%1$d-dňová menštruácia</item>
+    </plurals>
+    <plurals name="step_num_format">
+        <item quantity="other">%1$d krokov</item>
+        <item quantity="one">%1$d krok</item>
+        <item quantity="few">%1$d kroky</item>
+        <item quantity="many">%1$d kroku</item>
+    </plurals>
+    <plurals name="steps_format">
+        <item quantity="other">%1$d</item>
+        <item quantity="one">%1$d</item>
+        <item quantity="few">%1$d</item>
+        <item quantity="many">%1$d</item>
+    </plurals>
+    <plurals name="subtitle_add_record">
+        <item quantity="other">Nezaznamenali ste %1$d dní. Zaznamenávajte svoje menštruácia pre dostávanie presnejších odhadov.</item>
+        <item quantity="one">Nezaznamenali ste %1$d deň. Zaznamenávajte svoje menštruácie pre dostávanie presnejších odhadov.</item>
+        <item quantity="few">Nezaznamenali ste %1$d dni. Zaznamenávajte svoje menštruácie pre dostávanie presnejších odhadov.</item>
+        <item quantity="many">Nezaznamenali ste %1$d dňa. Zaznamenávajte svoje menštruácie pre dostávanie presnejších odhadov.</item>
+    </plurals>
+    <plurals name="subtitle_menstruation_continued_days">
+        <item quantity="other">Táto menštruácia celkovo trvá %1$d dní</item>
+        <item quantity="one">Táto menštruácia celkovo trvá %1$d deň</item>
+        <item quantity="few">Táto menštruácia celkovo trvá %1$d dni</item>
+        <item quantity="many">Táto menštruácia celkovo trvá %1$d dňa</item>
+    </plurals>
+    <plurals name="subtitle_menstruation_cycle_days">
+        <item quantity="other">%1$d deň tohto menštruačného cyklu</item>
+        <item quantity="one">%1$d deň tohto menštruačného cyklu</item>
+        <item quantity="few">%1$d deň tohto menštruačného cyklu</item>
+        <item quantity="many">%1$d deň tohto menštruačného cyklu</item>
+    </plurals>
+    <plurals name="sum_cycle_days">
+        <item quantity="other">%1$d-dňový cyklus</item>
+        <item quantity="one">%1$d-dňový cyklus</item>
+        <item quantity="few">%1$d-dňový cyklus</item>
+        <item quantity="many">%1$d-dňový cyklus</item>
+    </plurals>
+    <plurals name="times_format">
+        <item quantity="other">%1$d-krát</item>
+        <item quantity="one">%1$d-krát</item>
+        <item quantity="few">%1$d-krát</item>
+        <item quantity="many">%1$d-krát</item>
+    </plurals>
+    <plurals name="title_menstruation_day">
+        <item quantity="other">%1$d deň menštruácie</item>
+        <item quantity="one">%1$d deň menštruácie</item>
+        <item quantity="few">%1$d deň menštruácie</item>
+        <item quantity="many">%1$d deň menštruácie</item>
+    </plurals>
+    <plurals name="title_menstruation_margin_next_time_days">
+        <item quantity="other">%1$d dní do ďalšej menštruácie</item>
+        <item quantity="one">%1$d deň do ďalšej menštruácie</item>
+        <item quantity="few">%1$d dni do ďalšej menštruácie</item>
+        <item quantity="many">%1$d dňa do ďalšej menštruácie</item>
+    </plurals>
+    <plurals name="title_menstruation_predict_period">
+        <item quantity="other">Odhadovaný %1$d deň menštruácie</item>
+        <item quantity="one">Odhadovaný %1$d deň menštruácie</item>
+        <item quantity="few">Odhadovaný %1$d deň menštruácie</item>
+        <item quantity="many">Odhadovaný %1$d deň menštruácie</item>
+    </plurals>
+    <plurals name="unit_days">
+        <item quantity="other">" dní"</item>
+        <item quantity="one">" deň"</item>
+        <item quantity="few">" dni"</item>
+        <item quantity="many">" dňa"</item>
+    </plurals>
+    <plurals name="user_age_display_format_year">
+        <item quantity="other">%1$d rokov</item>
+        <item quantity="one">%1$d rok</item>
+        <item quantity="few">%1$d roky</item>
+        <item quantity="many">%1$d roku</item>
+    </plurals>
+</resources>
