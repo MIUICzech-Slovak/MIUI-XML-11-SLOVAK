@@ -797,4 +797,8 @@ Objekt bude ostrý na rozmazanom pozadí."</string>
   <string name="macro_mode_use_hint_text_title">Makro</string>
   <string name="pref_camera_flashmode_entry_back_soft_light">Jemné svetlo</string>
   <string name="recommend_soft_light_tip">Použite blesk v režime Jemné svetlo</string>
+     <string name="ultra_pixel_photography_close_tip">%s Ultra HD je vypnuté</string>
+     <string name="ultra_pixel_photography_open_tip">%s Ultra HD je zapnuté</string>
+     <string name="ultra_pixel_portrait_hint">Super Portrét</string>
+     <string name="ultra_pixel_zoom_no_support_tip">Zoom nefunguje v %s Ultra HD režime</string>  
 </resources>

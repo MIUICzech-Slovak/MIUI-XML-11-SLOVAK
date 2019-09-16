@@ -73,4 +73,8 @@
         <item quantity="other">SMS prijatá %1$s a %2$d ostatnými</item>
         <item quantity="one">SMS prijatá %1$s a %2$d ďalším</item>
     </plurals>	
+     <plurals name="notification_multiple">
+        <item quantity="other">"%s SMS | "</item>
+        <item quantity="one">"%s SMS | "</item>
+     </plurals>	
 </resources>
