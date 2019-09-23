@@ -333,4 +333,6 @@
   <string name="permgroupdesc_sensors">Prístup k telovým senzorom</string>
   <string name="permgroupdesc_sms">Čítať a posielať SMS</string>
   <string name="permgroupdesc_storage">Prístup k súborom</string>
+     <string name="HIPS_Perm_service_foreground">Služby na popredí</string>
+     <string name="HIPS_Perm_service_foreground_Desc">Služby bežiace na popredí</string>  
 </resources>

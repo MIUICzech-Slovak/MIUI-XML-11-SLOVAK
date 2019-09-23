@@ -256,4 +256,12 @@
   <string name="adaptive_battery_title">Adaptívna batéria</string>
   <string name="adaptive_battery_summary">Obmedziť využívanie batérie pre aplikácie ktoré nepoužívate</string>
   <string name="appconfig_active_app_dialog_title">Spravovať aktívne aplikácie</string>
+     <string name="active_classify">Zoradiť podľa aktivity</string>
+     <string name="app_preload_policies_summary">Použiť AI pre predpovedanie aplikácií ktoré najviac využívate a prednačítať ich.</string>
+     <string name="app_preload_policies_title">AI prednačítanie</string>
+     <string name="atrace_saved">Uložené</string>
+     <string name="extreme_power_settings_title">Nastavenia</string>
+     <string name="notification_exit_extreme_mode_text">Batéria má viac ako %s</string>
+     <string name="notification_exit_extreme_mode_title">Vypnuté Extrémne šetrenie batérie</string>
+     <string name="notification_open_extreme_mode_text">Povolené Extrémne šetrenie batérie</string>  
 </resources>

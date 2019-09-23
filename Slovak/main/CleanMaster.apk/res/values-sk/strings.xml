@@ -557,4 +557,19 @@
   <string name="notification_low_memory_cache_title">Vymazať cache</string>
   <string name="notification_low_memory_deepclean_summary">Hĺbkové čistenie môže uvoľniť úložisko vo vašom zariadení</string>
   <string name="notification_low_memory_deepclean_title">Dochádza voľné miesto na úložisku</string>
+       <string name="button_agree">Súhlasím</string>
+     <string name="button_deny">Nesúhlasím</string>
+     <string name="cd_scanning">skenovanie</string>
+     <string name="clean_summary">Vyčistené %1$s</string>
+     <string name="memory_clean_icon_text">RAM Jet</string>
+     <string name="memory_clean_no_trash_tip">Všetko vyzerá byť v poriadku</string>
+     <string name="onekeyclean_boost_available">%s dostupné</string>
+     <string name="onekeyclean_boost_cleaned">Vyčistené %s</string>
+     <string name="onekeyclean_boosted_title">Vyčistené</string>
+     <string name="onekeyclean_boosting_title">Zvýšenie rýchlosti</string>
+     <string name="onekeyclean_card_btn">Vyčistiť</string>
+     <string name="onekeyclean_card_summery">Vyčistite odpad</string>
+     <string name="petabyteShort">PB</string>
+     <string name="pref_about_privacy_title">Podmienky súkromia</string>
+     <string name="pref_title_create_onekeyclean_shortcut">Zobraziť odkaz na ploche</string>	 
 </resources>

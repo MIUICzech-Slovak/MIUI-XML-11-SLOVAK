@@ -39,7 +39,7 @@
   <string name="miui_terms_no_network">Žiadne internetové pripojenie. Podmienky používania nájdete na %s</string>
   <string name="multisim_settings_category">Nastavenie preferovanej SIM</string>
   <string name="multisim_settings_title">Našli sa 2 SIM karty</string>
-  <string name="navigation_picker_gesture_guide">Navod pre gestá</string>
+  <string name="navigation_picker_gesture_guide">Návod pre gestá</string>
   <string name="navigation_picker_radio_text_full_screen">Režim celej obrazovky</string>
   <string name="navigation_picker_radio_text_virtual_key">Režim tlačidiel</string>
   <string name="network_access_warning">Pre aktiváciu zariadenia sa vyžaduje internetové pripojenie</string>
@@ -47,7 +47,7 @@
   <string name="next_fingerprint">Ďalej</string>
   <string name="other_settings">Ďalšie nastavenia</string>
   <string name="other_settings_ad_enable">Prispôsobený výber reklám</string>
-  <string name="other_settings_ad_enable_summary">Prisplsobiť reklamy vášmu správaniu</string>
+  <string name="other_settings_ad_enable_summary">Prispôsobiť reklamy vášmu správaniu</string>
   <string name="other_settings_auto_update">Aktualizovať MIUI</string>
   <string name="other_settings_auto_update_summary">Nové aktualizácie MIUI stiahnite na adrese miuios.cz/rom a nainštalujete v aplikácií Aktualizácia - Menu (3 bodky)- Vybrať zip</string>
   <string name="other_settings_location">Prístup k polohe</string>
@@ -98,7 +98,13 @@ Musíte súhlasiť s našimi Podmienkami používania a Ochranu súkromia pred p
   <string name="ai_button_double_press_desc">Stlačte 2x AI tlačidlo pre vykonanie akcie</string>
   <string name="ai_button_long_press">Stlačenie a podržanie</string>
   <string name="ai_button_long_press_desc">Stlačte a podržte AI tlačidlo pre hovorenie</string>
-  <string name="ai_button_single_press">Stačenie</string>
+  <string name="ai_button_single_press">Stlačenie</string>
   <string name="ai_button_single_press_desc">Stlačte AI tlačidlo pre zobrazenie AI skratiek</string>
   <string name="ai_button_title">AI tlačidlo</string>
+     <string name="font_hint_large">Predvolená veľkosť písma</string>
+     <string name="font_hint_normal">Zväčšiť písmo</string>  
+     <string name="skip_gesture_guide_dialog_message">Uistite sa, že viete používať všetky gestá.</string>
+     <string name="skip_gesture_guide_dialog_negative_btn">Zrušiť</string>
+     <string name="skip_gesture_guide_dialog_positive_btn">OK</string>
+     <string name="skip_gesture_guide_dialog_title">Gestá celej obrazovky</string>	 
 </resources>

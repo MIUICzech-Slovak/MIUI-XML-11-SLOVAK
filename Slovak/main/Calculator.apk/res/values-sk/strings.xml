@@ -206,4 +206,16 @@
   <string name="loan_repayment_detail">" Splátok"</string>
   <string name="loan_repayment_detail_loading">Výpočet…</string>
   <string name="not_supported_due_to_language">Táto funkcia nie je podporovaná mimo Čínu</string>
+  <string name="exit">Ukončiť</string>  
+  <string name="allow">Súhlasím</string>
+  <string name="app_notification_info">Kalkulačka je spustená na pozadí</string>
+  <string name="cancel">Zrušiť</string>
+  <string name="dialog_privacy_content">Niektoré funkcie Kalkulačky vyžadujú pripojenie k sieti. Používaním tejto aplikácie súhlasíte s našimi Podmienkami používania a Ochranou súkromia.</string>
+  <string name="dialog_privacy_title">Podmienky používania</string>
+  <string name="devided_by_zero_reminder_message">Nie je možné deliť nulou</string>
+  <string name="hint_floatwindow_alpha_guide_text">Dotykom upravíte priehľadnosť</string>
+  <string name="btn_float_window_close">Zatvoriť kalkulačku</string>
+  <string name="btn_float_window_resize">Zmeniť veľkosť</string>
+  <string name="float_window_guide_text">Prepnúť do okna</string>
+  <string name="view_float_window_move">Presunúť okno</string>
 </resources>

@@ -46,4 +46,25 @@
   <string name="unbind_device_alert_ok">OK</string>
   <string name="unbind_device_alert_title">Odpojiť zariadenie</string>
   <string name="fast_connect_headset_reset">Stlačte a podržte tlačidlo na krabičke %1$ds</string>
+    <string name="copy">Kopírovať</string>
+     <string name="expand_button_title">Rozšírené</string>
+     <string name="fast_connect_device_box">Box</string>
+     <string name="fast_connect_device_box_name">%1$s Box</string>
+     <string name="fast_connect_device_connect_cancel">Zrušiť</string>
+     <string name="fast_connect_device_connect_ok">Pripojiť</string>
+     <string name="fast_connect_device_connect_retry">Znova</string>
+     <string name="fast_connect_device_connect_setup">Nastavenia</string>
+     <string name="fast_connect_device_connect_success">Hotovo</string>
+     <string name="fast_connect_device_headset_l">Ľavý</string>
+     <string name="fast_connect_device_headset_r">Pravý</string>
+     <string name="fast_connect_device_headset_reset">Stlačte a podržte tlačidlo na boxe</string>
+     <string name="fast_connect_device_title_connect_fail">Nebolo možné pripojiť %1$s</string>
+     <string name="fast_connect_device_title_connecting">Pripájanie...</string>
+     <string name="fast_connect_device_title_find_headset">Nájsť slúchadlá %1$s</string>
+     <string name="fast_connect_device_title_find_headset_others">Nájdené iné slúchadlá %1$s</string>
+     <string name="not_set">Nenastavené</string>
+     <string name="preference_copied">\"%1$s\" skopírované.</string>
+     <string name="search_menu_title">Vyhľadať</string>
+     <string name="v7_preference_off">VYP</string>
+     <string name="v7_preference_on">ZAP</string>  
 </resources>

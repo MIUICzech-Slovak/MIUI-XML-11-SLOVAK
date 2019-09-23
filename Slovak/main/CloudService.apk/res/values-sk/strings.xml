@@ -729,5 +729,7 @@ Odoslané ID vášho zariadenia na server Mi bude šifrované."</string>
   <string name="storage_manage_list_title_action">Zobraziť viac</string>
   <string name="storage_manage_renewal">Obnoviť</string>
   <string name="storage_manage_upgrade">Navýšiť</string>  
-  
+  <string name="micloud_find_device_sms_alert">Ak zmeníte vašu SIM kartu, automaticky sa odošle SMS pre aktiváciu tejto funkcie.</string>
+  <string name="micloud_manaul_sync_success_time_prefix">Posledná synchr.: %s</string>
+  <string name="storage_manage_title">Zmeniť predplatné cloud úložiska</string>
 </resources>

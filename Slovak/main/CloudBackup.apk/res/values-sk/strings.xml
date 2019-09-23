@@ -244,4 +244,6 @@ Poznámka: Nastavenie doinštalovaných aplikácií nebude zálohované na MiClo
   <string name="restore_failed_reason_network_error">Chyba siete. Skúste to znova neskôr.</string>
   <string name="restore_task_unfinished">Nebolo možné obnoviť</string>
   <string name="restoring_data">Obnovenie dát...</string>
+     <string name="provision_background_restore_more_data">Obnovenie viac položiek na pozadí</string>
+     <string name="provision_restore_data">Obnovenie položiek</string>  
 </resources>

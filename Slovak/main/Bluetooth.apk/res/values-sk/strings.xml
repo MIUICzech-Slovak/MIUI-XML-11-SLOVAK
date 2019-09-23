@@ -192,4 +192,9 @@
   <string name="upload_succ_line5">Súbor bol odoslaný</string>
   <string name="upload_succ_ok">OK</string>
   <string name="upload_success">%1$s Odosielanie dokončené.</string>
+     <string name="status_no_sd_card_default">Žiadna SD karta. Vložte SD kartu pre uloženie súborov.</string>
+     <string name="status_no_sd_card_nosdcard">Žiadne USB úložisko.</string>
+     <string name="bt_sm_2_1_default">Nie je dostatok voľného miesta na SD karte pre uloženie súboru od \"%1$s\"</string>
+     <string name="bt_sm_2_1_nosdcard">Nie je dostatok voľného miesta na USB úložisku pre uloženie súboru od \"%1$s\"</string>
+     <string name="bluetooth_a2dp_sink_queue_name">Prehráva sa</string>	 
 </resources>

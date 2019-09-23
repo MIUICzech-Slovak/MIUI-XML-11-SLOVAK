@@ -2037,4 +2037,18 @@ pre dlhý screenshot"</string>
   <string name="qs_open_night_mode_alert_summary">Súčasné nastavenia displeja nie sú kompatibilné s Tmavým režimom. Po vypnutí Tmavého režimu budú obnovené.</string>
   <string name="quick_settings_nightmode_label">Tmavý režim</string>
   <string name="description_image_button_bubble_answer">Reproduktor</string>
+     <string name="bubble_content_description_single">%1$s od %2$s</string>
+     <string name="bubble_content_description_stack">%1$s od %2$s a %3$d viac</string>
+     <string name="bubble_dismiss_text">Zrušiť</string>
+     <string name="bubbles_deep_link_button_description">Otvoriť %1$s</string>
+     <string name="bubbles_prompt">Povoliť bubliny z %1$s?</string>
+     <string name="bubbles_settings_button_description">Nastavenia pre bubliny %1$s</string>  
+     <string name="connected_via_app">Pripojené cez %1$s</string>
+     <string name="copy">Kopírovať</string>
+     <string name="data_saver_description">Šetrenie dát obmedzí aktivitu aplikácií na pozadí. Môže ovplyvniť upozornenia z aplikácií.</string>
+     <string name="data_saver_enable_button">Povoliť</string>
+     <string name="data_saver_enable_title">Povoliť šetrenie dát?</string>
+     <string name="yes_bubbles">Povoliť</string>
+     <string name="no_bubbles">Odmietnuť</string>
+	 
 </resources>
