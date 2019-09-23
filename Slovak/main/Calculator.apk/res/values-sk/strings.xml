@@ -210,7 +210,7 @@
   <string name="allow">Súhlasím</string>
   <string name="app_notification_info">Kalkulačka je spustená na pozadí</string>
   <string name="cancel">Zrušiť</string>
-  <string name="dialog_privacy_content">Niektoré funkcie Kalkulačky vyžadujú pripojenie k sieti. Používaním tejto aplikácie súhlasíte s našimi Podmienkami používania a Ochranou súkromia.</string>
+  <string name="dialog_privacy_content">Niektoré funkcie Kalkulačky vyžadujú pripojenie k sieti. Používaním tejto aplikácie súhlasíte s našimi %1$s a %2$s.</string>
   <string name="dialog_privacy_title">Podmienky používania</string>
   <string name="devided_by_zero_reminder_message">Nie je možné deliť nulou</string>
   <string name="hint_floatwindow_alpha_guide_text">Dotykom upravíte priehľadnosť</string>
