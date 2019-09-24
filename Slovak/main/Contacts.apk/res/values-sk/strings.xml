@@ -1330,4 +1330,6 @@ Zvoľte jednu z nasledujúcich možností:</string>
   <string name="contact_is_deleted">Kontakt bol vymazaný</string>
   <string name="shortcut_new_contact_label">Nový kontakt</string>
   <string name="shortcut_scan_label">Načítať vizitku</string>  
+     <string name="callrecordview_menu_identify_numbers">Rozpoznať telefónne čísla</string>
+     <string name="contact_detail_more_calllog">Zobraziť viac</string>  
 </resources>

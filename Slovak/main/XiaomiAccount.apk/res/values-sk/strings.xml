@@ -595,4 +595,6 @@ Uistite sa, že nezabudnete odpovede na otázky."</string>
   <string name="system_ad_summary">Povolením tejto funkcie sa budú zobrazovať reklamy v systémovych aplikáciach!</string>
   <string name="system_ad_switch">Reklamy v systémových aplikáciach</string>
   <string name="system_ad_switch_failed">zlyhalo</string>
+     <string name="passport_ticket_login_select_sim_card">Vyberte SIM kartu</string>
+     <string name="passport_ticket_login_select_sim_card_cancel">Zrušiť</string>  
 </resources>

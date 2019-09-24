@@ -23,7 +23,7 @@
   <string name="delete_confirm_text">Vymazať túto nahrávku?</string>
   <string name="delete_confirm_text_multi1">Vymazať</string>
   <string name="delete_confirm_text_multi2">nahrávky?</string>
-  <string name="description_content">Screen recording provides system-level recording capabilities. This action means that you will discard the screen recording feature. Confirm Continue.</string>
+  <string name="description_content">Touto akciou deaktivujte funkciu nahrávanie obrazovky.</string>
   <string name="description_title">Čo je Nahrávanie plochy</string>
   <string name="deselect_all">Odznačiť</string>
   <string name="error_open_file_failed_no_app_found">Nebolo možné otvoriť tento súbor</string>
@@ -92,4 +92,7 @@
   <string name="warning_recording_when_a2dp_connect">Vaše zariadenie nepodporuje nahrávanie systémových zvukov ak je pripojené Bluetooth handsfree.</string>
   <string name="permission_intro_microphone">Pre nahrávanie zvuku ak je zvolený vstup z mikrofónu</string>
   <string name="permission_intro_storage">Pre ukladanie nahrávok</string>  
+     <string name="permission_microphone_desc">Používanie mikrofónu ako zdroj zvuku</string>
+     <string name="settings_other">Ostatné</string>
+     <string name="settings_privacy">Ochrana súkromia</string>  
 </resources>

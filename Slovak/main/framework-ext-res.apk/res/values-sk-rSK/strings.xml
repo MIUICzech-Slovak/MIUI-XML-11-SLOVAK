@@ -242,4 +242,5 @@
   <string name="wireless_charging_notification_message3">Nastala chyba počas nabíjania. Reverzné bezdrôtové nabíjanie je deaktivované.</string>
   <string name="wireless_charging_notification_titile">Reverzné bezdrôtové nabíjanie je deaktivované</string>
   <string name="can_not_transfer_when_screening">Nie je možné vysielať počas prenosu súborov</string>
+  <string name="flip_screen_camera_tip">Pre používanie fotoparátu otočte zariadenie</string>
 </resources>

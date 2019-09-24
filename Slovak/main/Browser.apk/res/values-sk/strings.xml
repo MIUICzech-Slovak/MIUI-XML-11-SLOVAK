@@ -1139,4 +1139,10 @@ Chcete opustiť túto web stránku?"</string>
   <string name="mw_miuichromium_error_page_unknown_error">Ups... niečo sa pokazilo...</string>
   <string name="mw_miuichromium_error_page_wlan">Povoliť Wi-Fi</string>
   <string name="data_traffic_download_confirm">Stiahnuť cez mobilné dáta</string>
+     <string name="no_memory_space">nie je voľné miesto na úložisku</string>
+     <string name="system_permission_accounts_purpose">Pre prihlásenie k účtu</string>
+     <string name="system_permission_main_purpose">Prehliadať webové stránky, atď.</string>
+     <string name="system_permission_phone_state_purpose">Pre načítanie IMEI</string>
+     <string name="system_permission_storage_purpose">Pre ukladanie súborov na úložisko</string>
+     <string name="system_permission_user_agreement_url">http://www.miui.com/res/doc/eula/sk.html</string>
 </resources>

@@ -257,4 +257,7 @@
   <string name="supp_service_notification_call_waiting">Na volanom čísle prebieha hovor...</string>
   <string name="call_not_support_high_frequency_click">Stláčajte tlačidlo pomalšie</string>
   <string name="incall_bubble_hangup_click_hint">Dotknite sa znova pre návrat k hovoru</string>
+     <string name="incoming_circle_text_video_answer">Pustite pre prijatie videohovoru</string>
+     <string name="incoming_circle_text_video_answer_p">Potiahnite nahor pre prijatie videohovoru</string>
+     <string name="manager_conference_done">Hotovo</string>  
 </resources>

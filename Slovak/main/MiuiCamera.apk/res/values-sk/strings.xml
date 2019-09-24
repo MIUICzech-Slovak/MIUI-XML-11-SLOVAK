@@ -801,4 +801,5 @@ Objekt bude ostrý na rozmazanom pozadí."</string>
      <string name="ultra_pixel_photography_open_tip">%s Ultra HD je zapnuté</string>
      <string name="ultra_pixel_portrait_hint">Super Portrét</string>
      <string name="ultra_pixel_zoom_no_support_tip">Zoom nefunguje v %s Ultra HD režime</string>  
+     <string name="confirm_reset_manually_parameter_message">Obnoviť všetky nastavenia fotoaparátu?</string>
 </resources>

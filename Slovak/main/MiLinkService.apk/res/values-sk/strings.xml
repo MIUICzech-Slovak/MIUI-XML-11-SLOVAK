@@ -46,4 +46,8 @@ Pre viac informácií si prečítajte Pomoc.</string>
   <string name="toast_msg_for_multi_window">Táto funkcia nie je dostupná pri rozdelenej obrazovke</string>
   <string name="toast_msg_for_small_window">Po otvorení aplikácie ktorú chcete vysielať na TV, použite malé okno pre vysielanie.</string>
   <string name="toast_title_for_small_window">Použite malé okno pre vysielanie.</string>
+     <string name="san_wait_msg_1">Cieľové zariadenie potrebuje spustiť screencast</string>
+     <string name="san_wait_msg_2">Vyhľadávanie zariadenia môže chvíľku trvať...</string>
+     <string name="san_wait_msg_3">Zariadenie sa ľahšie vyhľadávajú ak sú pripojené na rovnakú Wi-Fi sieť</string>
+     <string name="san_wait_msg_4">Stlačte \"Pomoc\" ak nemôžete nájsť zariadenie</string>  
 </resources>

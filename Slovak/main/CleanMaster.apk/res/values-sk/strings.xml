@@ -557,7 +557,7 @@
   <string name="notification_low_memory_cache_title">Vymazať cache</string>
   <string name="notification_low_memory_deepclean_summary">Hĺbkové čistenie môže uvoľniť úložisko vo vašom zariadení</string>
   <string name="notification_low_memory_deepclean_title">Dochádza voľné miesto na úložisku</string>
-       <string name="button_agree">Súhlasím</string>
+     <string name="button_agree">Súhlasím</string>
      <string name="button_deny">Nesúhlasím</string>
      <string name="cd_scanning">skenovanie</string>
      <string name="clean_summary">Vyčistené %1$s</string>
@@ -572,4 +572,7 @@
      <string name="petabyteShort">PB</string>
      <string name="pref_about_privacy_title">Podmienky súkromia</string>
      <string name="pref_title_create_onekeyclean_shortcut">Zobraziť odkaz na ploche</string>	 
+     <string name="appcleaner_g_day_earlier">Skôr</string>
+     <string name="appcleaner_g_seven_day">Posledných 7 dní</string>
+     <string name="appcleaner_g_thirty_day">Posledných 30 dní</string>	 
 </resources>

@@ -335,4 +335,16 @@
   <string name="permgroupdesc_storage">Prístup k súborom</string>
      <string name="HIPS_Perm_service_foreground">Služby na popredí</string>
      <string name="HIPS_Perm_service_foreground_Desc">Služby bežiace na popredí</string>  
+     <string name="HIPS_Perm_PhoneID_Desc_Q">Prístup k IMSI a telefónnemu číslu</string>
+     <string name="permdesc_camera">Zhotoviť fotografie a videá</string>
+     <string name="permdesc_in_calls">Sledovať prichádzajúce hovory</string>
+     <string name="permdesc_location">Prístup k polohe</string>
+     <string name="permdesc_microphone">Nahrávať hovory a zvuk</string>
+     <string name="permdesc_out_calls">Sledovať odchádzajúce hovory</string>
+     <string name="permdesc_read_calendar">Prístup k udalostiam v kalendári</string>
+     <string name="permdesc_read_storage">Prístup k fotografiám a súborom na úložisku</string>
+     <string name="permdesc_recognition">Prístup k aktivitám</string>
+     <string name="permdesc_sensors">Prístup k senzorom</string>
+     <string name="permdesc_write_calendar">Prístup k udalostiam v kalendári</string>
+     <string name="permdesc_write_storage">Prístup k ukladaniu fotografií a videa</string>	 
 </resources>

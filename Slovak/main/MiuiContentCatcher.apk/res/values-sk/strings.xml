@@ -30,4 +30,5 @@
     <string name="using_miui_autofill_message">Pre zadanie hesiel automaticky, MIUI uloží informácie o vašom účte a heslo do vášho zariadenia.</string>
     <string name="settings_clear_data_confirmation_description">"Ak teraz vymažete heslo, budete ho musieť pri prihlasovaní vložiť manuálne.
 Vymazať heslo?</string>	
+     <string name="auth_fingerprint_content_message_error">Nebolo možné načítať odtlačok prsta, skúste to znova.</string>
 </resources>

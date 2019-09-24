@@ -2050,5 +2050,7 @@ pre dlhý screenshot"</string>
      <string name="data_saver_enable_title">Povoliť šetrenie dát?</string>
      <string name="yes_bubbles">Povoliť</string>
      <string name="no_bubbles">Odmietnuť</string>
-	 
+     <string name="face_data_apply_for_category_title">Odomknúť pomocou tváre</string>
+     <string name="face_data_apply_for_keyguard_title">Zámok obrazovky</string>
+     <string name="face_unlock_category_title">Nastavenie zámknu obrazovky</string>	 
 </resources>

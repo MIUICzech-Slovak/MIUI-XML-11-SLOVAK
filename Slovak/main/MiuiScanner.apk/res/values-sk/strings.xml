@@ -201,4 +201,6 @@
   <string name="setting_use_last_choose">Pamätať predchádzajúce nastavenie</string>
   <string name="business_card_with_qr_code">Zamerajte vizitku alebo QR do rámčeka</string>
   <string name="module_title_business_card">Vizitka</string>
+     <string name="close_hotspot_when_connecting_to_wifi">Hotspot je zapnutý. Zapnite Wi-Fi.</string>
+     <string name="setting_function_sort">Upraviť funkcie</string>  
 </resources>
