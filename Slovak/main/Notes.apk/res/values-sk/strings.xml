@@ -346,4 +346,13 @@ Povoľte aplikácií Poznámky prístup k mikrofónu."</string>
   <string name="todo_menu_cancel">Zrušiť</string>
   <string name="todo_user_guide_fw_pop">Pridať odkaz na plochu</string>
   <string name="todo_user_guide_tip5">Nikdy nepremeškajte nič dôležité!</string>
+     <string name="confirm_cancel">Nesúhlasím</string>
+     <string name="confirm_ok">Súhlasím</string>
+     <string name="permission_get_account_desc">Synchronizácia poznámok</string>
+     <string name="permission_microphone_desc">Nahrávať hlasové poznámky</string>
+     <string name="permission_network_for_cloud_desc">Vyžaduje sa pripojenie k sieti pre synchronizáciu poznámok s Mi cloudom. Pripojiť sa teraz?</string>
+     <string name="permission_read_contact_desc">Pre spárovanie poznámok s kontaktom</string>
+     <string name="pref_remind_type_summary">Prehrať hlasové poznámky v režime Nerušiť</string>
+     <string name="pref_remind_type_title">Ignorovať režim Nerušiť</string>
+     <string name="remind_title">Pripomienky</string>  
 </resources>

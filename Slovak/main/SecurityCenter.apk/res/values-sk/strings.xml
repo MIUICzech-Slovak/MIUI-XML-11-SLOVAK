@@ -3330,4 +3330,16 @@ Rešpektujeme a chránime vaše súkromie."</string>
   <string name="system_tool_sos">Núdzové SOS</string>  
   <string name="cta_main_purpose">Vitajte v aplikácií Optimalizácia! Môžete tu vymazať odpad z vášho zariadenia, skontrolovať vírusy, ušetriť spotrebu energie a mnoho ďalších užitočných funkcií.</string>  
   <string name="cta_HIPS_Perm_Location_Desc">získať presnú polohu (GPS)</string>
+     <string name="permgroupdesc_calendar">Prístup k udalostiam v kalendári</string>
+     <string name="permgroupdesc_calllog">Prístup a ukladanie histórie volaní</string>
+     <string name="permgroupdesc_camera">Zhotoviť fotografie a videá</string>
+     <string name="permgroupdesc_contacts">Prístup ku kontaktom</string>
+     <string name="permgroupdesc_location">Prístup k polohe</string>
+     <string name="permgroupdesc_microphone">Nahrávať zvuk</string>
+     <string name="permgroupdesc_phone">Uskutočniť hovory</string>
+     <string name="permgroupdesc_recognition">Prístup k aktivitám</string>
+     <string name="permgroupdesc_sensors">Prístup k senzorom</string>
+     <string name="permgroupdesc_sms">Prístup k SMS</string>
+     <string name="permgroupdesc_storage">Prístup k súborom v zariadení</string>
+     <string name="superpower_notification_new_title">Ostáva menej ako %d%% batérie</string>  
 </resources>

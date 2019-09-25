@@ -847,7 +847,36 @@ Pokus: %s."</string>
      <string name="url_fraud_visit">Aj tak otvoriť</string>
      <string name="user_agreement">Podmienky používania</string>
      <string name="you_have_new_message">Máte nové správy</string>
-     <string name="zero_sms_feedback_message">Nahlásene správy sú odoslané na náš server pre ďalšiu analýzu.</string>
+     <string name="zero_sms_feedback_message">Nahlásené správy sú odoslané na náš server pre ďalšiu analýzu.</string>
      <string name="zero_sms_feedback_success">Nahlásené</string>
      <string name="zero_sms_feedback_title">Nahlásiť</string>  
+     <string name="mi_message_title">Cloudové Správy</string>
+     <string name="mms_main_purpose">Pre prístup k všetkým funkciám Správ, povoľte prístup k internetu.</string>
+     <string name="mms_title">Správy</string>
+     <string name="mx_main_purpose">Cloudové správy umožňujú odosielať SMS iným MIUI používateľom.
+Pre aktiváciu tejto služby bude odoslaná bežná SMS."</string>
+     <string name="mx_privacy_policy">Ochrana súkromia Cloudových Správ</string>
+     <string name="perm_purpose_mms_account">Pre prístup k Mi účtu</string>
+     <string name="perm_purpose_mms_storage">Pre ukladanie príloh</string>
+     <string name="perm_purpose_rcs_account">Pre zobrazenie návodov</string>
+     <string name="perm_purpose_rcs_phone_state">Pre spracovávanie vášho IMEI</string>
+     <string name="perm_purpose_rcs_storage">Pre ukladanie obrázkov a súborov</string>
+     <string name="smart_message_title">Inteligentné správy</string>
+     <string name="smart_msg_main_purpose">Inteligentné správy poskytujú rozpoznávanie čísla odosielateľa.</string>
+     <string name="smart_msg_privacy_policy">Ochrana súkromia</string>
+     <string name="system_permission_declare_agree">Súhlasím</string>
+     <string name="system_permission_declare_disagree">Nesúhlasím</string>
+     <string name="system_permission_declare_double_link" formatted="false">Prečítajte si a odsúhlaste naše %1s a %2s.</string>
+     <string name="system_permission_declare_main_purpose" formatted="false">Vitajte v %1s! %2s</string>
+     <string name="system_permission_declare_no_say_no">Bez týchto povolení aplikácie nebude fungovať správne.</string>
+     <string name="system_permission_declare_privacy_declare">"Rešpektujeme a chránime vaše súkromie.
+%1s vyžaduje tieto povolenia pre správne fungovanie:"</string>
+     <string name="system_permission_declare_revoke_path">Autorizáciu môžete zamietnuť v nastaveniach SMS.</string>
+     <string name="system_permission_declare_single_link">Prečítajte si a odsúhlaste naše %1s.</string>
+     <string name="system_permission_declare_triple_link" formatted="false">Prečítajte si a odsúhlaste naše %1s, %2s, a %3s.</string>
+     <string name="system_permission_declare_use_network">Pripojenie k sieti</string>
+     <string name="system_permission_perm_answer_call">Uskutočniť hovory</string>
+     <string name="system_permission_perm_read_mms">Čítať MMS</string>
+     <string name="system_permission_perm_read_numbers">Čítať telefónne čísla</string>
+     <string name="system_permission_perm_send_mms">Odoslať MMS</string>	 
 </resources>

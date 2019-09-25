@@ -44,7 +44,7 @@
   <string name="day_concat">", "</string>
   <string name="days">%d dní</string>
   <string name="default_alarm_alert">Predvolený štýl budíka</string>
-  <string name="default_alarm_title">Predvolené zvonenie</string>
+  <string name="default_alarm_title">Predvolené</string>
   <string name="default_label">Budík</string>
   <string name="delete">Vymazať</string>
   <string name="delete_alarm">Vymazať budík</string>
@@ -288,8 +288,8 @@
   <string name="network_privacy_global">Aplikácia Hodiny vyžaduje pripojenie na internet. Pred používaním tejto aplikácie musíte súhlasiť s našimi Podmienkami používania a Ochranou súkromia. Súhlasíte?</string>
   <string name="privacy_policy_title">Ochrana súkromia</string>
   <string name="ringtone_other">Viac zvonení</string>
-  <string name="ringtone_weather">Zvonenia pre počasie budíka</string>
-  <string name="ringtone_week">Zvonenia pre týždenný budík</string>
+  <string name="ringtone_weather">Podľa počasia</string>
+  <string name="ringtone_week">Dni v týždni</string>
   <string name="setting_alarm_arriving_subtitle">Zobraziť upozornenie pred ukončením budíka</string>
   <string name="shutdown_alarm_alert_enable_summary">Budík vypnutia bude spustený aspoň 10 minút po vypnutí zariadenia</string>
   <string name="shutdown_alarm_alert_title">Budík vypnutia</string>
@@ -305,4 +305,11 @@
   <string name="ringtone_firefly">Fireflies</string>
   <string name="set_alarm_choose_ringtone">Vybrať zvonenie</string>
   <string name="set_alarm_other">Iné</string>
+     <string name="dialog_legal_off_day">Táto funkcia vyžaduje pripojenie k sieti. Pred jej použitím musíte súhlasiť s našími Podmienkami používania a ochranou súkromia.</string>
+     <string name="dialog_legal_off_day_desc">Aplikácia Hodiny nemá povolený prístup k sieti.</string>
+     <string name="dialog_legal_workday">Táto funkcia vyžaduje pripojenie k sieti. Pred jej použitím musíte súhlasiť s našími Podmienkami používania a ochranou súkromia.</string>
+     <string name="dialog_legal_workday_and_off_day">Táto funkcia vyžaduje pripojenie k sieti. Pred jej použitím musíte súhlasiť s našími Podmienkami používania a ochranou súkromia.</string>
+     <string name="dialog_legal_workday_and_off_day_desc">Aplikácia Hodiny nemá povolený prístup k sieti.</string>
+     <string name="dialog_legal_workday_desc">Aplikácia Hodiny nemá povolený prístup k sieti.</string>
+     <string name="dialog_net_permission_in_repeat_type">Táto funkcia vyžaduje pripojenie k sieti. Pred jej použitím musíte súhlasiť s našími Podmienkami používania a ochranou súkromia.</string>  
 </resources>
