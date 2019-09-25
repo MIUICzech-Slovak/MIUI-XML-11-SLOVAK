@@ -347,18 +347,4 @@
      <string name="permdesc_sensors">Prístup k senzorom</string>
      <string name="permdesc_write_calendar">Prístup k udalostiam v kalendári</string>
      <string name="permdesc_write_storage">Prístup k ukladaniu fotografií a videa</string>	
-     <string name="HIPS_Perm_PhoneID_Desc_Q">Přístup k IMSI a telefonnímu číslu</string>
-     <string name="HIPS_Perm_service_foreground">Služby na popředí</string>
-     <string name="HIPS_Perm_service_foreground_Desc">Služby běžící na popředí</string>
-     <string name="permdesc_camera">Zhotovit fotografie a videa</string>
-     <string name="permdesc_in_calls">Sledovat příchozí hovory</string>
-     <string name="permdesc_location">Přístup k poloze</string>
-     <string name="permdesc_microphone">Nahrávat hovory a zvuk</string>
-     <string name="permdesc_out_calls">Sledovat odchozí hovory</string>
-     <string name="permdesc_read_calendar">Přístup k událostem v kalendáři</string>
-     <string name="permdesc_read_storage">Přístup k fotografiím a souborům na úložišti</string>
-     <string name="permdesc_recognition">Přístup k aktivitám</string>
-     <string name="permdesc_sensors">Přístup k senzorům</string>
-     <string name="permdesc_write_calendar">Přístup k událostem v kalendáři</string>
-     <string name="permdesc_write_storage">Přístup k ukládání fotografií a videí</string> 
 </resources>
