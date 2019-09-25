@@ -56,4 +56,20 @@
      <string name="text_size">Veľkosť textu</string>
   <string name="notification_screen_on">Rozsvietiť displej</string>
   <string name="notification_nothing">Žiadne</string>
+     <string name="aod_style">Téma</string>
+     <string name="apply_succeed">Nastavené</string>
+     <string name="chosen_picture">Vyberte pozadie</string>
+     <string name="digital_clock">Digitálne</string>
+     <string name="letter_space">Medzery medzi písmenami</string>
+     <string name="line_space">Veľkosť riadku</string>
+     <string name="notification_anim_pulse">Pulzovať</string>
+     <string name="notification_anim_rhythm">Rytmus</string>
+     <string name="notification_anim_star">Hviezda</string>
+     <string name="panel_clock">Analógové</string>
+     <string name="select_notification_notify_style">Vyberte efekt upozornení</string>
+     <string name="show_battery">Zobraziť stav batérie</string>
+     <string name="show_notificaton">Zobraziť upozornenia</string>
+     <string name="standard_clock_panel">Štandardné</string>
+     <string name="time_style">Štýl</string>
+     <string name="time_style_layout">Rozloženie</string>
 </resources>
