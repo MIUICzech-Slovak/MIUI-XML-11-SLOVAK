@@ -10,6 +10,7 @@
   <string name="armed_forces_day"/>
   <string name="autumn_begins"/>
   <string name="autumn_equinox"/>
+  <string name="birdcicada_preview">Zvuky prírody 2</string>
   <string name="childrens_day"/>
   <string name="chinese_youth_day"/>
   <string name="christmas_day"/>
@@ -111,6 +112,7 @@
   <string name="united_nations_day"/>
   <string name="valentines_day"/>
   <string name="vernal_equinox"/>
+  <string name="waterdrop_preview">Zvuky prírody 1</string>
   <string name="white_dews"/>
   <string name="winter_begins"/>
   <string name="winter_solstice"/>
@@ -119,6 +121,4 @@
   <string name="yellow_page_sms_send_failed">Odosielanie SMS správy zlyhalo.</string>
   <string name="yellow_page_sms_sending">Odosielanie...</string>
   <string name="yellow_page_unable_send_sms">Nie je možné odoslať SMS správu.</string>
-  <string name="birdcicada_preview">Zvuky prírody 2</string>
-  <string name="waterdrop_preview">Zvuky prírody 1</string>
 </resources>

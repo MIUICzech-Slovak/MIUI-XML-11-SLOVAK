@@ -14,6 +14,7 @@
   <string name="afternoon">PM</string>
   <string name="am">AM</string>
   <string name="birthday">Narodeniny</string>
+  <string name="cancel_description">Zrušiť</string>
   <string name="check_phone_error_title">Synchr. nie je povolená</string>
   <string name="check_phone_io_error">Chyba siete.</string>
   <string name="chinese_day_1"/>
@@ -87,6 +88,7 @@
   <string name="chinese_symbol_animals_snake"/>
   <string name="chinese_symbol_animals_tiger"/>
   <string name="close">Zatvoriť</string>
+  <string name="confirm_description">Potvrdiť</string>
   <string name="copyright">Autorské práva</string>
   <string name="date_picker_dialog_title">Dátum</string>
   <string name="date_picker_label_day"/>
@@ -94,7 +96,9 @@
   <string name="date_picker_label_year"/>
   <string name="date_time_done">Hotovo</string>
   <string name="date_time_picker_dialog_title">Nastavte dátum a čas</string>
+  <string name="delete_description">Vymazať</string>
   <string name="deselect_all">Odznačiť všetko</string>
+  <string name="deselect_all_description">Odznačiť</string>
   <string name="early_morning">AM</string>
   <string name="eras_ad">AD</string>
   <string name="eras_bc">BC</string>
@@ -183,9 +187,11 @@
   <string name="saturday">Sobota</string>
   <string name="saturday_short">Sob</string>
   <string name="saturday_shortest">S</string>
+  <string name="search_action_mode_cancel">Zrušiť</string>
   <string name="search_input_description">Vyhľadať</string>
   <string name="search_mode_button_back_description">späť</string>
   <string name="select_all">Všetko</string>
+  <string name="select_all_description">Všetko</string>
   <string name="select_item">Odznačiť všetko</string>
   <string name="send">Odoslať</string>
   <string name="send_sms_for_sync_notice">Aktivačná SMS bude odoslaná automaticky (účtuje sa bežná cena).</string>
@@ -293,10 +299,4 @@
   <string name="wednesday_short">Str</string>
   <string name="wednesday_shortest">S</string>
   <string name="yesterday">Včera</string>
-  <string name="cancel_description">Zrušiť</string>
-  <string name="confirm_description">Potvrdiť</string>
-  <string name="delete_description">Vymazať</string>
-  <string name="deselect_all_description">Odznačiť</string>
-  <string name="select_all_description">Všetko</string>
-  <string name="search_action_mode_cancel">Zrušiť</string>
 </resources>

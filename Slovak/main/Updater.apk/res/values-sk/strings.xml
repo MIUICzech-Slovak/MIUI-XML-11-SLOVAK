@@ -7,20 +7,25 @@
   <string name="btn_download">Stiahnuť novú verziu (%1$s)</string>
   <string name="btn_error">Nastala chyba, stiahnuť znova?</string>
   <string name="btn_install">Skontr. MD5 a inštalovať</string>
-  <string name="btn_wrong_md5">Chyba MD5, stlačte pre vymazanie ZIP!</string>
   <string name="btn_no">Zrušiť</string>
   <string name="btn_ok">OK</string>
   <string name="btn_pause">Zastaviť</string>
   <string name="btn_share">Zdieľať</string>
   <string name="btn_stop">Ukončiť</string>
+  <string name="btn_wrong_md5">Chyba MD5, stlačte pre vymazanie ZIP!</string>
   <string name="btn_yes">Áno</string>
+  <string name="channel_downloading">Priebeh sťahovania</string>
+  <string name="channel_update">Dostupná nová verzia MIUI</string>
   <string name="check_new_version">Skontrolovať</string>
+  <string name="default_filedownloader_notification_content">Prebieha sťahovanie aktualizácie...</string>
+  <string name="default_filedownloader_notification_title">Nová verzia MIUI</string>
   <string name="dialog_3g_desc">Sťahovanie novej verzie MIUI cez mobilné dáta môže navýšiť vaše mesačné poplatky. Odporúča sa pripojiť na Wi-Fi.</string>
   <string name="dialog_3g_title">Upozornenie!</string>
   <string name="dialog_btn_3g">Pokračovať</string>
   <string name="dialog_btn_wifi">Prepnúť na Wi-Fi</string>
   <string name="dialog_stop_desc">Ste si istý, že chcete ukončiť sťahovanie?</string>
   <string name="dialog_stop_title">Zastaviť sťahovanie?</string>
+  <string name="dialog_twrp">Vaše interné úložisko je zašifrované. Po reštarte do TWRP, zadajte vaše heslo na odomknutie zariadenia pre dešifrovanie úložiska.</string>
   <string name="download_done">Stiahnuté!</string>
   <string name="download_fail">Nastala chyba počas sťahovania!</string>
   <string name="download_fail_desc">MD5 Sum nie je zhodné...</string>
@@ -59,9 +64,4 @@ Vaše dáta nebudú vymazané."</string>
   <string name="version">Nainštalovaná verzia</string>
   <string name="weekly">Týždenná</string>
   <string name="wifi_recommended">Pripojte sa na Wi-fi sieť pre stiahnutie aktualizácie!</string>
-  <string name="channel_downloading">Priebeh sťahovania</string>
-  <string name="channel_update">Dostupná nová verzia MIUI</string>
-  <string name="dialog_twrp">Vaše interné úložisko je zašifrované. Po reštarte do TWRP, zadajte vaše heslo na odomknutie zariadenia pre dešifrovanie úložiska.</string>
-  <string name="default_filedownloader_notification_content">Prebieha sťahovanie aktualizácie...</string>
-  <string name="default_filedownloader_notification_title">Nová verzia MIUI</string>  
 </resources>

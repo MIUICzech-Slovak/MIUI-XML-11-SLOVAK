@@ -27,6 +27,8 @@
   <string name="description_title">Čo je Nahrávanie plochy</string>
   <string name="deselect_all">Odznačiť</string>
   <string name="error_open_file_failed_no_app_found">Nebolo možné otvoriť tento súbor</string>
+  <string name="first_using_mic_dialog_message">Nahrávanie vyžaduje prístup k mikrofónu. Chcete povoliť prístup?</string>
+  <string name="first_using_mic_dialog_title">Vyžadujú sa povolenia</string>
   <string name="fixed_frame_rate">Fixná snímkovacia frekvencia</string>
   <string name="fixed_frame_rate_summary">Nahrávanie s fixnou snímkovacou frekvenciou vylepšuje kvalitu nahrávky.</string>
   <string name="frames">Počet snímkov</string>
@@ -58,6 +60,9 @@
   <string name="no_sound">Žiaden zvuk</string>
   <string name="operation_delete">Vymazať</string>
   <string name="operation_send">Odoslať</string>
+  <string name="permission_intro_microphone">Pre nahrávanie zvuku ak je zvolený vstup z mikrofónu</string>
+  <string name="permission_intro_storage">Pre ukladanie nahrávok</string>
+  <string name="permission_microphone_desc">Používanie mikrofónu ako zdroj zvuku</string>
   <string name="quit_recording">Ukončené</string>
   <string name="recording_failure">Posledné nahrávanie zlyhalo, spustite nahrávanie znova</string>
   <string name="recording_max_size">Nahrávanie bolo zastavené a uložené z dôvodu maximálnej veľkosti súboru. Môžete spustiť nahrávanie znova a pokračovať.</string>
@@ -70,6 +75,8 @@
   <string name="screen_record_params">Parametre nahrávania</string>
   <string name="select_all">Všetko</string>
   <string name="settings">Nastavenie</string>
+  <string name="settings_other">Ostatné</string>
+  <string name="settings_privacy">Ochrana súkromia</string>
   <string name="show_hard_key">Zobraziť navigačné tlačidlá</string>
   <string name="show_hard_key_summary">Zobraziť upozornenie pri stlačení Domov, Menu a Späť</string>
   <string name="show_screen_touch">Zobraziť dotyky</string>
@@ -85,14 +92,7 @@
   <string name="storage_location">Úložisko</string>
   <string name="storage_location_summary">Vyberte úložisko pre uloženie nahrávky</string>
   <string name="unchecked">Žiadne</string>
-  <string name="first_using_mic_dialog_message">Nahrávanie vyžaduje prístup k mikrofónu. Chcete povoliť prístup?</string>
-  <string name="first_using_mic_dialog_title">Vyžadujú sa povolenia</string>
   <string name="using_record_confirm_cancel">Odmietnuť</string>
   <string name="using_record_confirm_ok">Povoliť</string>
   <string name="warning_recording_when_a2dp_connect">Vaše zariadenie nepodporuje nahrávanie systémových zvukov ak je pripojené Bluetooth handsfree.</string>
-  <string name="permission_intro_microphone">Pre nahrávanie zvuku ak je zvolený vstup z mikrofónu</string>
-  <string name="permission_intro_storage">Pre ukladanie nahrávok</string>  
-     <string name="permission_microphone_desc">Používanie mikrofónu ako zdroj zvuku</string>
-     <string name="settings_other">Ostatné</string>
-     <string name="settings_privacy">Ochrana súkromia</string>  
 </resources>

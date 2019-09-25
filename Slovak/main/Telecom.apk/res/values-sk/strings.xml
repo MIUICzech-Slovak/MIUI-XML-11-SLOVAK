@@ -242,6 +242,7 @@ Ak chcete pokračovať, stlačte tlačidlo Vymazať a konvertovať…"</string>
   <string name="local_backup_password_toast_validation_failure">Nastavenie hesla pre zálohy zlyhalo</string>
   <string name="managed_user_title">Všetky pracovné aplikácie</string>
   <string name="media_category">Médiá</string>
+  <string name="missedcall_notification_public_version_title">Telefón</string>
   <string name="mobile_data_always_on">Mobilné dáta ponechať vždy aktívne</string>
   <string name="mobile_data_always_on_summary">Vždy ponechávať mobilné dáta aktívne, dokonca aj pri aktívnej sieti Wi‑Fi (na rýchle prepínanie sietí)</string>
   <string name="mock_location_app">Vybrať aplikáciu so simulovanou polohou</string>
@@ -410,5 +411,4 @@ Ak chcete pokračovať, stlačte tlačidlo Vymazať a konvertovať…"</string>
   <string name="wifi_verbose_logging">Podrobné denníky Wi-Fi</string>
   <string name="wifi_verbose_logging_summary">Zvýšiť úroveň denníkov Wi-Fi, zobrazovať podľa SSID RSSI pri výbere siete Wi-Fi</string>
   <string name="window_animation_scale_title">Mierka animácie okna</string>
-  <string name="missedcall_notification_public_version_title">Telefón</string>
 </resources>

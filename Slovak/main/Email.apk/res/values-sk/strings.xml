@@ -341,8 +341,10 @@
   <string name="device_not_activiey_lint1">Správca zariadenia nie je aktivovaný</string>
   <string name="device_not_activiey_lint2">Služba EMail nefunguje správne</string>
   <string name="dialog_account_auto_sync_setting_no_open">Synchr. je vypnutá, nie je možné prijať nové správy.</string>
+  <string name="dialog_agree">Súhlasím</string>
   <string name="dialog_auto_sync_setting_no_open">Synchr. je vypnutá, nie je možné prijať nové správy.</string>
   <string name="dialog_change_sync_lookback">Správy prijaté pred %s budú vymazané. Dotykom to zmeníte.</string>
+  <string name="dialog_disagree">Nesúhlasím</string>
   <string name="dialog_gmail_proxy_server_is_error">Gmail proxy server error.</string>
   <string name="dialog_insufficient_space_on_external">Nie je dostatok voľného miesta pre stiahnutie prílohy.</string>
   <string name="dialog_insufficient_space_on_internal">Nie je dostatok voľného miesta</string>
@@ -418,8 +420,10 @@
   <string name="file_save_path_dialog_ok">Zmeniť</string>
   <string name="filtered_tag">[%1$s]%2$s</string>
   <string name="first_quick_default_reply">Dotknite sa tohto odkazu, potom \"%s\" bude odoslaná všetkým adresátom.</string>
+  <string name="folder_empty_to_fresh">Pošta nie je synchronizovaná. Potiahnite nadol pre synchr.</string>
   <string name="folder_list_display_all">Zobraziť všetky zložky</string>
   <string name="folder_list_display_only_import">Zobraziť len dôležité zložky</string>
+  <string name="folder_no_mails">Žiadne správy</string>
   <string name="folder_picker_title">Výber priečinka</string>
   <string name="folder_removed">Odstránené z priečinka %1$s</string>
   <string name="folder_shortcut_widget_label">Priečinok aplikácie E-mail</string>
@@ -477,6 +481,7 @@
   <string name="invalid_recipient">Adresa %s je neplatná.</string>
   <string name="invalid_recipient_title">Chyba príjemcu</string>
   <string name="kilobytes">%s kB</string>
+  <string name="list_empty_to_fresh">Žiadna správa, potiahnite nadol pre obnovenie.</string>
   <string name="load_from_remote">Pokračovať vo vyhľadávaní na serveri</string>
   <string name="load_more">Načítať ďalšie</string>
   <string name="loading_conversation">Prebieha načítavanie...</string>
@@ -927,9 +932,4 @@ Ak chcete synchronizovať e-maily jednorazovo, dotknite sa položky "Synchronizo
   <string name="you_are_in_mobile_network">Používate mobilné dátové pripojenie.</string>
   <string name="youfuli">Reklama</string>
   <string name="zip_viewer_no_file">Žiadne súbory!</string>
-  <string name="dialog_agree">Súhlasím</string>
-  <string name="dialog_disagree">Nesúhlasím</string>
-  <string name="list_empty_to_fresh">Žiadna správa, potiahnite nadol pre obnovenie.</string>
-  <string name="folder_empty_to_fresh">Pošta nie je synchronizovaná. Potiahnite nadol pre synchr.</string>
-  <string name="folder_no_mails">Žiadne správy</string>
 </resources>

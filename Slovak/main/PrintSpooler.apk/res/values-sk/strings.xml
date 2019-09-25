@@ -51,7 +51,7 @@
   <string name="savetopdf_button">Uložiť do súboru PDF</string>
   <string name="search">VYHĽADÁVANIE</string>
   <string name="summary_template">Súhrn, počet kópií: %1$s, veľkosť papiera: %2$s</string>
+  <string name="system_print_service_help">O tlačení</string>
   <string name="template_all_pages">Všetky: %1$s</string>
   <string name="template_page_range">Rozsah: %1$s</string>
-  <string name="system_print_service_help">O tlačení</string>
 </resources>

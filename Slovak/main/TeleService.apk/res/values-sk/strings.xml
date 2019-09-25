@@ -445,6 +445,8 @@ Ak chcete pokračovať, stlačte tlačidlo Vymazať a konvertovať…"</string>
   <string name="data_enabled">Mobilné dáta</string>
   <string name="data_usage_uninstalled_apps">Odstránené aplikácie</string>
   <string name="data_usage_uninstalled_apps_users">Odstránené aplikácie a používatelia</string>
+  <string name="dds_switch_warning_message_data_off">Nebolo možné nájsť SIM %1$s. SIM %2$s je nastavená ako predvolená pre mobilné dáta. Mobilné dáta budú vypnuté.</string>
+  <string name="dds_switch_warning_message_data_on">"Nebolo možné nájsť SIM %1$s. SIM %2$s je nastavená ako predvolená pre mobilné dáta. Mobilné dáta budú vypnuté.</string>
   <string name="deactivate_all">Zrušiť všetko</string>
   <string name="debug_app">Vybrať aplikáciu na ladenie</string>
   <string name="debug_app_not_set">Nie je nastavená žiadna aplikácia na ladenie</string>
@@ -685,6 +687,7 @@ Ak chcete pokračovať, stlačte tlačidlo Vymazať a konvertovať…"</string>
   <string name="fdn_service_unavailable">FDN služba nie je dostupná.</string>
   <string name="fdn_summary">Obmedziť odchádzajúce hovory len na čísla v tomto zozname</string>
   <string name="fdn_with_label">Povolené čísla (%s)</string>
+  <string name="fiveg_switch_title">5G sieť</string>
   <string name="flash_when_ring_summary">Blikať LED bleskom počas zvonenia prichádzajúceho hovoru</string>
   <string name="flash_when_ring_title">Blikať počas zvonenia</string>
   <string name="force_allow_on_external">Vynútiť povolenie aplikácií na externom úložisku</string>
@@ -785,6 +788,7 @@ Ak chcete pokračovať, stlačte tlačidlo Vymazať a konvertovať…"</string>
   <string name="invalid_puk">Nesprávny PUK, prosím zadajte PUK, ktorý má od 4 do 8 čísel.</string>
   <string name="invalid_puk2">Nesprávny PUK2, prosím zadajte PUK2, ktorý má 8 čísel.</string>
   <string name="ivr_parameter_settings">IVR nastavenia (Čína)</string>
+  <string name="jump_to_mobile_network_setting">Nastavenia mobilnej siete</string>
   <string name="keep_screen_on">Nevypínať obrazovku</string>
   <string name="keep_screen_on_summary">Obrazovka sa pri nabíjaní neprepne do režimu spánku</string>
   <string name="keep_wait_call_back">Čakať</string>
@@ -844,6 +848,7 @@ Ak chcete pokračovať, stlačte tlačidlo Vymazať a konvertovať…"</string>
   <string name="local_enable">Miestne správy povolené</string>
   <string name="local_weather_disable">Miestne počasie zakázané</string>
   <string name="local_weather_enable">Miestne počasie povolené</string>
+  <string name="location">Poloha</string>
   <string name="lodgings_disable">Ubytovanie zakázané</string>
   <string name="lodgings_enable">Ubytovanie povolené</string>
   <string name="lte_checkbox_text">Nastaviť mobilné dáta na vybranú SIM kartu ak je predvolená SIM karta zmenená</string>
@@ -960,6 +965,7 @@ Ak chcete pokračovať, stlačte tlačidlo Vymazať a konvertovať…"</string>
   <string name="network_info_message">Sieťová správa</string>
   <string name="network_lte">LTE (odporúčané)</string>
   <string name="network_message">Sieťová správa</string>
+  <string name="network_mode_updating_title">Typ siete</string>
   <string name="network_query_error">Pri vyhľadávaní sietí došlo k chybe.</string>
   <string name="network_settings_auto_select_title">Nevyberať siete automaticky</string>
   <string name="network_settings_automatically_option">Automaticky vybrať operátora (%s)</string>
@@ -1050,6 +1056,7 @@ Ak chcete pokračovať, stlačte tlačidlo Vymazať a konvertovať…"</string>
   <string name="onscreenSwapCallsText">Zameniť</string>
   <string name="onscreenVideoCallText">Videohovor</string>
   <string name="open_miui">Otvoriť</string>
+  <string name="operator">Operátor</string>
   <string name="optional_summary">&lt;Voliteľné&gt;</string>
   <string name="ota_activate">Aktivovať</string>
   <string name="ota_call_end">Späť</string>
@@ -1199,6 +1206,7 @@ Počet zostávajúcich pokusov: %d."</string>
   <string name="preferred_network_type_pref_entries_3g_preferred_cdma">Preferovať 3G(CDMA) siete</string>
   <string name="preferred_network_type_pref_entries_4g_preferred">Preferovať 4G siete</string>
   <string name="preferred_network_type_pref_entries_4g_preferred_cdma">Preferovať 4G (CDMA) siete</string>
+  <string name="preferred_network_type_pref_entries_5g_preferred">Preferovať 5G</string>
   <string name="preferred_network_type_pref_entries_auto">Automaticky</string>
   <string name="preferred_network_type_pref_entries_global">Globálne</string>
   <string name="preferred_network_type_pref_entries_only_2g">Len 2G (šetrí batériu)</string>
@@ -1206,7 +1214,10 @@ Počet zostávajúcich pokusov: %d."</string>
   <string name="preferred_network_type_td_scdma">GSM/TD-SCDMA</string>
   <string name="preferred_network_type_title">Voľba typu siete</string>
   <string name="preferred_phone_account">Preferovaný účet</string>
+  <string name="preferred_wificall_roaming_title">Nastavenie Roamingu</string>
+  <string name="preferred_wificall_title">Nastavenie siete</string>
   <string name="primary_account_summary_with">Primárny účet. %s</string>
+  <string name="privacy_policy_title">Ochrana súkromia</string>
   <string name="private_num">Súkromné číslo</string>
   <string name="proceed">Pokračovať</string>
   <string name="progress_dialog_exiting_ecm">Ukončenie režimu Núdzového spätného hovoru</string>
@@ -1338,6 +1349,7 @@ Počet zostávajúcich pokusov: %d."</string>
   <string name="select_automatically">Vybrať automaticky</string>
   <string name="select_cancel">Zrušiť</string>
   <string name="select_continue">Pokračovať</string>
+  <string name="select_dds_dialog_title">Vyberte predvolenú SIM pre dáta</string>
   <string name="select_logd_size_dialog_title">Veľkosť vyrovnávacej pamäte nástroja denníkov</string>
   <string name="select_logd_size_title">Vyrovnávacia pamäť nástroja denníkov</string>
   <string name="select_logpersist_dialog_title">Vybrať vyrovnávacie pamäte denníka na trvalé ukladanie údajov na zariadení</string>
@@ -1398,6 +1410,7 @@ Počet zostávajúcich pokusov: %d."</string>
   <string name="sim_useless">SIM nedostupná</string>
   <string name="simulate_color_space">Simulácia far. priestoru</string>
   <string name="singleContactImportedMsg">Kontakt bol importovaný</string>
+  <string name="sip_account_disable">Účet nie je aktívny.</string>
   <string name="sip_account_list">Účty volania cez internet</string>
   <string name="sip_accounts">Účty volania cez internet (SIP)</string>
   <string name="sip_accounts_title">Účty</string>
@@ -1416,12 +1429,14 @@ Počet zostávajúcich pokusov: %d."</string>
   <string name="sip_menu_discard">Zrušiť</string>
   <string name="sip_menu_save">Uložiť</string>
   <string name="sip_profile_create_error">Nebolo možné vytvoriť nový SIP profil</string>
+  <string name="sip_receive_call_disable">Nie je možné prijať hovor.</string>
   <string name="sip_receive_calls">Prijímať prichádzajúce hovory</string>
   <string name="sip_receive_calls_summary">Zníži výdrž batérie</string>
   <string name="sip_save_register_error">Nebolo možné uložiť nový SIP profil</string>
   <string name="sip_settings">Nastavenia Volania cez internet</string>
   <string name="sip_system_decide">Automaticky</string>
   <string name="slot">Pozícia</string>
+  <string name="smsc_dialog_message">Uistite sa, že zadané SMSC číslo je správne, inak nebudete môcť odosielať a prijímať SMS správy.</string>
   <string name="sp_unlock_failed">SIM Service Provider unlock request unsuccessful.</string>
   <string name="sp_unlock_success">SIM Service Provider unlock successful.</string>
   <string name="sports_news_settings">Športové správy</string>
@@ -1647,10 +1662,14 @@ Počet dní do začiatku ďalšieho obdobia: %2$d (%3$s)"</string>
   <string name="wait_for_debugger_summary">Aplikácia čaká na pripojenie ladiaceho nástroja</string>
   <string name="wait_prompt_str">"Odoslať tieto tóny?
 "</string>
+  <string name="wfcmode_mobile_preferred">Preferovať mobilné</string>
+  <string name="wfcmode_wifi_only">Iba Wi-Fi</string>
+  <string name="wfcmode_wifi_preferred">Preferovať Wi-Fi</string>
   <string name="wifi_aggressive_handover">Agres. odovzdávať Wi-Fi na mobilnú sieť</string>
   <string name="wifi_aggressive_handover_summary">Keď túto možnosť zapnete, Wi-Fi bude agresívnejšie odovzdávať dátové pripojenie na mobilnú sieť vtedy, keď bude slabý signál Wi-Fi</string>
   <string name="wifi_allow_scan_with_traffic">Vždy povoliť funkciu Wi-Fi Roam Scans</string>
   <string name="wifi_allow_scan_with_traffic_summary">Povoliť alebo zakázať funkciu Wifi Roam Scans na základe objemu prenosu údajov v rozhraní</string>
+  <string name="wifi_call_setting">Wi-Fi volania</string>
   <string name="wifi_calling">Volanie cez Wi-Fi</string>
   <string name="wifi_calling_call_assistant">Asistent hovoru</string>
   <string name="wifi_calling_call_assistant_configure">Nastaviť</string>
@@ -1678,6 +1697,8 @@ Počet dní do začiatku ďalšieho obdobia: %2$d (%3$s)"</string>
   <string name="wifi_security_none">Žiadne</string>
   <string name="wifi_verbose_logging">Podrobné denníky Wi-Fi</string>
   <string name="wifi_verbose_logging_summary">Zvýšiť úroveň denníkov Wi-Fi, zobrazovať podľa SSID RSSI pri výbere siete Wi-Fi</string>
+  <string name="wificall_switch_summary">Vaše zariadenie môže prepínať medzi Wi-Fi a VoLTE ak je slabé pripojenie</string>
+  <string name="wificall_switch_title">Vykonať hovory cez Wi-Fi</string>
   <string name="wild_prompt_str">Replace wild character with</string>
   <string name="window_animation_scale_title">Mierka animácie okna</string>
   <string name="wrong_password">Nesprávne heslo</string>
@@ -1685,25 +1706,4 @@ Počet dní do začiatku ďalšieho obdobia: %2$d (%3$s)"</string>
   <string name="xdivert_setting">X-Divert Nastavenia</string>
   <string name="xdivert_summary">CFNRc Nastavenia</string>
   <string name="xdivert_title">X-Divert</string>
-  <string name="preferred_wificall_title">Nastavenie siete</string>
-  <string name="wfcmode_mobile_preferred">Preferovať mobilné</string>
-  <string name="wfcmode_wifi_only">Iba Wi-Fi</string>
-  <string name="wfcmode_wifi_preferred">Preferovať Wi-Fi</string>
-  <string name="wifi_call_setting">Wi-Fi volania</string>
-  <string name="wificall_switch_summary">Vaše zariadenie môže prepínať medzi Wi-Fi a VoLTE ak je slabé pripojenie</string>
-  <string name="wificall_switch_title">Vykonať hovory cez Wi-Fi</string>
-  <string name="dds_switch_warning_message_data_off">Nebolo možné nájsť SIM %1$s. SIM %2$s je nastavená ako predvolená pre mobilné dáta. Mobilné dáta budú vypnuté.</string>
-  <string name="dds_switch_warning_message_data_on">"Nebolo možné nájsť SIM %1$s. SIM %2$s je nastavená ako predvolená pre mobilné dáta. Mobilné dáta budú vypnuté.</string>  
-  <string name="privacy_policy_title">Ochrana súkromia</string>
-  <string name="sip_account_disable">Účet nie je aktívny.</string>
-  <string name="sip_receive_call_disable">Nie je možné prijať hovor.</string>
-  <string name="fiveg_switch_title">5G sieť</string>
-  <string name="jump_to_mobile_network_setting">Nastavenia mobilnej siete</string>
-  <string name="select_dds_dialog_title">Vyberte predvolenú SIM pre dáta</string>
-  <string name="network_mode_updating_title">Typ siete</string>
-  <string name="preferred_network_type_pref_entries_5g_preferred">Preferovať 5G</string>
-  <string name="location">Poloha</string>
-  <string name="operator">Operátor</string>
-  <string name="smsc_dialog_message">Uistite sa, že zadané SMSC číslo je správne, inak nebudete môcť odosielať a prijímať SMS správy.</string>
-  <string name="preferred_wificall_roaming_title">Nastavenie Roamingu</string>
 </resources>

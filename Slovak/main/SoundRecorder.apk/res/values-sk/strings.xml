@@ -9,6 +9,9 @@
   <string name="button_queue_for_wifi">Cez Wi-Fi</string>
   <string name="button_start_now">Stiahnuť</string>
   <string name="call_record">Nahrávka hovoru</string>
+  <string name="call_record_list_group_all">Všetko</string>
+  <string name="call_record_list_group_connected">Pripojené</string>
+  <string name="call_record_list_group_unconnected">Nepripojené</string>
   <string name="choose_call_records_count">Položiek: %d</string>
   <string name="clear_records">Vymazať synchr. nahrávky</string>
   <string name="cloud_record">Nahrávka v Cloude (%d)</string>
@@ -76,6 +79,7 @@ Pri použití mobilných dát sa budú účtovať poplatky od operátora."</stri
   <string name="preference_record_scenes_dialog_title">Zvoľte typ nahrávaného zvuku</string>
   <string name="preference_scenes">Režim nahrávania</string>
   <string name="preference_silent_mode">Nahrávanie v tichom režime</string>
+  <string name="preference_status_bar_indicator_prompt">Zobraziť skratku v roletke počas nahrávania</string>
   <string name="preference_tip_rename">Premenovať nahrávku po skončení nahrávania</string>
   <string name="recognition_error_cancel">Zrušené</string>
   <string name="recognition_error_download_cancel">Neskôr</string>
@@ -99,6 +103,7 @@ Pri použití mobilných dát sa budú účtovať poplatky od operátora."</stri
   <string name="record_downloading_notification">Sťahovanie...</string>
   <string name="record_downloading_notification_complete">Sťahovanie dokončené</string>
   <string name="record_downloading_notification_count">%d sťahovanie</string>
+  <string name="record_format_preference_title">Formát nahrávania</string>
   <string name="record_list">Nahrávky</string>
   <string name="record_list_call">Nahrávky hovoru</string>
   <string name="record_list_category_title_format">MMM yyyy</string>
@@ -132,13 +137,19 @@ Pri použití mobilných dát sa budú účtovať poplatky od operátora."</stri
   <string name="search_tip_rename">Zadať názov nahrávky manuálne</string>
   <string name="share">Zdieľať</string>
   <string name="share_dialog_title">Zdieľať cez</string>
+  <string name="shortcut_records">Nahrávky</string>
+  <string name="shortcut_start_record">Nahrávať</string>
+  <string name="shortcut_stop_record">Ukončiť</string>
   <string name="sound_recorder_settings">Nastavenie nahrávania</string>
+  <string name="sound_source_summary_without_system_sounds">Použiť mikrofón alebo stíšiť zvuky</string>
   <string name="start">Pokračovať</string>
   <string name="start_recording">Nahrávať</string>
   <string name="status_bar_back">Pre návrat stlačte tu</string>
   <string name="status_bar_recording">Nahrávanie...</string>
   <string name="status_bar_recording_pause">Nahrávanie bolo pozastavené.</string>
+  <string name="text_btn_backward_3_seconds">3s späť</string>
   <string name="text_btn_complete">Hotovo</string>
+  <string name="text_btn_forward_3_seconds">3s späť</string>
   <string name="text_btn_list">Zoznam</string>
   <string name="text_btn_mark">Označiť</string>
   <string name="text_btn_pause">Zastaviť</string>
@@ -147,28 +158,17 @@ Pri použití mobilných dát sa budú účtovať poplatky od operátora."</stri
   <string name="text_btn_recording">Nahrávanie</string>
   <string name="text_btn_wave">Vlna</string>
   <string name="text_finish">Potvrdiť</string>
+  <string name="text_play_speed_0_5">0.5X rýchlosť prehrávania</string>
+  <string name="text_play_speed_1_0">Normálna rýchlosť prehrávania</string>
+  <string name="text_play_speed_1_5">1.5X rýchlosť prehrávania</string>
+  <string name="text_play_speed_2_0">2X rýchlosť prehrávania</string>
   <string name="timer_format" formatted="false">%02d:%02d</string>
   <string name="toast_file_is_downloading">Tento súbor sa sťahuje, čakajte prosím.</string>
   <string name="toast_max_record_time">%1$s môže nahrať okolo %2$s</string>
   <string name="toast_uninstall_fileexplorer">Správca súborov nie je nainštalovaný</string>
+  <string name="usage_description">Synchronizácia nahrávok s Mi Cloudom</string>
   <string name="wifi_recommended_body" formatted="false">"Spustením tohto %s sťahovania môže dôjsť k zvýšenej spotrebe batérie a spotrebe mobilných dát.
 
  Dotknite sa %s pre spustenie sťahovania po pripojení na Wi-Fi sieť."</string>
   <string name="wifi_recommended_title">Upozornenie na spotrebu dát</string>
-  <string name="record_format_preference_title">Formát nahrávania</string>
-  <string name="sound_source_summary_without_system_sounds">Použiť mikrofón alebo stíšiť zvuky</string>
-  <string name="call_record_list_group_all">Všetko</string>
-  <string name="call_record_list_group_connected">Pripojené</string>
-  <string name="call_record_list_group_unconnected">Nepripojené</string>
-  <string name="preference_status_bar_indicator_prompt">Zobraziť skratku v roletke počas nahrávania</string>
-  <string name="shortcut_records">Nahrávky</string>
-  <string name="shortcut_start_record">Nahrávať</string>
-  <string name="shortcut_stop_record">Ukončiť</string>
-  <string name="text_btn_backward_3_seconds">3s späť</string>
-  <string name="text_btn_forward_3_seconds">3s späť</string>
-  <string name="text_play_speed_0_5">0.5X rýchlosť prehrávania</string>
-  <string name="text_play_speed_1_0">Normálna rýchlosť prehrávania</string>
-  <string name="text_play_speed_1_5">1.5X rýchlosť prehrávania</string>
-  <string name="text_play_speed_2_0">2X rýchlosť prehrávania</string>  
-  <string name="usage_description">Synchronizácia nahrávok s Mi Cloudom</string>  
 </resources>

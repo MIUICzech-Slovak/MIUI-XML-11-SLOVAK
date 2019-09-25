@@ -3,6 +3,14 @@
   <string name="accessibility_enabled">Zjednodušenie je zapnuté.</string>
   <string name="agree">Súhlasím</string>
   <string name="agree_terms">Prečítal som a súhlasím s Podmienkami používania a Ochranou súkromia.</string>
+  <string name="ai_button_desc">Získajte rýchly prístup k hlasovému asistentovi</string>
+  <string name="ai_button_double_press">Dvojité stlačenie</string>
+  <string name="ai_button_double_press_desc">Stlačte 2x AI tlačidlo pre vykonanie akcie</string>
+  <string name="ai_button_long_press">Stlačenie a podržanie</string>
+  <string name="ai_button_long_press_desc">Stlačte a podržte AI tlačidlo pre hovorenie</string>
+  <string name="ai_button_single_press">Stlačenie</string>
+  <string name="ai_button_single_press_desc">Stlačte AI tlačidlo pre zobrazenie AI skratiek</string>
+  <string name="ai_button_title">AI tlačidlo</string>
   <string name="app_name">Provision</string>
   <string name="application_permissions">Povolenia aplikácií</string>
   <string name="back">Späť</string>
@@ -24,6 +32,8 @@
   <string name="enable_accessibility_dialog_negative_btn">Zrušiť</string>
   <string name="enable_accessibility_dialog_positive_btn">OK</string>
   <string name="fail_to_generate_qr_code">Generovanie QR kódu zlyhalo, skúste to znova.</string>
+  <string name="font_hint_large">Predvolená veľkosť písma</string>
+  <string name="font_hint_normal">Zväčšiť písmo</string>
   <string name="ime_privacy_policy">Podmienky súkromia vybranej klávesnice</string>
   <string name="ime_privacy_policy_no_network">Nie je možné sa pripojiť k sieti. Prečítajte si podmienky súkromia pre túto klávesnicu na %s.</string>
   <string name="input_method_category">Vyberte predvolenú metódu vstupu</string>
@@ -50,6 +60,8 @@
   <string name="other_settings_ad_enable_summary">Prispôsobiť reklamy vášmu správaniu</string>
   <string name="other_settings_auto_update">Aktualizovať MIUI</string>
   <string name="other_settings_auto_update_summary">Nové aktualizácie MIUI stiahnite na adrese miuios.cz/rom a nainštalujete v aplikácií Aktualizácia - Menu (3 bodky)- Vybrať zip</string>
+  <string name="other_settings_enhanced_lockscreen">Denná tapeta</string>
+  <string name="other_settings_enhanced_lockscreen_summary">Získajte nové tapety na zamknutej obrazovke</string>
   <string name="other_settings_location">Prístup k polohe</string>
   <string name="other_settings_location_summary">Povoliť aplikáciam prístup k vašej polohe</string>
   <string name="other_settings_mifg_online_content">Denná tapeta zamyk. obr.</string>
@@ -77,6 +89,10 @@
   <string name="sim_dectection_next">Pokračovať</string>
   <string name="sim_redetection">Skontr. SIM</string>
   <string name="sim_scard_detecting_check_mobile_not_available">Vaša SIM karta sa nemôže pripojiť k sieti. Skontrolujte jej platnosť a skúste to znova.</string>
+  <string name="skip_gesture_guide_dialog_message">Uistite sa, že viete používať všetky gestá.</string>
+  <string name="skip_gesture_guide_dialog_negative_btn">Zrušiť</string>
+  <string name="skip_gesture_guide_dialog_positive_btn">OK</string>
+  <string name="skip_gesture_guide_dialog_title">Gestá celej obrazovky</string>
   <string name="skip_underline">Preskočiť</string>
   <string name="start_up_slogan">Navštívte miuios.cz</string>
   <string name="summary_not_set">Nenastavené</string>
@@ -91,20 +107,4 @@ Musíte súhlasiť s našimi Podmienkami používania a Ochranu súkromia pred p
   <string name="user_agreement">Podmienky používania</string>
   <string name="user_strayed_warning">Táto stránka je len pre testovanie, vráťte sa naspäť.</string>
   <string name="welcome">Vitajte</string>
-  <string name="other_settings_enhanced_lockscreen">Denná tapeta</string>
-  <string name="other_settings_enhanced_lockscreen_summary">Získajte nové tapety na zamknutej obrazovke</string>
-  <string name="ai_button_desc">Získajte rýchly prístup k hlasovému asistentovi</string>
-  <string name="ai_button_double_press">Dvojité stlačenie</string>
-  <string name="ai_button_double_press_desc">Stlačte 2x AI tlačidlo pre vykonanie akcie</string>
-  <string name="ai_button_long_press">Stlačenie a podržanie</string>
-  <string name="ai_button_long_press_desc">Stlačte a podržte AI tlačidlo pre hovorenie</string>
-  <string name="ai_button_single_press">Stlačenie</string>
-  <string name="ai_button_single_press_desc">Stlačte AI tlačidlo pre zobrazenie AI skratiek</string>
-  <string name="ai_button_title">AI tlačidlo</string>
-     <string name="font_hint_large">Predvolená veľkosť písma</string>
-     <string name="font_hint_normal">Zväčšiť písmo</string>  
-     <string name="skip_gesture_guide_dialog_message">Uistite sa, že viete používať všetky gestá.</string>
-     <string name="skip_gesture_guide_dialog_negative_btn">Zrušiť</string>
-     <string name="skip_gesture_guide_dialog_positive_btn">OK</string>
-     <string name="skip_gesture_guide_dialog_title">Gestá celej obrazovky</string>	 
 </resources>

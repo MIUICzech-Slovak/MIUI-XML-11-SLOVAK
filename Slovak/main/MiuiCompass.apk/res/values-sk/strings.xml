@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="allow">Povoliť</string>
   <string name="altitude_title">Nadm. výška</string>
   <string name="altitude_uncalibrate_cancel">Zrušiť</string>
   <string name="altitude_uncalibrate_msg">Nie je možné kalibrovať nadmorskú výšku bez GPS alebo mobilného dátového pripojenia."</string>
@@ -16,6 +17,7 @@
   <string name="calibrate_success">Kalibrácia dokončená</string>
   <string name="calibrate_tip">Nakloňte vaše zariadenie a kotúľajte guličku po kruhu</string>
   <string name="calibrate_title">Kalibrovanie kompasu</string>
+  <string name="cancel">Zrušiť</string>
   <string name="cannot_get_location">--</string>
   <string name="dialog_body_no_network">Nie je možné sa pripojiť k sieti</string>
   <string name="dialog_calibrat_altitude">Kalibrácia nadmorskej výšky...</string>
@@ -47,15 +49,13 @@
   <string name="longitude">LON</string>
   <string name="mobiledata_alert_dialog_message">Pripojiť sa k internetu pre kalibráciu nadmorskej výšky?</string>
   <string name="mobiledata_alert_dialog_title">Upozornenie</string>
+  <string name="open_perm_msg">Kompas vyžaduje prístup k polohe a fotoaparátu. Povoliť?</string>
+  <string name="open_perm_title">Vyžadujú sa povolenia</string>
+  <string name="permission_camera_desc">Pre použitie vodováhy</string>
+  <string name="permission_location_desc">Zobrazenie súradníc a tlaku</string>
   <string name="pressure_title">Tlak</string>
   <string name="pressure_unit">hPa</string>
   <string name="shake_enter_tip">Zatrasením skalibrujete</string>
   <string name="using_camera_confirm_cancel">Ukončiť</string>
   <string name="using_camera_confirm_ok">OK</string>
-  <string name="allow">Povoliť</string>
-  <string name="cancel">Zrušiť</string>
-  <string name="open_perm_msg">Kompas vyžaduje prístup k polohe a fotoaparátu. Povoliť?</string>
-  <string name="open_perm_title">Vyžadujú sa povolenia</string>
-     <string name="permission_camera_desc">Pre použitie vodováhy</string>
-     <string name="permission_location_desc">Zobrazenie súradníc a tlaku</string>  
 </resources>

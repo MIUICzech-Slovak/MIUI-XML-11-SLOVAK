@@ -4,6 +4,8 @@
   <string name="action_mode_switcher_grid_description">Mriežka</string>
   <string name="action_mode_switcher_list_description">Zoznam</string>
   <string name="action_settings_description">Nastavenia</string>
+  <string name="actionbar_close_description">Zatvoriť</string>
+  <string name="actionbar_home_description">Späť</string>
   <string name="add_account_desc">Poznámky sa môžu synchronizovať s Vašim účtom Mi. Chcete sa prihlásiť?</string>
   <string name="alarm_bar_title">Upozornenie</string>
   <string name="alert_action_edit_anyway">Pokračovať</string>
@@ -20,6 +22,7 @@
   <string name="all_folder_name">Všetky poznámky</string>
   <string name="all_terms">%1$s a %2$s</string>
   <string name="app_name">Poznámky</string>
+  <string name="app_notification_info">Poznámky pracujú na pozadí</string>
   <string name="app_widget">Poznámky</string>
   <string name="application_icon">Ikona</string>
   <string name="attachment_camera">Fotoaparát</string>
@@ -32,9 +35,21 @@
   <string name="call_folder_name">Poznámky hovorov</string>
   <string name="call_record_folder_name">Zoznam volaní</string>
   <string name="cancel_alarm_description">Zrušiť upozornenie</string>
+  <string name="check_in_todo_app">Zobraziť úlohy</string>
   <string name="cloud_service_state_open_reminder">Povoľte sunchr. s MiCloud pre synchronizáciu poznámok.</string>
   <string name="cloud_trash_bin_title">Vymazať poznámky z MiCloud</string>
+  <string name="confirm_cancel">Nesúhlasím</string>
+  <string name="confirm_ok">Súhlasím</string>
+  <string name="cta_confirm_cancel">Zakázať</string>
+  <string name="cta_confirm_ok">Povoliť</string>
+  <string name="cta_dialog_message">Poznámky vyžadujú povolenia pre pripojenie k sieti, nahrávanie zvuku a prístup ku kontaktom. Chcete povoliť?</string>
+  <string name="cta_dialog_title">Povolenia</string>
   <string name="cta_reminder">Táto aplikácia vyžaduje pripojenie na internet pre zálohovanie na Mi Cloud a prístup ku kontaktom.</string>
+  <string name="date_calculate_today">0 dní</string>
+  <string name="date_time_picker_alarm_reminder">Budík</string>
+  <string name="date_time_picker_dialog_title">NAstaviť dátum a čas</string>
+  <string name="date_time_picker_has_not_set_alarm">Budík nie je nastavený</string>
+  <string name="date_time_picker_has_set_alarm">Budík je nastavený</string>
   <string name="db_downgrade_clear_button">Vymažte dáta aplikácie</string>
   <string name="db_downgrade_clear_date_reminder">Zmena na inú verziu MIUI vyžaduje aj vymazanie dát aplikácie Poznámky. Predtým sa uistite, že máte povolené zálohovanie na MiCloud.</string>
   <string name="default_folder_name">Poznámky</string>
@@ -83,6 +98,7 @@
   <string name="error_send_empty_note_to_weibo">Nie je možné odoslať prázdnu poznámku</string>
   <string name="error_unsupport_content">Táto poznámka obsahuje nepodporovaný obsah, dotknite sa tu pre aktualizovanie aplikácie</string>
   <string name="error_widget_exist_for_send_to_desktop">Táto poznámka už na ploche existuje</string>
+  <string name="exceed_todo_text_limitation">Popis úlohy je príliš dlhý.</string>
   <string name="first_enter_custom_folder_hint">Môžete premenovať alebo vymazať zložky</string>
   <string name="folder_exist">Zložka už existuje, zvoľte prosím iný názov</string>
   <string name="folder_operation_delete">Vymazať</string>
@@ -109,6 +125,7 @@
   <string name="menu_folders">Zložky</string>
   <string name="menu_hide">Ukryť</string>
   <string name="menu_mark_privacy">Skryť</string>
+  <string name="menu_more_description">Viac</string>
   <string name="menu_move_parent_folder">Nadradená zložka</string>
   <string name="menu_move_to">Presunúť do</string>
   <string name="menu_new_folder">Nová zložka</string>
@@ -121,6 +138,8 @@
   <string name="menu_source">Od: %1$s</string>
   <string name="menu_stick">Pripnúť</string>
   <string name="menu_title_select_folder">Vyberte zložku</string>
+  <string name="menu_todo_hide_finished_todo">Skryť ukončené úlohy</string>
+  <string name="menu_todo_show_finished_todo">Zobraziť ukončené úlohy</string>
   <string name="menu_unhide">Odkryť</string>
   <string name="menu_unmark_privacy">Odkryť</string>
   <string name="menu_unstick">Odpojiť</string>
@@ -139,9 +158,20 @@
   <string name="notelist_menu_new">Pridať poznámku</string>
   <string name="notify_alarm_title">Upozornenie</string>
   <string name="permdesc_accessNote">Škodlivé aplikácie to môžu využiť na prístup k vašim súkromným dátam.</string>
+  <string name="permission_get_account_desc">Synchronizácia poznámok</string>
+  <string name="permission_intro_contact">Pre poznámky zapísané počas hovoru</string>
+  <string name="permission_intro_microphone">Pre nahrávky</string>
+  <string name="permission_intro_phone">re poznámky zapísané počas hovoru</string>
+  <string name="permission_intro_storage">Pre ukladanie poznámok a príloh</string>
+  <string name="permission_microphone_desc">Nahrávať hlasové poznámky</string>
+  <string name="permission_network_for_cloud_desc">Vyžaduje sa pripojenie k sieti pre synchronizáciu poznámok s Mi cloudom. Pripojiť sa teraz?</string>
+  <string name="permission_read_contact_desc">Pre spárovanie poznámok s kontaktom</string>
   <string name="permlab_accessNote">Prístup k poznámkam</string>
   <string name="pref_desc_alarm_when_silent">Budík a upozornenia budú zvoniť aj v tichom režime</string>
   <string name="pref_desc_skip_confirm_for_quick_delete">Potiahnite nahor dvoma prstami pre vymazanie poznámky</string>
+  <string name="pref_desc_todo_float_mode">Potiahnite z okraja displeja pre zobrazenie úloh</string>
+  <string name="pref_remind_type_summary">Prehrať hlasové poznámky v režime Nerušiť</string>
+  <string name="pref_remind_type_title">Ignorovať režim Nerušiť</string>
   <string name="pref_title_alarm_when_silent">Budík v tichom režime</string>
   <string name="pref_title_cloud_trash_bin">Vymazať poznámky z MiCloud</string>
   <string name="pref_title_common">Časté nastavenia</string>
@@ -150,6 +180,8 @@
   <string name="pref_title_recover_help">Obnoviť poznámky</string>
   <string name="pref_title_show_root_folder_in_homepage">Zobraziť iba rýchle poznámky na prvej strane</string>
   <string name="pref_title_skip_confirm_for_quick_delete">Vymazať gestom</string>
+  <string name="pref_title_todo_float_mode">Použiť Nástroje</string>
+  <string name="pref_title_todo_shorcut">Nástroje</string>
   <string name="privacy_hint">Súkromie</string>
   <string name="privacy_notes_fragment_title">Ukryté poznámky</string>
   <string name="recover_notes_hint">Boli zistené chyby poznámok， skúste ich obnoviť na i.mi.com</string>
@@ -157,6 +189,7 @@
   <string name="refuse_to_open_as_pic_because_of_loading">Počkajte kým sa poznámka načíta a skúste to znova.</string>
   <string name="refuse_to_share_as_pic_because_of_content">Táto poznámka je príliš veľká na zdieľanie.</string>
   <string name="refuse_to_share_as_pic_because_of_loading">Počkajte kým sa poznámka načíta a skúste to znova.</string>
+  <string name="remind_title">Pripomienky</string>
   <string name="rename_folder_dialog_tile">Premenovať zložku</string>
   <string name="rich_text_bold_description">Tučné</string>
   <string name="rich_text_center_description">Stred</string>
@@ -175,6 +208,8 @@
   <string name="search_setting_description">Vyhľadá text v poznámkach</string>
   <string name="select_account_prompt">Povoliť synchronizáciu poznámok</string>
   <string name="set_alarm_description">Upozornenie</string>
+  <string name="setting_other">Ostatné</string>
+  <string name="setting_privacy">Ochrana súkromia</string>
   <string name="sina_share_fail">Odosielanie zlyhalo</string>
   <string name="sina_share_fail_content_repeat">"Couldn't share, content already exists…"</string>
   <string name="sina_share_pendding">Odosielanie...</string>
@@ -225,76 +260,27 @@
   <string name="toast_notes_delete_success">Vymazané</string>
   <string name="toast_notes_hidden">Ukryté</string>
   <string name="toast_notes_hidden_count">Ukrytých %1$s</string>
+  <string name="toast_notes_hidden_edit">Poznámka bola ukrytá. Potiahnite nadol pre jej zobrazenie.</string>
+  <string name="toast_notes_hidden_home">Poznámka bola ukrytá. Potiahnite nadol pre jej zobrazenie.</string>
   <string name="toast_notes_unhidden">Odkryté</string>
   <string name="toast_notes_unhidden_count">Odkrytých %1$s</string>
+  <string name="toast_pic_is_not_really">Ukladanie obrázka...</string>
   <string name="toast_privacy_mode">Nie je možné vykonať pre ukrytú poznámku</string>
   <string name="toast_reach_text_limit_attachment">Obsah poznámky je príliš dlhý pre pridanie novej prílohy.</string>
   <string name="toast_reach_text_limit_checkbox">Nie je možné pridať políčko lebo poznámka je príliš dlhá</string>
   <string name="toast_reach_text_limit_truncate">"Obsah poznámky je automaticky skrátený, pretože je príliš dlhý."</string>
   <string name="toast_refuse_to_record_when_in_call">Táto funkcia je ndostupná počas hovoru</string>
-  <string name="toast_unmark_privacy_notes">Odkryté</string>
-  <string name="toast_unmark_privacy_notes_count">Označenie %1$s ako bežnej poznámky úspešné</string>
-  <string name="toolbar_check_description">Zaškrtávacie políčko</string>
-  <string name="toolbar_delete_description">Vymazať túto poznámku</string>
-  <string name="toolbar_gallery_description">Pridať obrázok</string>
-  <string name="toolbar_more_description">Viac</string>
-  <string name="toolbar_redo_description">Znova</string>
-  <string name="toolbar_share_description">Zdieľať</string>
-  <string name="toolbar_text_description">Štýl textu</string>
-  <string name="toolbar_theme_description">Téma</string>
-  <string name="toolbar_undo_description">Späť</string>
-  <string name="toolbar_voice_description">Hlas</string>
-  <string name="trash_folder_name">Kôš</string>
-  <string name="trash_folder_reminder">Poznámky ktoré vymažete budú navždy odstránené o 30 dní.</string>
-  <string name="undo">Späť</string>
-  <string name="unknown_source">Neznámy zdroj</string>
-  <string name="welcome_note_for_cm">"A oveľa viac!
-  - Synchr. s MiCloud
-  - Nastaviť upozornenia
-
-Pre viac informácií navštívte
-http://www.miuios.cz/rom
-"</string>
-  <string name="widget_content_loading">Načítavanie...</string>
-  <string name="widget_havenot_content">Žiadna poznámka nie je vytvorená.</string>
-  <string name="widget_under_privacy_mode">Režim Súkromie, nie je možné zobraziť obsah poznámky</string>
-  <string name="actionbar_close_description">Zatvoriť</string>
-  <string name="actionbar_home_description">Späť</string>
-  <string name="menu_more_description">Viac</string>
   <string name="toast_refuse_to_record_when_in_multi_window">Táto funkcia nie je dostupná v režime rozdelenia obrazovky</string>
-  <string name="date_time_picker_alarm_reminder">Budík</string>
-  <string name="date_time_picker_dialog_title">NAstaviť dátum a čas</string>
-  <string name="date_time_picker_has_not_set_alarm">Budík nie je nastavený</string>
-  <string name="date_time_picker_has_set_alarm">Budík je nastavený</string>
-  <string name="setting_other">Ostatné</string>
-  <string name="setting_privacy">Ochrana súkromia</string>
-  <string name="toast_notes_hidden_edit">Poznámka bola ukrytá. Potiahnite nadol pre jej zobrazenie.</string>
-  <string name="toast_notes_hidden_home">Poznámka bola ukrytá. Potiahnite nadol pre jej zobrazenie.</string>
-  <string name="cta_confirm_cancel">Zakázať</string>
-  <string name="cta_confirm_ok">Povoliť</string>
-  <string name="cta_dialog_message">Poznámky vyžadujú povolenia pre pripojenie k sieti, nahrávanie zvuku a prístup ku kontaktom. Chcete povoliť?</string>
-  <string name="cta_dialog_title">Povolenia</string>  
-  <string name="unclassfied_folder_name">Nerozdelené</string>
-  <string name="permission_intro_contact">Pre poznámky zapísané počas hovoru</string>
-  <string name="permission_intro_microphone">Pre nahrávky</string>
-  <string name="permission_intro_phone">re poznámky zapísané počas hovoru</string>
-  <string name="permission_intro_storage">Pre ukladanie poznámok a príloh</string>  
-	  <string name="toast_refuse_to_use_contact">"Povolenie ku kontaktom je zakázané.
+  <string name="toast_refuse_to_use_contact">"Povolenie ku kontaktom je zakázané.
 Povoľte aplikácií Poznámky prístup ku kontaktom."</string>
   <string name="toast_refuse_to_use_external_storage">"Povolenie prístupu k úložisku je zakázané.
 Povoľte aplikácií Poznámky prístup k úložisku."</string>
   <string name="toast_refuse_to_use_phone_state">"Povolenie prístupu k zoznamu hovorov je zakázané.
 Povoľte aplikácií Poznámky prístup k zoznamu hovorov."</string>
   <string name="toast_refuse_to_use_record_audio">"Povolenie prístupu k mikrofónu je zakázané.
-Povoľte aplikácií Poznámky prístup k mikrofónu."</string>  
-  <string name="toast_pic_is_not_really">Ukladanie obrázka...</string>
-  <string name="date_calculate_today">0 dní</string>
-  <string name="exceed_todo_text_limitation">Popis úlohy je príliš dlhý.</string>
-  <string name="menu_todo_hide_finished_todo">Skryť ukončené úlohy</string>
-  <string name="menu_todo_show_finished_todo">Zobraziť ukončené úlohy</string>
-  <string name="pref_desc_todo_float_mode">Potiahnite z okraja displeja pre zobrazenie úloh</string>
-  <string name="pref_title_todo_float_mode">Použiť Nástroje</string>
-  <string name="pref_title_todo_shorcut">Nástroje</string>
+Povoľte aplikácií Poznámky prístup k mikrofónu."</string>
+  <string name="toast_unmark_privacy_notes">Odkryté</string>
+  <string name="toast_unmark_privacy_notes_count">Označenie %1$s ako bežnej poznámky úspešné</string>
   <string name="todo_alert_title_delete">Vymazať ukončené úlohy</string>
   <string name="todo_custom_remind_tag_pattern_with_md">dd.MM HH:mm</string>
   <string name="todo_custom_remind_tag_pattern_with_ymd">dd.MM.yyyy HH:mm</string>
@@ -312,6 +298,7 @@ Povoľte aplikácií Poznámky prístup k mikrofónu."</string>
   <string name="todo_event_description_today">Dnes</string>
   <string name="todo_event_description_tomorrow">Zajtra</string>
   <string name="todo_event_description_yesterday">Včera</string>
+  <string name="todo_float_permission_open_reminder">Povoľte Poznámkam zobraziť plávajúce okná pre používanie tejto funkcie.</string>
   <string name="todo_item_group_expired">Expirované</string>
   <string name="todo_item_group_finished">Dokončené</string>
   <string name="todo_item_group_further">Neskôr</string>
@@ -323,6 +310,7 @@ Povoľte aplikácií Poznámky prístup k mikrofónu."</string>
   <string name="todo_item_status_unfinished">Nedokončené</string>
   <string name="todo_menu_add_audio_description">Pridať hlasovú úlohu</string>
   <string name="todo_menu_add_description">Pridať úlohu</string>
+  <string name="todo_menu_cancel">Zrušiť</string>
   <string name="todo_menu_delete">Vymazať</string>
   <string name="todo_module_name">Úlohy</string>
   <string name="todo_notify_alarm_title">Upozornenie na úlohu</string>
@@ -335,24 +323,36 @@ Povoľte aplikácií Poznámky prístup k mikrofónu."</string>
   <string name="todo_schedule_time_ymdhm">dd.MM.yyyy HH:mm</string>
   <string name="todo_search_hint">Vyhľadať úlohu</string>
   <string name="todo_time_picker_title">NAstaviť upozornenie</string>
+  <string name="todo_user_guide_fw_pop">Pridať odkaz na plochu</string>
   <string name="todo_user_guide_tip1">Vitajte v \"Úlohách\"!</string>
   <string name="todo_user_guide_tip2">Toto je úloha. Môžete zaškrtnúť políčko keď ju dokončíte.</string>
   <string name="todo_user_guide_tip3">Stlačte plus pre pridanie úlohy.</string>
   <string name="todo_user_guide_tip4">Nastavte si upozornenia na vaše úlohy.</string>
-  <string name="todoalert_done">OK</string>  
-  <string name="app_notification_info">Poznámky pracujú na pozadí</string>
-  <string name="check_in_todo_app">Zobraziť úlohy</string>
-  <string name="todo_float_permission_open_reminder">Povoľte Poznámkam zobraziť plávajúce okná pre používanie tejto funkcie.</string>
-  <string name="todo_menu_cancel">Zrušiť</string>
-  <string name="todo_user_guide_fw_pop">Pridať odkaz na plochu</string>
   <string name="todo_user_guide_tip5">Nikdy nepremeškajte nič dôležité!</string>
-     <string name="confirm_cancel">Nesúhlasím</string>
-     <string name="confirm_ok">Súhlasím</string>
-     <string name="permission_get_account_desc">Synchronizácia poznámok</string>
-     <string name="permission_microphone_desc">Nahrávať hlasové poznámky</string>
-     <string name="permission_network_for_cloud_desc">Vyžaduje sa pripojenie k sieti pre synchronizáciu poznámok s Mi cloudom. Pripojiť sa teraz?</string>
-     <string name="permission_read_contact_desc">Pre spárovanie poznámok s kontaktom</string>
-     <string name="pref_remind_type_summary">Prehrať hlasové poznámky v režime Nerušiť</string>
-     <string name="pref_remind_type_title">Ignorovať režim Nerušiť</string>
-     <string name="remind_title">Pripomienky</string>  
+  <string name="todoalert_done">OK</string>
+  <string name="toolbar_check_description">Zaškrtávacie políčko</string>
+  <string name="toolbar_delete_description">Vymazať túto poznámku</string>
+  <string name="toolbar_gallery_description">Pridať obrázok</string>
+  <string name="toolbar_more_description">Viac</string>
+  <string name="toolbar_redo_description">Znova</string>
+  <string name="toolbar_share_description">Zdieľať</string>
+  <string name="toolbar_text_description">Štýl textu</string>
+  <string name="toolbar_theme_description">Téma</string>
+  <string name="toolbar_undo_description">Späť</string>
+  <string name="toolbar_voice_description">Hlas</string>
+  <string name="trash_folder_name">Kôš</string>
+  <string name="trash_folder_reminder">Poznámky ktoré vymažete budú navždy odstránené o 30 dní.</string>
+  <string name="unclassfied_folder_name">Nerozdelené</string>
+  <string name="undo">Späť</string>
+  <string name="unknown_source">Neznámy zdroj</string>
+  <string name="welcome_note_for_cm">"A oveľa viac!
+  - Synchr. s MiCloud
+  - Nastaviť upozornenia
+
+Pre viac informácií navštívte
+http://www.miuios.cz/rom
+"</string>
+  <string name="widget_content_loading">Načítavanie...</string>
+  <string name="widget_havenot_content">Žiadna poznámka nie je vytvorená.</string>
+  <string name="widget_under_privacy_mode">Režim Súkromie, nie je možné zobraziť obsah poznámky</string>
 </resources>

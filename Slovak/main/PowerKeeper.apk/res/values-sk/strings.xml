@@ -1,12 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="about_extreme_mode">Extrémna úspora batérie</string>
   <string name="about_hide_mode">Čo je to MIUI Úspora batérie</string>
   <string name="action_bar_delete">Vymazať</string>
   <string name="action_settings">Nastavenia</string>
   <string name="action_title_optimize">Optimalizovať</string>
+  <string name="active_classify">Zoradiť podľa aktivity</string>
   <string name="activity_title_poweranalyze">Test batérie</string>
   <string name="activity_title_powerconfigure">Nastavenie batérie</string>
   <string name="activity_title_poweroptimize">Úspora batérie</string>
+  <string name="adaptive_battery_summary">Obmedziť využívanie batérie pre aplikácie ktoré nepoužívate</string>
+  <string name="adaptive_battery_title">Adaptívna batéria</string>
   <string name="add_applications">Vybrať aplikácie</string>
   <string name="add_apps_title">Aplikácie</string>
   <string name="add_user_define_group_failed">Nebolo možné pridať nový profil</string>
@@ -22,12 +26,17 @@
   <string name="app_list_title">Nastaviť obmedzenie aplikácií</string>
   <string name="app_list_total">%d apl.</string>
   <string name="app_name">Úspora batérie</string>
+  <string name="app_preload_policies_summary">Použiť AI pre predpovedanie aplikácií ktoré najviac využívate a prednačítať ich.</string>
+  <string name="app_preload_policies_title">AI prednačítanie</string>
+  <string name="appconfig_active_app_dialog_title">Spravovať aktívne aplikácie</string>
+  <string name="atrace_saved">Uložené</string>
   <string name="background">Aplikácia je na pozadí</string>
   <string name="base_info">Info</string>
   <string name="cloud_addr_info">HideMode cloud info</string>
   <string name="cloud_china_addr">Update china server data</string>
   <string name="cloud_international_addr">Update international server data</string>
   <string name="cloud_staging_addr">Update staging server data</string>
+  <string name="config_classify">Zoradiť podľa nastavenia</string>
   <string name="config_custom_description">Nastavenie vlastných pravidiel pre aplikáciu</string>
   <string name="config_custom_title">Vlastné pravidlá</string>
   <string name="config_description">MIUI môže identifikovať aplikácie so špecifickými procesmi na pozadí (napr.: navigácie, WhatsApp, Hangouts, Viber...), a použiť úsporu batérie spôsobom ktorý neovplyvní ich činnosť."</string>
@@ -45,6 +54,8 @@
   <string name="config_suggest_title">MIUI úspora batérie</string>
   <string name="confirm">Potvrdiť</string>
   <string name="current_cloud_addr_is">The cloud control server address is:</string>
+  <string name="dark_mode">Tmavý režim</string>
+  <string name="dark_mode_summary">Prepnite sa do tmavých farieb pre úsporu batérie</string>
   <string name="disable_hide_mode">Deaktivovať MIUI Úsporu batérie</string>
   <string name="disable_hide_mode_warning">Deaktivácia MIUI Úspory batérie môže zvýšiť spotrebu batérie</string>
   <string name="disabled">Vyp</string>
@@ -52,9 +63,14 @@
   <string name="enable_hide_mode">Povoliť MIUI Úsporu batérie</string>
   <string name="enable_sleep_mode">Povolenie režimu spánku pre optimalizáciu spotreby v noci</string>
   <string name="error_filename_too_long">Zadaný názov je príliš dlhý.</string>
+  <string name="extreme_add_white_list_summary">Maximálne 4 aplikácie</string>
+  <string name="extreme_add_white_list_title">Výnimky</string>
+  <string name="extreme_mode_max_item_alert">Len 4 aplikácie môžu byť spustené na pozadí počas Extrémnej úspory batérie</string>
   <string name="extreme_power_config_mode_category">Extrémna Úspora batérie</string>
   <string name="extreme_power_config_mode_desc">Povolenie tejto funkcie deaktivuje synchronizáciu, bluetooth, GPS, NFC, prebudenie dvojitým poklepaním, podsvietenie tlačidiel, rozsvietenie displeja pri novom upozornení, LED.</string>
+  <string name="extreme_power_config_mode_summary">Extrémna úspora batérie obmedzí aktivity na pozadí</string>
   <string name="extreme_power_config_mode_title">Extrémna Úspora batérie</string>
+  <string name="extreme_power_settings_title">Nastavenia</string>
   <string name="failure">Chyba</string>
   <string name="foreground_change">Aplikácia je spustená v popredí</string>
   <string name="fragment_nonesys_listempty">Žiadne aplikácie</string>
@@ -69,6 +85,8 @@
   <string name="hide_mode_ultimate_desc">Ultimate režim je aktívny. Aplikácie na pozadí budú zmrazené. Deaktivujte úsporu batérie pre ukončenie Ultimate režimu.</string>
   <string name="hide_system_app">Skryť systémové apl.</string>
   <string name="high">Výkonný</string>
+  <string name="high_temp_state">Vysoká teplota</string>
+  <string name="high_temp_state_message">Ochrana proti prehriatiu zariadenia. Dáta, Wi-Fi, Fotoaparát, atď. budú zakázané.</string>
   <string name="hints_loading_text">Načítavanie...</string>
   <string name="history_details_title">Podrobnosti histórie</string>
   <string name="important_warning">Upozornenie</string>
@@ -87,6 +105,7 @@
   <string name="media">Multimediálny režim</string>
   <string name="menu_text_power_analysis">Test batérie</string>
   <string name="menu_text_power_configure">Nastavenie batérie</string>
+  <string name="message_i_know">Rozumiem</string>
   <string name="middle">Vyvážený</string>
   <string name="mode_delete">Vymazať</string>
   <string name="mode_export">Exportovať</string>
@@ -100,7 +119,12 @@
   <string name="nonui_mode_config_description">Nerozsviecovať displej, LED, senzor odtlačku prsta keď je zariadenie vo vrecku.</string>
   <string name="nonui_mode_config_title">Neinteraktívny režim</string>
   <string name="normal">Predvolený režim</string>
+  <string name="notification_exit_extreme_mode_text">Batéria má viac ako %s</string>
+  <string name="notification_exit_extreme_mode_title">Vypnuté Extrémne šetrenie batérie</string>
+  <string name="notification_open_extreme_mode_text">Povolené Extrémne šetrenie batérie</string>
   <string name="notify_app_consume_abnormal_title">" vybíja batériu"</string>
+  <string name="open_dark_mode">Prepnúť do Tmavého režimu</string>
+  <string name="open_dark_mode_tip">Kvalita zobrazenia bude znížená v Tmavom režime. Chcete povoliť Tmavý režim?</string>
   <string name="operation_create_group">Názov</string>
   <string name="operation_create_group_message">Zadajte nový názov skupiny</string>
   <string name="performance_category">Výkon</string>
@@ -202,6 +226,7 @@
   <string name="power_optimize_activity_profile_file_error">Chyba Úspory batérie</string>
   <string name="power_usage">Využitie batérie</string>
   <string name="pref_config_title">Optimalizácia výkonu</string>
+  <string name="privacy">Ochrana súkromia</string>
   <string name="quick_disconnect_description">Aplikácia nebude mať prístup k sieti na pozadí</string>
   <string name="quick_disconnect_title">Odpojiť</string>
   <string name="ragment_sys_listempty">Žiadne aplikácie</string>
@@ -239,29 +264,4 @@
   <string name="user_define_mode">Názov</string>
   <string name="warm_configure">Nastavenie kontroly teploty</string>
   <string name="warm_performance_tip">Vo výkonných operáciach sa môže teplota zariadenia zvýšiť viac ako je bežné</string>
-  <string name="about_extreme_mode">Extrémna úspora batérie</string>
-  <string name="extreme_mode_max_item_alert">Len 4 aplikácie môžu byť spustené na pozadí počas Extrémnej úspory batérie</string>
-  <string name="message_i_know">Rozumiem</string>
-  <string name="privacy">Ochrana súkromia</string>
-  <string name="config_classify">Zoradiť podľa nastavenia</string>
-  <string name="high_temp_state">Vysoká teplota</string>
-  <string name="high_temp_state_message">Ochrana proti prehriatiu zariadenia. Dáta, Wi-Fi, Fotoaparát, atď. budú zakázané.</string>
-  <string name="extreme_power_config_mode_summary">Extrémna úspora batérie obmedzí aktivity na pozadí</string>  
-  <string name="extreme_add_white_list_summary">Maximálne 4 aplikácie</string>
-  <string name="extreme_add_white_list_title">Výnimky</string>
-  <string name="dark_mode">Tmavý režim</string>
-  <string name="dark_mode_summary">Prepnite sa do tmavých farieb pre úsporu batérie</string>
-  <string name="open_dark_mode">Prepnúť do Tmavého režimu</string>
-  <string name="open_dark_mode_tip">Kvalita zobrazenia bude znížená v Tmavom režime. Chcete povoliť Tmavý režim?</string>
-  <string name="adaptive_battery_title">Adaptívna batéria</string>
-  <string name="adaptive_battery_summary">Obmedziť využívanie batérie pre aplikácie ktoré nepoužívate</string>
-  <string name="appconfig_active_app_dialog_title">Spravovať aktívne aplikácie</string>
-     <string name="active_classify">Zoradiť podľa aktivity</string>
-     <string name="app_preload_policies_summary">Použiť AI pre predpovedanie aplikácií ktoré najviac využívate a prednačítať ich.</string>
-     <string name="app_preload_policies_title">AI prednačítanie</string>
-     <string name="atrace_saved">Uložené</string>
-     <string name="extreme_power_settings_title">Nastavenia</string>
-     <string name="notification_exit_extreme_mode_text">Batéria má viac ako %s</string>
-     <string name="notification_exit_extreme_mode_title">Vypnuté Extrémne šetrenie batérie</string>
-     <string name="notification_open_extreme_mode_text">Povolené Extrémne šetrenie batérie</string>  
 </resources>

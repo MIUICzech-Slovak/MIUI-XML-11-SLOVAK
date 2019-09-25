@@ -29,6 +29,7 @@
   <string name="find_device_notice_p1">Choďte na</string>
   <string name="find_device_notice_p3">" pre vyhľadanie, zablokovanie, alebo obnovu vášho zariadenia.
 Ak zmeníte SIM kartu, automaticky sa odošle SMS pre jej aktiváciu."</string>
+  <string name="find_device_notice_sms_alert">Ak zmeníte SIM kartu, bude odoslaná SMS pre aktiváciu tejto funkcie.</string>
   <string name="find_device_stop_noise">Stlačte OK pre vypnutie</string>
   <string name="find_device_storage_corrupted">Find Device storage corrupted. Your device is unsafe now.</string>
   <string name="find_device_success_title">Vyhľadať zariadenie</string>
@@ -85,5 +86,4 @@ Prihláste sa na i.mi.com a skúste odblokovať vaše zariadenie odtiaľ"</strin
   <string name="unlocking">Aktivovanie...</string>
   <string name="verifing_account">Overovanie hesla...</string>
   <string name="verify_password_failed">Nebolo možné overiť Mi účet. %s.</string>
-  <string name="find_device_notice_sms_alert">Ak zmeníte SIM kartu, bude odoslaná SMS pre aktiváciu tejto funkcie.</string>
 </resources>

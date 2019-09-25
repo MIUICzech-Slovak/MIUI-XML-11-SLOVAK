@@ -33,10 +33,14 @@ Pre viac informácií si prečítajte Pomoc.</string>
   <string name="notification_show_more">Viac funkcií</string>
   <string name="privacy_agree">Súhlasím</string>
   <string name="privacy_text_1">　Používaním tejto funkcie súhlasíte s našimi Podmienkami používania a Ochranou súkromia.</string>
-  <string name="privacy_text_2" />
+  <string name="privacy_text_2"/>
   <string name="privacy_text_pemission">"　　• Wi-Fi je používané pre vyhľadávanie zariadení.
 　　•Bluetooth je používané pre vyhľadávanie zariadení."</string>
   <string name="private_protect">Chrániť súkromie</string>
+  <string name="san_wait_msg_1">Cieľové zariadenie potrebuje spustiť screencast</string>
+  <string name="san_wait_msg_2">Vyhľadávanie zariadenia môže chvíľku trvať...</string>
+  <string name="san_wait_msg_3">Zariadenie sa ľahšie vyhľadávajú ak sú pripojené na rovnakú Wi-Fi sieť</string>
+  <string name="san_wait_msg_4">Stlačte \"Pomoc\" ak nemôžete nájsť zariadenie</string>
   <string name="small_window">Minimalizovať okno</string>
   <string name="status_bar_in_casting">Vysielanie</string>
   <string name="status_bar_in_casting_long">Zobraziť viac funkcií</string>
@@ -46,8 +50,4 @@ Pre viac informácií si prečítajte Pomoc.</string>
   <string name="toast_msg_for_multi_window">Táto funkcia nie je dostupná pri rozdelenej obrazovke</string>
   <string name="toast_msg_for_small_window">Po otvorení aplikácie ktorú chcete vysielať na TV, použite malé okno pre vysielanie.</string>
   <string name="toast_title_for_small_window">Použite malé okno pre vysielanie.</string>
-     <string name="san_wait_msg_1">Cieľové zariadenie potrebuje spustiť screencast</string>
-     <string name="san_wait_msg_2">Vyhľadávanie zariadenia môže chvíľku trvať...</string>
-     <string name="san_wait_msg_3">Zariadenie sa ľahšie vyhľadávajú ak sú pripojené na rovnakú Wi-Fi sieť</string>
-     <string name="san_wait_msg_4">Stlačte \"Pomoc\" ak nemôžete nájsť zariadenie</string>  
 </resources>

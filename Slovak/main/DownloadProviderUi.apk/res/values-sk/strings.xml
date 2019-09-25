@@ -51,6 +51,7 @@
   <string name="dialog_confirm_delete_checkbox_message">Vymazať aj uložený súbor</string>
   <string name="dialog_confirm_delete_downloads_message">Vymazať úlohy (%d)?</string>
   <string name="dialog_confirm_delete_the_download_item_message">Vymazať tieto úlohy</string>
+  <string name="dialog_content_limit_max">Bez limitu</string>
   <string name="dialog_failed_body">Chcete tento súbor skúsiť znova prevziať neskôr, alebo ho chcete zo zoznamu odstrániť?</string>
   <string name="dialog_file_already_exists">Nepodarilo sa prevziať. Cieľový súbor už existuje.</string>
   <string name="dialog_file_missing_body">Prevzatý súbor sa nepodarilo nájsť.</string>
@@ -133,6 +134,7 @@
   <string name="get_order_fail_msg">Objednávka zlyhala</string>
   <string name="high_speed_channel">High speed channel data</string>
   <string name="hint">Upozornenie</string>
+  <string name="home_page_new_download_guide">Nové sťahovania budú tu</string>
   <string name="immediately_a_renewal">Immediately a renewal</string>
   <string name="info_flow_only_load_wifi">Načítať odporúčané len cez Wi-Fi</string>
   <string name="info_flow_setting">Nastavenie obsahu</string>
@@ -175,6 +177,7 @@
   <string name="other">Ostatné</string>
   <string name="other_filter">Ostatné</string>
   <string name="package_filter">Balíčky</string>
+  <string name="path_no_available">Táto cesta nie je dostupná</string>
   <string name="pause_download">Pauza</string>
   <string name="paused">Zastavené</string>
   <string name="paused_by_app">Pozastavené</string>
@@ -193,6 +196,7 @@
   <string name="pref_summary_no_limit_popup">Neobmedzená veľkosť súboru</string>
   <string name="pref_title_enable_max_bytes_popup">Opýtať sa pri sťahovaní dát</string>
   <string name="preferences_title">Nastavenia</string>
+  <string name="privacy_policy">Ochrana súkromia</string>
   <string name="privacy_tip_cancel">Zrušiť</string>
   <string name="privacy_tip_content">"Use Xunlei Accelerator to speed up downloads? The URL of the download's host will uploaded to Xunlei's servers. Your Mi Account details will also be uploaded to check if you have any active subscriptions to this service."</string>
   <string name="privacy_tip_ok">OK</string>
@@ -276,8 +280,4 @@ Táto funkcia nie je mimo Čínu odporúčaná"</string>
   <string name="xunlei_open_info">Stiahnuť tento súbor cez MIUI správcu sťahovania?</string>
   <string name="xunlei_speed_service">Xunlei sťahovanie</string>
   <string name="xunlei_switch">Xunlei sťahovanie</string>
-  <string name="home_page_new_download_guide">Nové sťahovania budú tu</string>
-  <string name="dialog_content_limit_max">Bez limitu</string>
-  <string name="path_no_available">Táto cesta nie je dostupná</string>
-  <string name="privacy_policy">Ochrana súkromia</string>  
 </resources>
