@@ -732,4 +732,47 @@ Odoslané ID vášho zariadenia na server Mi bude šifrované."</string>
   <string name="micloud_find_device_sms_alert">Ak zmeníte vašu SIM kartu, automaticky sa odošle SMS pre aktiváciu tejto funkcie.</string>
   <string name="micloud_manaul_sync_success_time_prefix">Posledná synchr.: %s</string>
   <string name="storage_manage_title">Zmeniť predplatné cloud úložiska</string>
+  <string name="priv_dialog_finddevice_all_purpose_phone">Vitajte vo vyhľadávaní zariadenia! Môžete túto funkciu vyžiť pre vyhľadanie, uzamknutie alebo vymazanie vášho zariadenie v prípade jeho straty alebo odcudzenia</string>
+  <string name="priv_dialog_sync_all_purpose">Vitajte v Xiaomi Cloude! cloud môžete využiť na synchronizáciu vašich SMS, histórie volaní, kontaktov, poznámok, nastavení, fotografií, nahrávok a kalendára.</string>
+  <string name="priv_doc_cloudservice">"Vitajte v Xiaomi Cloude! cloud môžete využiť na synchronizáciu vašich SMS, histórie volaní, kontaktov, poznámok, nastavení, fotografií, nahrávok a kalendára. Prístup k vášmu Xiaomi Cloudu máte na i.mi.com
+
+Pre aktiváciu tejto služby bude odoslaná bežná SMS.
+
+Pre správne fungovanie tejto funkcie sú vyžadované tieto povolenia:
+&amp;#8226; Kalendár:
+Pre synchronizáciu udalostí
+&amp;#8226; Prístup k SMS:
+Pre synchronizáciu správ
+&amp;#8226; Prístup k MMS:
+Pre synchronizáciu správ
+&amp;#8226; Prístup ku kontaktom:
+Pre synchronizáciu kontaktov
+&amp;#8226; Úprava kontaktov:
+Pre synchronizáciu kontaktov
+&amp;#8226; Úložisko:
+
+Prečítajte si a odsúhlaste naše Podmienky používania a Ochranu súkromia.
+"</string>
+  <string name="priv_doc_finddevice_phone">"Vitajte v Xiaomi Cloude! cloud môžete využiť na synchronizáciu vašich SMS, histórie volaní, kontaktov, poznámok, nastavení, fotografií, nahrávok a kalendára. Prístup k vášmu Xiaomi Cloudu máte na i.mi.com.
+
+Pre správne fungovanie tejto funkcie sú vyžadované tieto povolenia:
+&amp;#8226; Prístup k informáciám o zariadení:
+Pre identifikáciu zariadenia
+&amp;#8226; Poloha:
+Pre vyhľadanie vášho zariadenia
+Prečítajte si a odsúhlaste naše Podmienky používania a Ochranu súkromia.
+"</string>
+  <string name="priv_doc_finddevice_with_telephony_feature_phone">"Vitajte v Xiaomi Cloude! cloud môžete využiť na synchronizáciu vašich SMS, histórie volaní, kontaktov, poznámok, nastavení, fotografií, nahrávok a kalendára. Prístup k vášmu Xiaomi Cloudu máte na i.mi.com.
+
+
+Pre aktiváciu tejto služby bude odoslaná bežná SMS.
+
+Pre správne fungovanie tejto funkcie sú vyžadované tieto povolenia:
+&amp;#8226; Prístup k informáciám o zariadení:
+Pre identifikáciu zariadenia
+&amp;#8226; Poloha:
+Pre vyhľadanie vášho zariadenia
+
+Prečítajte si a odsúhlaste naše Podmienky používania a Ochranu súkromia.
+"</string>  
 </resources>

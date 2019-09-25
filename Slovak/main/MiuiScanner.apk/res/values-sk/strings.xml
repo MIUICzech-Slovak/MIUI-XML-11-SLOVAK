@@ -201,6 +201,14 @@
   <string name="setting_use_last_choose">Pamätať predchádzajúce nastavenie</string>
   <string name="business_card_with_qr_code">Zamerajte vizitku alebo QR do rámčeka</string>
   <string name="module_title_business_card">Vizitka</string>
-     <string name="close_hotspot_when_connecting_to_wifi">Hotspot je zapnutý. Zapnite Wi-Fi.</string>
-     <string name="setting_function_sort">Upraviť funkcie</string>  
+  <string name="close_hotspot_when_connecting_to_wifi">Hotspot je zapnutý. Zapnite Wi-Fi.</string>
+  <string name="setting_function_sort">Upraviť funkcie</string>  
+  <string name="agree_app_use">Skenovanie QR kódov a ich rozpoznávanie</string>
+  <string name="agree_camera_permission">Pre zhotovenie fotografie</string>
+  <string name="agree_storage_permission">Pre prístup k súborom vo vašom zariadení</string>
+  <string name="always">Vždy</string>
+  <string name="choose_open_code_app">Vyberte aplikáciu</string>
+  <string name="once">Len raz</string>
+  <string name="to_install_title">tento QR kód odkazuje na odinštalovanú aplikáciu. Chcete ju znova stiahnuť?</string>
+  <string name="toinstall">Stiahnuť</string>
 </resources>
