@@ -346,7 +346,7 @@ Správca môže sledovať a spravovať nastavenia, prístup, aplikácie a údaje
   <string name="app_overlay_permission_preference">Povolenie na vykreslenie aplikácie navrchu</string>
   <string name="app_permissions">Povolenia aplikácií</string>
   <string name="app_permissions_group_summary" formatted="false">Povolené: %d z %d aplikácií</string>
-  <string name="app_permissions_summary" formatted="false">Ďalší prístup povolený %d z %d aplikácií</string>
+  <string name="app_permissions_summary">Aplikácie používajúce %1$s</string>
   <string name="app_process_limit_title">Limit procesov na pozadí</string>
   <string name="app_restrictions_custom_label">Nastaviť obmedzenia aplikácie</string>
   <string name="app_sees_restricted_accounts">Táto aplikácia môže pristupovať k vašim účtom</string>
