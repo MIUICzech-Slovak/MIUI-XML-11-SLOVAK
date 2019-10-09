@@ -281,7 +281,7 @@
   <string name="main_paste_add">Adds</string>
   <string name="main_search_hint">Search</string>
   <string name="main_select">Select</string>
-  <string name="memory_clear_nothing_result">Chache je prázdna</string>
+  <string name="memory_clear_nothing_result">Cache je prázdna</string>
   <string name="memory_clear_result">Vyčistené: %1$sB</string>
   <string name="menu_new">Add</string>
   <string name="metre">m</string>
