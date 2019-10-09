@@ -6029,21 +6029,4 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="zone_auto_summaryOn">Použiť časové pásmo zo siete</string>
   <string name="zone_list_menu_sort_alphabetically">Zoradiť abecedne</string>
   <string name="zone_list_menu_sort_by_timezone">Zoradiť podľa časového pásma</string>
-
-  <string name="color_led_applications_title">Vybrať aplikácie</string>
-  <string name="color_led_applications_title_summary">Môžete obmedziť používanie LED pre jednotlivé aplikácie</string>
-  <string name="color_led_battery_title">Ponechať počas nabíjania</string>
-  <string name="color_led_charging_summary">Bude vypnutá po skončení nabíjania</string>
-  <string name="color_led_end_time">Koniec</string>
-  <string name="color_led_game_mode_summary">Zobraziť efekty počas hry ak je povolené Zrýchlenie hier</string>
-  <string name="color_led_game_mode_title">Použiť pre Zrýchlenie hier</string>
-  <string name="color_led_hint">Vyberte kedy sa má použiť LED. LED sa rozsvieti keď je zariadenie položené displejom nadol a režim Nerušiť je vypnutý.</string>
-  <string name="color_led_incall_pulse_title">Použiť pre prichádzajúci hovor</string>
-  <string name="color_led_music_mode_summary">Blikať LED do rytmu hudby. Nefunguje v tichom režime.</string>
-  <string name="color_led_music_mode_title">Použiť pre hudbu</string>
-  <string name="color_led_notification_pulse_title">Blikať LED pre upozornenia ak je vypnutý displej</string>
-  <string name="color_led_special_scene_title">Špeciálne efekty</string>
-  <string name="color_led_start_time">Začiatok</string>
-  <string name="color_led_summary">Nefunguje v režime Nerušiť</string>
-  <string name="color_led_title">LED</string>  
 </resources>
