@@ -3341,4 +3341,10 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="wlan_optimization_title">Optimalizácia Wi-Fi</string>
   <string name="wrong_password">Nesprávne heslo</string>
   <string name="xunyou_server_expired">Relácia vypršala.</string>
+  <string name="power_center_5g_save_close_detail">5G šetrenie batérie zníži spotrebu batérie bez ovplyvnenia 5G pripojenia. Povoliť?</string>
+  <string name="power_center_5g_save_close_later">Nevypínať</string>
+  <string name="power_center_5g_save_close_title">Deaktivácia 5G šetrenia batérie</string>
+  <string name="power_center_5g_save_summary_text">Znížiť spotrebu batérie 5G pripojením</string>
+  <string name="power_center_5g_save_title_text">5G šetrenie batérie</string>  
+  <string name="process_vpnsdkmanager_label">Zrýchlenie hier</string>
 </resources>

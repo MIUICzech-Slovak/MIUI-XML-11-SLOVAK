@@ -382,4 +382,7 @@
   <string name="widget_global_search">Vyhľadávanie</string>
   <string name="widget_quick_function">Skratky</string>
   <string name="widgets_preview_title">Pridať widget</string>
+  <string name="launcher_minus_screen_title">Plocha naľavo</string>
+  <string name="minus_one_screen_none">Žiadna</string>  
+  <string name="minus_one_screen_google">Google</string>
 </resources>

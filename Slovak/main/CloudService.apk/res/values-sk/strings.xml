@@ -775,4 +775,7 @@ Prečítajte si a odsúhlaste naše Podmienky používania a Ochranu súkromia.
   <string name="xiaomi_cloud_service">MiCloud</string>
   <string name="xiaomi_cloud_service_subtitle">Všetky dôležité položky na jednom mieste</string>
   <string name="xmpp_server_addr"/>
+  <string name="cloud_storage_already_full">Cloudové úložisko je plné: %1$s/%2$s</string>
+  <string name="cloud_storage_default_title">Cloudové úložisko</string>
+  <string name="cloud_storage_loading_data">Načítavanie...</string>
 </resources>

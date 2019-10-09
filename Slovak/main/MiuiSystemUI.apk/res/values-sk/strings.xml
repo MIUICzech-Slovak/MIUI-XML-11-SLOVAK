@@ -2053,4 +2053,6 @@ Akýkoľvek používateľ môže aktualizovať aplikácie všetkých ostatných 
   <string name="zen_priority_introduction">Nebudú vás vyrušovať zvuky ani vibrácie, iba budíky, pripomenutia, udalosti a volajúci, ktorých určíte. Budete naďalej počuť všetko, čo sa rozhodnete prehrať, ako napríklad hudbu, videá a hry.</string>
   <string name="zen_silence_introduction">Zablokujú sa tým VŠETKY zvuky a vibrácie vrátane zvukov budíkov, hudby, videí a hier.</string>
   <string name="zen_silence_introduction_voice">Zablokujú sa VŠETKY zvuky a vibrácie vrátane budíkov, hudby, videí a hier. Stále však budete môcť telefonovať.</string>
+  <string name="gxzw_quick_close">Zatvoriť</string>
+  <string name="gxzw_quick_open_title">Otvorené menu skratiek</string>
 </resources>
