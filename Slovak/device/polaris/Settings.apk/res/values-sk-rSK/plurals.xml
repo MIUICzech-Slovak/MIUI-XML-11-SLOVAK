@@ -2,22 +2,28 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <plurals name="abc_slice_duration_days">
-        <item quantity="other">Pred %d dňami</item>
-        <item quantity="one">Pred %d dňom</item>
-        <item quantity="few">Pred %d dňami</item>
-        <item quantity="many">Pred %d dňami</item>
+        <item quantity="other">pred %d dňami</item>
+        <item quantity="one">pred %d dňom</item>
+        <item quantity="few">pred %d dňami</item>
+        <item quantity="many">pred %d dňa</item>
      </plurals>
      <plurals name="abc_slice_duration_min">
-        <item quantity="other">Pred %d min</item>
-        <item quantity="one">Pred %d min</item>
-        <item quantity="few">Pred %d min</item>
-        <item quantity="many">Pred %d min</item>
+        <item quantity="other">pred %d min</item>
+        <item quantity="one">pred %d min</item>
+        <item quantity="few">pred %d min</item>
+        <item quantity="many">pred %d min</item>
      </plurals>
      <plurals name="abc_slice_duration_years">
-        <item quantity="other">Pred %d rokmi</item>
-        <item quantity="one">Pred %d rokom</item>
-        <item quantity="few">Pred %d rokmi</item>
-        <item quantity="many">Pred %d rokom</item>
+        <item quantity="other">pred %d rokmi</item>
+        <item quantity="one">pred %d rokom</item>
+        <item quantity="few">pred %d rokmi</item>
+        <item quantity="many">pred %d roka</item>
+     </plurals>
+     <plurals name="accessibility_usage_summary">
+        <item quantity="other">Do vášho zariadenia má prístup %1$d aplikácií</item>
+        <item quantity="one">Do vášho zariadenia má prístup 1 aplikácia</item>
+        <item quantity="few">Do vášho zariadenia majú prístup %1$d aplikácie</item>
+        <item quantity="many">%1$d apps have full access to your device</item>
      </plurals>
      <plurals name="accessibilty_autoclick_preference_subtitle_extremely_short_delay">
         <item quantity="other">Extrémne krátke oneskorenie (%1$d ms)</item>
@@ -169,6 +175,18 @@
         <item quantity="few">%s hodiny</item>
         <item quantity="many">%s hodiny</item>
      </plurals>
+     <plurals name="location_app_permission_summary_location_on">
+        <item quantity="other">%1$d z(o) %2$d aplikácií má prístup k polohe</item>
+        <item quantity="one">%1$d z %2$d aplikácií má prístup k polohe</item>
+        <item quantity="few">%1$d z(o) %2$d aplikácií majú prístup k polohe</item>
+        <item quantity="many">%1$d of %2$d apps have access to location</item>
+     </plurals>
+     <plurals name="location_settings_summary_location_on">
+        <item quantity="other">Zapnuté – %1$d aplikácií má prístup k polohe</item>
+        <item quantity="one">Zapnuté – %1$d aplikácia má prístup k polohe</item>
+        <item quantity="few">Zapnuté – %1$d aplikácie majú prístup k polohe</item>
+        <item quantity="many">On - %1$d apps have access to location</item>
+     </plurals>
      <plurals name="manage_trust_agents_summary_on">
         <item quantity="other">%d aktívnych agentov dôvery</item>
         <item quantity="one">1 aktívny agent dôvery</item>
@@ -181,11 +199,23 @@
         <item quantity="few">%s minúty</item>
         <item quantity="many">%s minúty</item>
      </plurals>
+     <plurals name="mobile_network_summary_count">
+        <item quantity="other">%1$d SIM kariet</item>
+        <item quantity="one">%1$d SIM karta</item>
+        <item quantity="few">%1$d SIM karty</item>
+        <item quantity="many">%1$d SIMs</item>
+     </plurals>
      <plurals name="network_restrictions_summary">
         <item quantity="other">%1$d obmedzení</item>
         <item quantity="one">1 obmedzenie</item>
         <item quantity="few">%1$d obmedzenia</item>
         <item quantity="many">%1$d obmedzenia</item>
+     </plurals>
+     <plurals name="notification_few_channel_count_summary">
+        <item quantity="other">%1$d kanálov upozornení.</item>
+        <item quantity="one">%1$d kanál upozornení.</item>
+        <item quantity="few">%1$d kanály upozornení.</item>
+        <item quantity="many">%1$d notification channels.</item>
      </plurals>
      <plurals name="notification_group_summary">
         <item quantity="other">%d kategórií</item>
@@ -205,11 +235,29 @@
         <item quantity="few">%d kategórie boli vypnuté</item>
         <item quantity="many">%d categories turned off</item>
      </plurals>
+     <plurals name="notifications_sent_daily">
+        <item quantity="other">~%d upozornení denne</item>
+        <item quantity="one">~%d upozornenie denne</item>
+        <item quantity="few">~%d upozornenia denne</item>
+        <item quantity="many">~%d notifications per day</item>
+     </plurals>
+     <plurals name="notifications_sent_weekly">
+        <item quantity="other">~%d upozornení týždenne</item>
+        <item quantity="one">~%d upozornenie týždenne</item>
+        <item quantity="few">~%d upozornenia týždenne</item>
+        <item quantity="many">~%d notifications per week</item>
+     </plurals>
      <plurals name="number_of_device_admins">
         <item quantity="other">%d aktívnych aplikácií</item>
         <item quantity="one">%d aktívna aplikácia</item>
         <item quantity="few">%d aktívne aplikácie</item>
         <item quantity="many">%d aktívnej aplikácie</item>
+     </plurals>
+     <plurals name="permission_bar_chart_label">
+        <item quantity="other">%s aplikácií</item>
+        <item quantity="one">1 aplikácia</item>
+        <item quantity="few">%s aplikácie</item>
+        <item quantity="many">%s apps</item>
      </plurals>
      <plurals name="power_high_usage_summary">
         <item quantity="other">%2$d aplikácií sa správa nezvyčajne</item>
@@ -230,9 +278,9 @@
         <item quantity="many">%1$d print services on</item>
      </plurals>
      <plurals name="restricted_app_summary">
-        <item quantity="other">Obmedzuje sa využitie batérie %1$d aplikáciami</item>
-        <item quantity="one">Obmedzuje sa využitie batérie %1$d aplikáciou</item>
-        <item quantity="few">Obmedzuje sa využitie batérie %1$d aplikáciami</item>
+        <item quantity="other">Obmedzuje sa spotreba batérie %1$d aplikáciami</item>
+        <item quantity="one">Obmedzuje sa spotreba batérie %1$d aplikáciou</item>
+        <item quantity="few">Obmedzuje sa spotreba batérie %1$d aplikáciami</item>
         <item quantity="many">Limiting battery usage for %1$d apps</item>
      </plurals>
      <plurals name="seconds">
@@ -247,10 +295,16 @@
         <item quantity="few">Zobraziť %d skryté položky</item>
         <item quantity="many">Zobraziť %d skrytej položky</item>
      </plurals>
+     <plurals name="show_bluetooth_devices">
+        <item quantity="other">%1$d pripojených zariadení</item>
+        <item quantity="one">%1$d pripojené zariadenie</item>
+        <item quantity="few">%1$d pripojené zariadenia</item>
+        <item quantity="many">%1$d devices connected</item>
+     </plurals>
      <plurals name="show_number_hearingaid_count">
-        <item quantity="other">%1$d uložených načúvacích pomôcok</item>
-        <item quantity="one">%1$d uložená načúvacia pomôcka</item>
-        <item quantity="few">%1$d uložené načúvacie pomôcky</item>
+        <item quantity="other">%1$d uložených načúvadiel</item>
+        <item quantity="one">%1$d uložené načúvadlo</item>
+        <item quantity="few">%1$d uložené načúvadlá</item>
         <item quantity="many">%1$d saved hearing aids</item>
      </plurals>
      <plurals name="special_access_summary">
@@ -323,29 +377,47 @@
         <item quantity="few">%d siete</item>
         <item quantity="many">%d siete</item>
      </plurals>
+     <plurals name="wifi_saved_all_access_points_summary">
+        <item quantity="other">%d sietí a odberov</item>
+        <item quantity="one">1 sieť a odber</item>
+        <item quantity="few">%d siete a odbery</item>
+        <item quantity="many">%d networks &amp; subscriptions</item>
+     </plurals>
+     <plurals name="wifi_saved_passpoint_access_points_summary">
+        <item quantity="other">%d odberov</item>
+        <item quantity="one">1 odber</item>
+        <item quantity="few">%d odbery</item>
+        <item quantity="many">%d subscriptions</item>
+     </plurals>
      <plurals name="wifi_tether_connected_summary">
         <item quantity="other">%1$d pripojených zariadení</item>
         <item quantity="one">%1$d pripojené zariadenie</item>
         <item quantity="few">%1$d pripojené zariadenia</item>
         <item quantity="many">%1$d pripojeného zariadenia</item>
      </plurals>
+     <plurals name="zen_mode_bypassing_apps_subtext">
+        <item quantity="other">Režim bez vyrušení môže prekonať %1$d aplikácií</item>
+        <item quantity="one">Režim bez vyrušení môže prekonať 1 aplikácia</item>
+        <item quantity="few">Režim bez vyrušení môžu prekonať %1$d aplikácie</item>
+        <item quantity="many">Notifications from %1$d apps can override Do Not Disturb</item>
+     </plurals>
      <plurals name="zen_mode_duration_summary_time_hours">
-        <item quantity="other">%d hodín (pokiaľ nebolo zapnuté automaticky)</item>
-        <item quantity="one">1 hodina (pokiaľ nebolo zapnuté automaticky)</item>
-        <item quantity="few">%d hodiny (pokiaľ nebolo zapnuté automaticky)</item>
-        <item quantity="many">%d hodiny (pokiaľ nebolo zapnuté automaticky)</item>
+        <item quantity="other">%d hodín</item>
+        <item quantity="one">1 hodina</item>
+        <item quantity="few">%d hodiny</item>
+        <item quantity="many">%d hodiny</item>
      </plurals>
      <plurals name="zen_mode_settings_summary_on">
-        <item quantity="other">%d pravidiel</item>
-        <item quantity="one">1 pravidlo</item>
-        <item quantity="few">%d pravidlá</item>
-        <item quantity="many">%d pravidla</item>
+        <item quantity="other">%d aktivovaných</item>
+        <item quantity="one">1 aktivovaný</item>
+        <item quantity="few">%d aktivované</item>
+        <item quantity="many">%d enabled</item>
      </plurals>
      <plurals name="zen_mode_sound_summary_summary_off_info">
-        <item quantity="other">%d pravidiel sa môže zapnúť automaticky</item>
-        <item quantity="one">1 pravidlo sa môže zapnúť automaticky</item>
-        <item quantity="few">%d pravidlá sa môžu zapnúť automaticky</item>
-        <item quantity="many">%d pravidla sa môže zapnúť automaticky</item>
+        <item quantity="other">%d plánov sa môže automaticky zapnúť</item>
+        <item quantity="one">1 plán sa môže automaticky zapnúť</item>
+        <item quantity="few">%d plány sa môžu automaticky zapnúť</item>
+        <item quantity="many">%d schedules can turn on automatically</item>
      </plurals>
      <plurals name="zen_mode_starred_contacts_summary_additional_contacts">
         <item quantity="other">%d ďalších</item>
