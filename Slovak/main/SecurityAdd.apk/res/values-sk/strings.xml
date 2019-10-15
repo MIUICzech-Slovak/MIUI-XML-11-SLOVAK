@@ -142,4 +142,13 @@
   <string name="usage_sorted_loading_text">Načítavanie...</string>
   <string name="wlan_change_protection_detail">Neprepínať automaticky na Wi-Fi po pripojení na mobilné dáta</string>
   <string name="wlan_change_protection_title">Zamedziť zmene siete</string>
+  <string name="superpower_app_contact">Kontakty</string>
+  <string name="superpower_app_delete">Vymazať</string>
+  <string name="superpower_app_edit">Upraviť</string>
+  <string name="superpower_app_exit">Zrušiť</string>  
+  <string name="superpower_app_isadded">Pridané</string>
+  <string name="superpower_app_mms">Správy</string>
+  <string name="superpower_app_phone">Telefón</string>  
+  <string name="superpower_settings_launcher">Ultra šetrič batérie</string>
+  <string name="superpower_toast_app_select_full">Môžete pridať maximálne 6 položiek</string>
 </resources>

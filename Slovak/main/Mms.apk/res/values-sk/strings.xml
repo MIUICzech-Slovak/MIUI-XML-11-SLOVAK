@@ -878,4 +878,5 @@ Pokus: %s."</string>
   <string name="zero_sms_feedback_message">Nahlásené správy sú odoslané na náš server pre ďalšiu analýzu.</string>
   <string name="zero_sms_feedback_success">Nahlásené</string>
   <string name="zero_sms_feedback_title">Nahlásiť</string>
+  <string name="cloud_recommend_view_tip">Povoľte synchronizáciu s Cloudom pre obnovenie dôležitých SMS</string>
 </resources>

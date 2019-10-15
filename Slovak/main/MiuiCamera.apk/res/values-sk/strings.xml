@@ -824,4 +824,10 @@ Objekt bude ostrý na rozmazanom pozadí."</string>
   <string name="vv_start">Točiť vlog</string>
   <string name="vv_use_hint_text_body">"Vlog režim umožňuje natáčať a upravovať videá"</string>
   <string name="vv_use_hint_text_title">VLOG</string>
+  <string name="ccc_temperature_warning_msg">Vaše zariadenie je prehriate. Fotoaparát bude ukončený o %ds. Vaše video alebo fotografie budú automaticky uložené.</string>
+  <string name="ccc_temperature_warning_title">Zariadenie je prehriate</string>  
+  <string name="hint_subtitle">Diktujte titulky počas nahrávania videa</string>
+  <string name="hint_subtitle_prompt">Môžete diktovať</string>
+  <string name="pref_video_subtitle">Titulky</string>
+  <string name="subtitle_network_exception_tips">Nebolo možné pripojiť sa k sieti.</string>
 </resources>

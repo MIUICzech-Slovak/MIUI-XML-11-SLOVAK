@@ -577,4 +577,5 @@
   <string name="yearly">Ročne (%s)</string>
   <string name="yearly_plain">Ročne</string>
   <string name="zhushen"/>
+  <string name="setting_show_reject_agenda">Zobraziť odmietnuté udalosti</string>
 </resources>

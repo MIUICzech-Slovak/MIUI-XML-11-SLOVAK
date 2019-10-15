@@ -355,4 +355,5 @@ http://www.miuios.cz/rom
   <string name="widget_content_loading">Načítavanie...</string>
   <string name="widget_havenot_content">Žiadna poznámka nie je vytvorená.</string>
   <string name="widget_under_privacy_mode">Režim Súkromie, nie je možné zobraziť obsah poznámky</string>
+  <string name="privacy_note_content_empty">Žiadne položky.</string>
 </resources>

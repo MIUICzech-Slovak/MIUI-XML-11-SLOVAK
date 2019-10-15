@@ -52,4 +52,11 @@
         <item>Prach</item>
         <item>Hmla</item>
     </string-array>
+    <string-array name="cell_icon_size_entries">
+        <item>Najmenšie</item>
+        <item>Malé</item>
+        <item>Stredné</item>
+        <item>Veľké</item>
+        <item>Najväčšie</item>
+    </string-array>	
 </resources>

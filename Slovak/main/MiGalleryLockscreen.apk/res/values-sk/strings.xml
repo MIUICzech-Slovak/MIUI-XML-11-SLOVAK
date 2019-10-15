@@ -176,7 +176,7 @@
   <string name="sst_morning_greeting_title">Dostávať ranný pozdrav</string>
   <string name="sst_new_feature">Nové funkcie</string>
   <string name="sst_no_favor_wallpaper_hint">Žiadne obľúbené tapety</string>
-  <string name="sst_prov_enable_desc">Rôzné tapety na vašej zamykacej obrazovke.</string>
+  <string name="sst_prov_enable_desc">Rôzne tapety na vašej zamykacej obrazovke.</string>
   <string name="sst_prov_enable_title">Povoliť dennú tapetu</string>
   <string name="sst_require_one_category_hint">Vyberte aspoň jednu kategóriu</string>
   <string name="sst_selected_tip">Súčasné</string>
@@ -189,7 +189,7 @@
   <string name="sst_subscripted">Odoberané</string>
   <string name="sst_wallpaper_define_desc">Spravovať</string>
   <string name="sst_wallpaper_define_title">Moje prezentácie</string>
-  <string name="sst_wallpaper_history_des">Zobraziť nedávné odporúčania</string>
+  <string name="sst_wallpaper_history_des">Zobraziť nedávne odporúčania</string>
   <string name="sst_wallpaper_history_title">História</string>
   <string name="sst_wifi_only_desc">Môže navýšiť vaše poplatky</string>
   <string name="sst_wifi_only_title">Stiahnuť cez mobilné dáta</string>
@@ -200,4 +200,29 @@
   <string name="theme_applying">Nastavovanie...</string>
   <string name="wlan_download">Stiahnuť len cez Wi-Fi</string>
   <string name="wlan_download_cn">Stiahnuť len cez Wi-Fi</string>
+  <string name="llks_tools_gallery_name">Denná tapeta</string>
+  <string name="explorer_activity_title">Denná tapeta</string>
+  <string name="mode_select">Vyberte režim</string>
+  <string name="loading">Načítavanie...</string>
+  <string name="prv_loading">Načítavanie...</string>
+  <string name="rv_with_footer_loading">Načítavanie...</string>
+  <string name="sst_shield_tag_title">Blokované položky</string>
+  <string name="sst_shield_tag_desc">Spravovať blokované kategórie</string>
+  <string name="shield">"Blokovať: "</string>
+  <string name="shield_failed">Nebolo možné blokovať</string>
+  <string name="shield_tag_dislike_desc">Vyberte pre nezobrazovanie takýchto obrázkov</string>
+  <string name="shield_tag_dislike_title">Nezaujímavé</string>
+  <string name="shield_tag_entrance_desc">Vyberte pre blokovanie obrázkov z tejto kategórie</string>
+  <string name="shield_tag_entrance_title">Blokovať túto kategóriu</string>
+  <string name="shield_tag_list_empty">Žiadne položky.</string>
+  <string name="shield_tag_list_title">Blokované položky</string>
+  <string name="shield_tag_select_title">Blokovať položky</string>  
+  <string name="shortcut_ask">Povoľte vytváranie odkazov v Optimalizácií</string>
+  <string name="shortcut_created">Odkaz vytvorený</string>
+  <string name="shortcut_exist">Odkaz už existuje</string>
+  <string name="shortcut_failed">Nebolo možné vytvoriť odkaz</string>  
+  <string name="create_shortcut">Vytvoriť odkaz na ploche</string>
+  <string name="create_shortcut_btn">Vytvoriť</string>
+  <string name="create_shortcut_title">Vytvoriť odkaz na ploche</string>  
+  <string name="setting_about_item_title">O aplikácií</string>
 </resources>

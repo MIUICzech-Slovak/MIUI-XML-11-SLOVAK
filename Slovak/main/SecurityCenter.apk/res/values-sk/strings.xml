@@ -1733,7 +1733,7 @@ Niekedy tieto čísla môžu byť užitočné. Blokujte len čísla z ktorých u
   <string name="mixed_password_confirmed_header_continue">Nastavené. Stlačte \"Ďalej\".</string>
   <string name="mixed_pattern_entered_header">Heslo je nastavené</string>
   <string name="mixed_recording_incorrect_too_short">Zadajte aspoň %d znakov.</string>
-  <string name="mixed_recording_intro_header">Zadajte aspoň 4 znaky</string>
+  <string name="mixed_recording_intro_header">Zadajte aspoň %1$s-%2$s znaky</string>
   <string name="mixed_retry_button_text">Zrušiť</string>
   <string name="mixed_settings_help_how_to_record">Ako nastaviť heslo</string>
   <string name="modify_password_mode">Zmeniť typ hesla</string>
@@ -3347,4 +3347,8 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="power_center_5g_save_summary_text">Znížiť spotrebu batérie 5G pripojením</string>
   <string name="power_center_5g_save_title_text">5G šetrenie batérie</string>  
   <string name="process_vpnsdkmanager_label">Zrýchlenie hier</string>
+  <string name="cta_close_dialog_cancel">Zrušiť</string>
+  <string name="cta_close_dialog_content">Ak zakážete aplikácií Optimalizácia prístup k internetu a vašej polohe, vaše zariadenie bude menej bezpečné. Chcete ho zakázať aj napriek tomu?</string>
+  <string name="cta_close_dialog_ok">Zakázať</string>
+  <string name="cta_close_dialog_title">Zakázať prístup</string>  
 </resources>
