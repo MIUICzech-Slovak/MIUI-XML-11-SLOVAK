@@ -225,4 +225,10 @@
   <string name="create_shortcut_btn">Vytvoriť</string>
   <string name="create_shortcut_title">Vytvoriť odkaz na ploche</string>  
   <string name="setting_about_item_title">O aplikácií</string>
+  <string name="open_title">Povoliť Dennú tapetu</string>
+  <string name="open_unable">Denná tapeta funguje len s predvolenou MIUI zamykacou obrazovkou.</string>
+  <string name="main_fragment_title_discover">Objaviť</string>
+  <string name="main_fragment_title_home">Odporúčané</string>
+  <string name="main_fragment_title_search">Najlepšie</string>
+  <string name="main_fragment_title_user">Nastavenia</string>  
 </resources>

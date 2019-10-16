@@ -226,4 +226,6 @@ Zadajte vaše mesto manuálne"</string>
   <string name="xiaomi_weather_description_content">Xiaomi aplikácia Počasie vám poskytuje informácie o počasí vo vašom meste. Jej odinštalovanie ovplyvní widget hodín, teplotu v roletke a ďalšie funkcie. Chcete ho odinštalovať?</string>
   <string name="xiaomi_weather_description_title">O Počasí</string>
   <string name="your_location">Vaša poloha</string>
+  <string name="q_version_location_provider_btn_text">Povoľte prístup k polohe pre presnejšiu predpoveď počasia</string>
+  <string name="refresh_empty_data">Nebolo možné načítať dáta. Skúste to znova neskôr.</string>
 </resources>

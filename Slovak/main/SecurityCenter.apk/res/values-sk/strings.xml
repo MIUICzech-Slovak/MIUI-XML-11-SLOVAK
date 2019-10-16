@@ -3351,4 +3351,6 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="cta_close_dialog_content">Ak zakážete aplikácií Optimalizácia prístup k internetu a vašej polohe, vaše zariadenie bude menej bezpečné. Chcete ho zakázať aj napriek tomu?</string>
   <string name="cta_close_dialog_ok">Zakázať</string>
   <string name="cta_close_dialog_title">Zakázať prístup</string>  
+  <string name="shortcut_title_scan">Vyčistiť</string>
+  <string name="shortcut_title_whatsapp_clean">WhatsApp čistič</string>  
 </resources>
