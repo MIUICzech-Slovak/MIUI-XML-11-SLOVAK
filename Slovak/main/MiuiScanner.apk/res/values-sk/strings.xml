@@ -211,4 +211,5 @@
   <string name="wifi_pwd">"Heslo: "</string>
   <string name="wifi_security">"Bezpečnosť: "</string>
   <string name="wifi_ssid">"SSID: "</string>
+  <string name="flight_mode_connecting_to_wifi">Zapnite Wi-Fi manuálne ak je zapnutý režim Lietadlo</string>
 </resources>

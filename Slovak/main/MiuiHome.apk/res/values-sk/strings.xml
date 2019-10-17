@@ -386,4 +386,18 @@
   <string name="minus_one_screen_none">Žiadna</string>  
   <string name="minus_one_screen_google">Google</string>
   <string name="cell_icon_size_title">Veľkosť ikon na ploche</string>
+  <string name="additional_settings">Ďalšie nastavenia</string>
+  <string name="apply_text">Použiť</string>
+  <string name="drawer_background">Pozadie</string>
+  <string name="drawer_background_dark">Tmavé</string>
+  <string name="drawer_background_light">Svetlé</string>
+  <string name="drawer_background_transparency">Priehľadnosť pozadia v zozname aplikácií</string>
+  <string name="drawer_settings">Zoznam aplikácií</string>
+  <string name="home_screen_settings">Domáca plocha</string>
+  <string name="local_apps">Lokálne aplikácie</string>
+  <string name="recommend_app">Návrhy aplikácií</string>
+  <string name="search_in_apps_store">Hľadať \"%1$s\" v %2$s</string>
+  <string name="search_no_result">Nič sa nenašlo</string>
+  <string name="show_most_popular_apps_you_used">Zobraziť najviac používané aplikácie v zozname</string>
+  <string name="system_text">Systém</string>
 </resources>
