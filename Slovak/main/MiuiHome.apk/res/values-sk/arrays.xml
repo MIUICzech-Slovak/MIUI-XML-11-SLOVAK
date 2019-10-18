@@ -59,4 +59,9 @@
         <item>Veľké</item>
         <item>Najväčšie</item>
     </string-array>	
+    <string-array name="minus_screen_entries">
+        <item>Žiadna</item>
+        <item>Asistent</item>
+        <item>Google</item>
+    </string-array>	
 </resources>
