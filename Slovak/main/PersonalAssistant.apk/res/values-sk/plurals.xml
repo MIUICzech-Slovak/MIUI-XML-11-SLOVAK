@@ -35,11 +35,11 @@
         <item quantity="other">Pred %1$dd</item>
     </plurals>	
      <plurals name="agenda_count_down">
-        <item quantity="other">O %d minút</item>
-        <item quantity="one">O %d minútu</item>
+        <item quantity="other">Za %d minút</item>
+        <item quantity="one">Za %d minútu</item>
      </plurals>
      <plurals name="assistant_day">
-        <item quantity="other">O %d dní</item>
-        <item quantity="one">O %d deň</item>
+        <item quantity="other">Za %d dní</item>
+        <item quantity="one">Za %d deň</item>
      </plurals>
 </resources>

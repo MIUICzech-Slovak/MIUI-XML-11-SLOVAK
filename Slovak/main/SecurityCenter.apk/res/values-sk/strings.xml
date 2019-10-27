@@ -290,7 +290,7 @@ alebo zadajte heslo"</string>
   <string name="app_manager_mobile_slot2">Mobilné dáta (SIM 2)</string>
   <string name="app_manager_more_times">Prístup 100000+ krát</string>
   <string name="app_manager_my_app">Moje aplikácie</string>
-  <string name="app_manager_net_control_title">Zakázať používanie dát</string>
+  <string name="app_manager_net_control_title">Povoliť používanie dát</string>
   <string name="app_manager_net_mobile">Mobilné</string>
   <string name="app_manager_net_wifi">Wi-Fi</string>
   <string name="app_manager_not_allow">Nie</string>
