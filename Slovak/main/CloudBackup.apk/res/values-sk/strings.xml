@@ -246,4 +246,6 @@ Poznámka: Nastavenie doinštalovaných aplikácií nebude zálohované na MiClo
   <string name="unselected">Nevybrané</string>
   <string name="unsupported_home">Aktualizujte na najnovšiu verziu MIUI.</string>
   <string name="wait_icon_download">Sťahovanie ikony aplikácie</string>
+  <string name="loading_progress_num">(%s%%)</string>
+  <string name="restoring_home_screen_apps">Obnovenie z MiCloudu...</string>
 </resources>

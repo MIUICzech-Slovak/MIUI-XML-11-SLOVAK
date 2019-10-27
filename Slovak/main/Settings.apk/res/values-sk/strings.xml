@@ -6029,4 +6029,15 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="zone_auto_summaryOn">Použiť časové pásmo zo siete</string>
   <string name="zone_list_menu_sort_alphabetically">Zoradiť abecedne</string>
   <string name="zone_list_menu_sort_by_timezone">Zoradiť podľa časového pásma</string>
+  <string name="add_broadsize_fingerprint_instruction_msg">Senzor odtlačku prsta je na pravej hrane vášho zariadenia</string>
+  <string name="bluetooth_inform_messgae">"Nebolo možné pripojiť sa k %1$s.
+Skontrolujte nasledovné:
+1. Bluetooth je deaktivované alebo mimo dosah zariadenia.
+2. Toto zariadenie nie je viditeľné.
+3. Zariadenie je pripojené k inému zariadeniu."</string>
+  <string name="bluetooth_inform_messgae_title">Nebolo možné sa pripojiť</string>
+  <string name="network_alarm">Nestíšiť internetové volania</string>
+  <string name="network_alarm_summary">Poznámka: Niektoré aplikácie nie sú kompatibilné s touto funkciou.%1$s</string>
+  <string name="network_alarm_summary_reg">Zobraziť aplikácie</string>
+  <string name="network_alarm_support_apps">Podporované aplikácie</string>
 </resources>

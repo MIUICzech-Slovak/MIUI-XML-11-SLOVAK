@@ -54,4 +54,6 @@
   <string name="system_print_service_help">O tlačení</string>
   <string name="template_all_pages">Všetky: %1$s</string>
   <string name="template_page_range">Rozsah: %1$s</string>
+  <string name="copies_decrease">O kópiu menej</string>
+  <string name="copies_increase">O kópiu viac</string>
 </resources>

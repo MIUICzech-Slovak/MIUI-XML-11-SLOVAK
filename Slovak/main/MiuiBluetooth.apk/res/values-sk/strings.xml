@@ -32,7 +32,7 @@
   <string name="fast_connect_device_title_connect_fail">Nebolo možné pripojiť %1$s</string>
   <string name="fast_connect_device_title_connecting">Pripájanie...</string>
   <string name="fast_connect_device_title_find_headset">Nájsť slúchadlá %1$s</string>
-  <string name="fast_connect_device_title_find_headset_others">Nájdené iné slúchadlá %1$s</string>
+  <string name="fast_connect_device_title_find_headset_others">Toto zariadenie nie je vaše: %1$s</string>
   <string name="fast_connect_headset_reset">Stlačte a podržte tlačidlo na krabičke %1$ds</string>
   <string name="goto_package">Otvorte %1$s</string>
   <string name="install_package">Pre viac funkcií nainštalujte %1$s</string>

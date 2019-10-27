@@ -395,4 +395,8 @@ Ak neaktualizujete, aplikácie v Druhom profile nemusia fungovať správne."</st
   <string name="xspace_uninstall_dialog_title">Odinštalovať klonovanú apl.</string>
   <string name="xspace_uninstalling">Odinštalovanie...</string>
   <string name="xspace_whatsapp_title">WhatsApp</string>
+  <string name="xspace_disable">Nie je vytvorené</string>
+  <string name="xspace_enable">Vytvorené</string>
+  <string name="xspace_notification">Upozornenia klonovaných aplikácií</string>
+  <string name="xspace_settins">Nastaviť</string>
 </resources>

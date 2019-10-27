@@ -64,4 +64,6 @@ Vaše dáta nebudú vymazané."</string>
   <string name="version">Nainštalovaná verzia</string>
   <string name="weekly">Týždenná</string>
   <string name="wifi_recommended">Pripojte sa na Wi-fi sieť pre stiahnutie aktualizácie!</string>
+  <string name="fetching_data">Pripravuje sa spustenie sťahovanie…</string>
+  <string name="no_mirror">Server je momentálne nedostupný, skúste to neskôr...</string>
 </resources>
