@@ -400,6 +400,7 @@
   <string name="search_no_result">Nič sa nenašlo</string>
   <string name="show_most_popular_apps_you_used">Zobraziť najviac používané aplikácie v zozname</string>
   <string name="system_text">Systém</string>
+  <string name="launcher_search_bar_title">Lišta vyhľadávania</string>
   <string name="all_apps_setting_original_scrollbar">Pôvodné rozloženie</string>
   <string name="all_apps_setting_scroll_bar">Posuvník</string>
   <string name="icon_size">Veľkosť ikon</string>
