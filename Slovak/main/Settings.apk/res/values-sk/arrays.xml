@@ -1052,4 +1052,14 @@ Postupujte podľa pokynov"</item>
         <item>24-hodín 13:00</item>
         <item>Auto (podľa zvoleného jazyka)</item>
     </string-array>
+    <string-array name="true_color_screen_optimize_summary">
+        <item>Prispôsobiť farby podľa okolitého osvetlenia</item>
+        <item>Vždy zvýrazniť farby</item>
+        <item>Štandardné farby displeja</item>
+    </string-array>
+    <string-array name="true_color_screen_optimize_title">
+        <item>Auto (odporúčané)</item>
+        <item>Saturované</item>
+        <item>Originálna farba</item>
+    </string-array>	
 </resources>
