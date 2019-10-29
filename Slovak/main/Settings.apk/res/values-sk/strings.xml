@@ -6040,4 +6040,13 @@ Skontrolujte nasledovné:
   <string name="network_alarm_summary">Poznámka: Niektoré aplikácie nie sú kompatibilné s touto funkciou.%1$s</string>
   <string name="network_alarm_summary_reg">Zobraziť aplikácie</string>
   <string name="network_alarm_support_apps">Podporované aplikácie</string>
+  <string name="fingerprint_unlock_press_type">Stlačenie</string>
+  <string name="fingerprint_unlock_touch_type">Dotyk</string>
+  <string name="fingerprint_unlock_type">Spôsob rozpoznania odtlačku prsta</string>
+  <string name="screen_fps_summary_power_save">Používanie fixnej hodnoty spotrebuje menej energie</string>
+  <string name="screen_fps_summary_smooth">Niektoré aplikácie automaticky zvýšia hodnotu pre zlepšenie kvality zobrazenia</string>
+  <string name="screen_fps_unit_power_save">%dHz (Šetrí batériu)</string>
+  <string name="screen_fps_unit_smooth">%dHz (Lepšia kvalita)</string>
+  <string name="unlock_type_category_title">Spôsob rozpoznávania</string>
+  <string name="wellbing_title">Čas používania a rodičovská kontrola</string>
 </resources>

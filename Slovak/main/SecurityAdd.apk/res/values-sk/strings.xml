@@ -151,4 +151,6 @@
   <string name="superpower_app_phone">Telefón</string>  
   <string name="superpower_settings_launcher">Ultra šetrič batérie</string>
   <string name="superpower_toast_app_select_full">Môžete pridať maximálne 6 položiek</string>
+  <string name="cancel">Cancel</string>
+  <string name="fingerprint_not_remind">Viac sa nepýtať</string>
 </resources>

@@ -347,4 +347,5 @@
   <string name="screen_overlay_button">Otvoriť nastavenia</string>
   <string name="screen_overlay_message">Pre zmenu nastavenia tohoto povolenia, musíte najskôr vypnúť prekrytie displeja v Nastavenia &gt; Aplikácie</string>
   <string name="screen_overlay_title">Zistené prekrytie displeja</string>
+  <string name="permdesc_location_background">Prístup k polohe na pozadí</string>  
 </resources>

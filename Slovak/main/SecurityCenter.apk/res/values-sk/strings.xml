@@ -2940,8 +2940,8 @@ neoprávneného používania vašich aplikácií"</string>
   <string name="system_permission_declare_no_say_no">Bez potvrdenia vášho súhlasu táto aplikácia nebude fungovať správne.</string>
   <string name="system_permission_declare_no_say_no_non_mandatory">Bez potrebných povolení nebude táto aplikácia správne fungovať.</string>
   <string name="system_permission_declare_privacy_declare">"Rešpektujeme a chránime vaše súkromie.
-Vedzte, še %1s vyžaduje nasledujúce povolenia:"</string>
-  <string name="system_permission_declare_privacy_no_permission">"%1s potrebuje zhromažďovať vaše dáta pre jej správne fungovanie.
+Vedzte, že Optimalizácia vyžaduje nasledujúce povolenia:"</string>
+  <string name="system_permission_declare_privacy_no_permission">"Aplikácia Optimalizácia potrebuje zhromažďovať vaše dáta pre jej správne fungovanie.
 Rešpektujeme a chránime vaše súkromie."</string>
   <string name="system_permission_declare_privacy_policy">Pred používaním tejto funkcie musíte súhlasiť s našou Ochranou súkromia.</string>
   <string name="system_permission_declare_revoke_path">Môžete odinštalovať túto aplikáciu, odhlásiť sa a spravovať povolenia v Optimalizácia - Spravovať aplikácie - Povolenia.</string>
@@ -3353,4 +3353,8 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="cta_close_dialog_title">Zakázať prístup</string>  
   <string name="shortcut_title_scan">Vyčistiť</string>
   <string name="shortcut_title_whatsapp_clean">WhatsApp čistič</string>  
+  <string name="applock_go_to">Nastavenia</string>
+  <string name="applock_settings_unlock_all_toast">Všetky apl. sú odomknuté</string>
+  <string name="lock_all_title">Uzamknúť všetky aplikácie</string>
+  <string name="power_center_list_item_set_lockscreen_time_holder">Uzamknúť zariadenie po %ds nečinnosti</string>
 </resources>
