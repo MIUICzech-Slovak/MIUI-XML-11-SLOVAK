@@ -21,15 +21,15 @@
     <string name="back">Späť</string>
     <string name="calculator_introduction">Túto aplikáciu môžete používať pre výpočty, prepočet jednotiek a mien a približný výpočet hypotekárnych splátok.</string>
     <string name="camera_introduction">Fotoaparát môžete použiť na vytváranie fotografií a natáčanie videí.</string>
-    <string name="carrier_introduction">Z dôvodu poskytovania lepších služieb môže vaše zariadenie pravidelne odosielať informácie o verzii vášho zariadenia, identifikačné údaje (vrátane IMEI/IMSI/MSISDN/MAC adresy, MEID/ICCID) a údaje o približnej polohe (vrátane ID základnej stanice) operátorovi cez Wi-Fi sieť, mobilnú dátovú sieť alebo bezplatné SMS. Operátor sľubuje analyzovať relevantné informácie len z dôvodu zlepšovania kvality služieb alebo na poskytnovanie prispôsobených služieb alebo technológií a nebude poskytovať relevantné informácie tretím stranám v žiadnej forme, ktorá vás osobne môže identifikovať. Prednosť má konkrétne vyhlásenie operátora. Kontaktujte svojho operátora ohľadom poplatkov za používanie tejto služby.</string>
+    <string name="carrier_introduction">Z dôvodu poskytovania lepších služieb môže vaše zariadenie pravidelne odosielať informácie o verzii vášho zariadenia, identifikačné údaje (vrátane IMEI/IMSI/MSISDN/MAC adresy, MEID/ICCID) a údaje o približnej polohe (vrátane ID základnej stanice) operátorovi cez Wi-Fi sieť, mobilnú dátovú sieť alebo bezplatné SMS. Operátor sľubuje analyzovať relevantné informácie len z dôvodu zlepšovania kvality služieb alebo na poskytovanie prispôsobených služieb alebo technológií a nebude poskytovať relevantné informácie tretím stranám v žiadnej forme, ktorá vás osobne môže identifikovať. Prednosť má konkrétne vyhlásenie operátora. Kontaktujte svojho operátora ohľadom poplatkov za používanie tejto služby.</string>
     <string name="clock_introduction">Túto aplikáciu môžete použiť na zobrazovanie času, ako aj časomiery, svetového času, stopiek, nastavovanie budíkov a pod.</string>
     <string name="close_location_service_setting">Prístup ku polohe môžete vypnúť v Nastaveniach > Rozšírené nastavenia > Súkromie alebo zakážte oprávnenia pre jednotlivé aplikácie v Zabezpečení.</string>
     <string name="cm_terms_content">Operátor mobilnej siete, ktorého ste vybrali, môže nahrať vaše osobné údaje a informácie o tomto zariadení na svoje siete pomocou sietí Wi-Fi alebo mobilného dátového pripojenia, aby zlepšil služby, ktoré vám poskytuje. Tieto informácie budú použité iba na štatistické účely, zlepšenie kvality služieb a poskytnutie lepšie prispôsobeného obsahu. Tieto informácie nebudú použité na vašu osobnú identifikáciu a nebudú sprístupnené tretím stranám.</string>
     <string name="cm_terms_title">Dohoda o operátorovi mobilnej siete</string>
     <string name="compass_introduction">Túto aplikáciu môžete použiť ako navigáciu ako aj zobrazovanie súradníc, atmosférického tlaku a nadmorskej výšky.</string>
-    <string name="congratulation_label">Poďme nato!</string>
+    <string name="congratulation_label">Ďakujeme!</string>
     <string name="congratulation_swipe">Potiahnite nahor pre vstup do systému</string>
-    <string name="congratulation_title">Hotovo</string>
+    <string name="congratulation_title">Navštívte miuios.cz</string>
     <string name="content_description_complete">Hotovo</string>
     <string name="content_description_miui_version">MIUI 11</string>
     <string name="content_description_start">Spustiť</string>
@@ -60,7 +60,7 @@
     <string name="font_hint_normal">Zväčšiť veľkosť textu</string>
     <string name="framework_introduction">Framework Mi Služby vám umožňuje používať služby Mi Konto, Mi Push, Mi Stats a MIUI BI.</string>
     <string name="framwork_base_service">Aby sme vám mohli poskytnúť tieto služby, Framework Mi Služby (Mi Konto, Mi Push, Mi Stats MIUI BI) vyžaduje pripojenie k internetu, prístup k telefónnemu číslu, IMEI a IMSI a povolenie na dostávanie push notifikácií</string>
-    <string name="game_introduction">Plug-in hier vám umožňuje prihlasovanie, vytváranie objednávok, vykonávanie platieb, používanie kupónov a zúčastňovanie sa výhodných udalostí.</string>
+    <string name="game_introduction">Plug-in hier vám umožňuje prihlasovanie, vytváranie objednávok, vykonávanie platieb, používanie kupónov a zúčastnenie sa výhodných udalostí.</string>
     <string name="google_service_introduction">Google Play potrebuje pre správne fungovanie pripojenie na internet, prístup ku vašej polohe, nahrávanie zvuku, vykonávanie hovorov, prístup k udalostiam v kalendári, histórii hovorov, senzorom, úložisku, fotoaparátu, informácii o zariadení a kontám.</string>
     <string name="ime_privacy_policy">Zásady ochrany osobných údajov pre vybranú klávesnicu</string>
     <string name="ime_privacy_policy_no_network">Nie je možné sa pripojiť k sieti. Zásady ochrany osobných údajov pre túto klávesnicu zobraziť na %s.</string>
@@ -92,7 +92,7 @@ Vypnúť prispôsobené reklamy napriek tomu?"</string>
     <string name="other_settings_ad_enable">Prispôsobené reklamy</string>
     <string name="other_settings_ad_enable_summary">Prispôsobte si reklamy na základe vašich záujmov</string>
     <string name="other_settings_auto_update">Automatické systémové aktualizácie</string>
-    <string name="other_settings_auto_update_summary">MIUI zvolí najlepší čas pre sťahovanie a inštaláciu aktualizácií. Vaše zariadenie sa automaticky reštartuje pre použitie zmien.</string>
+    <string name="other_settings_auto_update_summary">Nové aktualizácie MIUI stiahnite na adrese miuios.cz/rom a nainštalujete v aplikácií Aktualizácia - Menu (3 bodky)- Vybrať zip.</string>
     <string name="other_settings_enhanced_lockscreen">Denná tapeta</string>
     <string name="other_settings_enhanced_lockscreen_privacy_index">Zásady ochrany osobných údajov</string>
     <string name="other_settings_enhanced_lockscreen_summary">Dostávajte vybrané obrázky a príbehy do vášho zariadenia každý deň. %1$s a %2$s</string>
@@ -199,7 +199,7 @@ Zobraziť Zásady ochrany osobných údajov pre vybranú klávesnicu."</string>
     <string name="skip_gesture_guide_dialog_positive_btn">OK</string>
     <string name="skip_gesture_guide_dialog_title">Gestá celej obrazovky</string>
     <string name="skip_underline">Preskočiť</string>
-    <string name="start_up_slogan">Ide to k lepšiemu</string>
+    <string name="start_up_slogan">Navštívte miuios.cz</string>
     <string name="summary_not_set">Nenastavené</string>
     <string name="system_navigation_mode">Režim systémovej navigácie</string>
     <string name="terms_of_use">Pravidlá a podmienky</string>
