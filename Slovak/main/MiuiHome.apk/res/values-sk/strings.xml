@@ -404,4 +404,6 @@
   <string name="all_apps_setting_original_scrollbar">Pôvodné rozloženie</string>
   <string name="all_apps_setting_scroll_bar">Posuvník</string>
   <string name="icon_size">Veľkosť ikon</string>
+  <string name="launcher_global_search_mode_title">Vyhľadávanie</string>
+  <string name="launcher_global_search_provider_title">Poskytovateľ vyhľadávania</string>  
 </resources>

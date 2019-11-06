@@ -69,8 +69,8 @@
   <string name="account_vip_achievements">Achievements</string>
   <string name="account_vip_level">Účet</string>
   <string name="account_xiaomi_service">Služby</string>
-  <string name="action_add_phone">Pripojiť telefónné číslo</string>
-  <string name="action_update_phone">zmeniť telefónné číslo</string>
+  <string name="action_add_phone">Pripojiť telefónne číslo</string>
+  <string name="action_update_phone">zmeniť telefónne číslo</string>
   <string name="activate_email_notice">Váš účet musíte aktivovať do 24 hodín</string>
   <string name="activity_not_found_notice">Nie je možné nájsť aplikáciu</string>
   <string name="add_account">Pridať účet</string>
@@ -277,7 +277,7 @@
   <string name="passport_account_set_password">Nastavte heslo</string>
   <string name="passport_account_set_password_prompt">Nastavte heslo pre pokračovanie.</string>
   <string name="passport_account_set_password_title">Nastaviť heslo</string>
-  <string name="passport_active_email_visit">Skontrolujte vaš email (aj SPAM) na %s</string>
+  <string name="passport_active_email_visit">Skontrolujte váš email (aj SPAM) na %s</string>
   <string name="passport_activing_account">Aktivácia...</string>
   <string name="passport_adding_account">Pridávanie účtu...</string>
   <string name="passport_area_code_hot">Často používané</string>
@@ -383,7 +383,7 @@ Skontrolujte aj SPAM."</string>
   <string name="passport_login_with_email_or_id">Prihlásiť sa emailovou adresou alebo Mi ID</string>
   <string name="passport_message_dialog_title">Overovací kód v správe</string>
   <string name="passport_miui_provision_find_status_text">Toto zariadenie je prepojené s existujúcim Mi účtom ID（%1$s), musíte zadať heslo pre overenie zariadenia.
-(odblokovacie čislo: %2$s)"</string>
+(odblokovacie číslo: %2$s)"</string>
   <string name="passport_next">Ďalej</string>
   <string name="passport_no">Nie</string>
   <string name="passport_notification_title">Chyba prihlásenia pre %1$s</string>
@@ -411,7 +411,7 @@ Skontrolujte aj SPAM."</string>
   <string name="passport_reg_btn_using_other_phone">Použiť alternatívne telefónne číslo</string>
   <string name="passport_reg_failed">Nie je možné vytvoriť účet</string>
   <string name="passport_reg_new">Vytvoriť Mi účet</string>
-  <string name="passport_reg_new_account">Vyvoriť nový účet</string>
+  <string name="passport_reg_new_account">Vytvoriť nový účet</string>
   <string name="passport_reg_prompt">Nemáte Mi účet? Vytvorte si ho zdarma.</string>
   <string name="passport_reg_recycle_account_no">Nie</string>
   <string name="passport_reg_recycle_account_yes">Áno</string>
@@ -431,7 +431,7 @@ Skontrolujte aj SPAM."</string>
   <string name="passport_register_account_verified_confirm">Účet je overený</string>
   <string name="passport_register_by_email">Vytvoriť účet pomocou emailu</string>
   <string name="passport_register_restricted">S týmto číslom je spárovaných viacero účtov, zadajte iné telefónne číslo</string>
-  <string name="passport_register_restricted_title">Toto telefónné číslo nie je možné použiť</string>
+  <string name="passport_register_restricted_title">Toto telefónne číslo nie je možné použiť</string>
   <string name="passport_registered_phone_num">Telefón: %s</string>
   <string name="passport_registered_phone_user_ID">Užívateľ ID: %s</string>
   <string name="passport_registered_phone_user_name">Meno: %s</string>
@@ -502,7 +502,7 @@ Skontrolujte aj SPAM."</string>
   <string name="permission_group_sms">SMS</string>
   <string name="permission_group_storage">Úložisko</string>
   <string name="phone_activated">%s aktivované</string>
-  <string name="phone_num_use_for">Telefónné číslo použité pre:</string>
+  <string name="phone_num_use_for">Telefónne číslo použité pre:</string>
   <string name="phone_send_verify_code_prompt">Odoslať overovací kód na %s</string>
   <string name="phone_unactivated">Neaktivované</string>
   <string name="phone_unknown">Neznáme</string>
@@ -527,7 +527,7 @@ Skontrolujte aj SPAM."</string>
   <string name="reset_security_question_title">Resetovať bezpečnostné otázky</string>
   <string name="restart_action">Reštart</string>
   <string name="restart_phone_bind_message">Doručenie správy chvíľu trvá, chcete zmeniť telefónne číslo?</string>
-  <string name="restart_phone_bind_title">Zmeniť telrefónné číslo</string>
+  <string name="restart_phone_bind_title">Zmeniť telefónne číslo</string>
   <string name="same_new_and_old_pwd">Nemôže byť rovnaké ako súčasné heslo</string>
   <string name="scan_barcode">Načítajte QR kód</string>
   <string name="scan_barcode_title">Prihláste sa pomocou načítania QR kódu z webstránky</string>
@@ -547,7 +547,7 @@ Uistite sa, že nezabudnete odpovede na otázky."</string>
   <string name="sign_in">Prihlásiť sa</string>
   <string name="sim_card">SIM karta</string>
   <string name="sim_changed_notification_msg">Aktualizujte vaše telefónne číslo pre obnovu Mi účtu.</string>
-  <string name="sim_changed_notification_title">Zmenili ste telefónné čislo?</string>
+  <string name="sim_changed_notification_title">Zmenili ste telefónne číslo?</string>
   <string name="sina_weibo">Sina Weibo</string>
   <string name="sms_send_success">Odoslané</string>
   <string name="sns_access_token_expired_warning">Prihlásenie k účtu vypršalo. Prihláste sa znovu.</string>
@@ -555,12 +555,12 @@ Uistite sa, že nezabudnete odpovede na otázky."</string>
   <string name="success">Hotovo</string>
   <string name="system_ad">Reklamy v systémových aplikáciach</string>
   <string name="system_ad_list">Zobraziť aplikácie.</string>
-  <string name="system_ad_summary">Povolením tejto funkcie sa budú zobrazovať reklamy v systémovych aplikáciach!</string>
+  <string name="system_ad_summary">Povolením tejto funkcie sa budú zobrazovať reklamy v systémových aplikáciach!</string>
   <string name="system_ad_switch">Reklamy v systémových aplikáciach</string>
   <string name="system_ad_switch_failed">zlyhalo</string>
   <string name="trusted_browsers">Dôveryhodné Prehliadače</string>
   <string name="trusted_browsers_prompt">Prehliadač nebude viac dôveryhodný ak zmažete cookies.</string>
-  <string name="trying_read_verify_code_sms">Získavanie ogverovacieho kódu...</string>
+  <string name="trying_read_verify_code_sms">Získavanie overovacieho kódu...</string>
   <string name="turn_off_find_device_failed_title">Nie je možné deaktivovať vyhľadávanie zariadenia</string>
   <string name="turning_off_find_device">Deaktivovanie vyhľadania zariadenia...</string>
   <string name="two_factor_auth">Dvoj-faktorové prihlásenie</string>
@@ -581,7 +581,7 @@ Uistite sa, že nezabudnete odpovede na otázky."</string>
   <string name="update_email_address_dialog_message">Musíte overiť vašu identitu predtým ako zmeníte váš email.</string>
   <string name="update_email_address_dialog_title">Zmeniť email</string>
   <string name="update_phone_notice">Zmeniť bezpečnostné nastavenia</string>
-  <string name="update_phone_number_notice_message">Musíte overiť vašu identitu predtým ako zmeníte telefónne čislo.</string>
+  <string name="update_phone_number_notice_message">Musíte overiť vašu identitu predtým ako zmeníte telefónne číslo.</string>
   <string name="updated_nothing">Žiadna aktualizácia</string>
   <string name="used_cloud_storage_info">Využité úložisko %s</string>
   <string name="user_avatar_update_title">Aktualizovať profilovú fotografiu</string>
@@ -596,4 +596,6 @@ Uistite sa, že nezabudnete odpovede na otázky."</string>
   <string name="wipe_data_dialog_msg">%s nebolo synchronizované (tieto dáta sa vymažú ak budete pokračovať).</string>
   <string name="wipe_data_dialog_msg_separator">, </string>
   <string name="wipe_data_dialog_title">Niektoré položky neboli synchronizované.</string>
+  <string name="pwd_width_phone_number_or_mail_num">Heslo nesmie obsahovať vaše telefónne číslo, email alebo Mi ID</string>
+  <string name="risky_pwd_not_allow">Nové heslo nie je bezpečné. Nastavte ho znova.</string>
 </resources>

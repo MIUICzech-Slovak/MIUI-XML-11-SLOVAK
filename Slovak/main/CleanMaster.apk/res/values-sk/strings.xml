@@ -575,4 +575,22 @@
   <string name="white_list_title">Ignorované</string>
   <string name="year_month_day_format">dd. MMM, yyyy</string>
   <string name="yesterday">Včera</string>
+  <string name="dc_activity_title">Hĺbkové čistenie</string>
+  <string name="dc_advise_delete">Uvoľniť miesto</string>
+  <string name="dc_group_title_appclean">Aplikácie</string>
+  <string name="dc_header_can_clean">Môže byť vyčistené</string>
+  <string name="dc_header_can_not_clean">Obsadené</string>
+  <string name="dc_header_used_space_text">Obsadené úložisko</string>
+  <string name="dc_item_title_apk">Vymazať inštalačné balíčky</string>
+  <string name="dc_item_title_app_data">Vymazať dáta</string>
+  <string name="dc_item_title_image">Vymazať fotografie</string>
+  <string name="dc_item_title_large_file">Vymazať veľké súbory</string>
+  <string name="dc_item_title_uninstall_app">Odinštalovať aplikácie</string>
+  <string name="dc_item_title_video">Vymazať videá</string>
+  <string name="dc_storage_cleaned">Uvoľnené %s</string>
+  <string name="dc_storage_info">Dostupné %1$s | Celkovo %2$s</string>
+  <string name="guide_dc_dialog_message">Máte menej ako 2GB voľného miesta na úložisku. To môže spôsobovať spomalenie zariadenia. Spustite hĺbkové čistenie.</string>
+  <string name="guide_dc_dialog_negative">Zrušiť</string>
+  <string name="guide_dc_dialog_positive">OK</string>
+  <string name="guide_dc_dialog_title">Málo miesta na úložisku</string>  
 </resources>

@@ -578,4 +578,12 @@
   <string name="yearly_plain">Ročne</string>
   <string name="zhushen"/>
   <string name="setting_show_reject_agenda">Zobraziť odmietnuté udalosti</string>
+  <string name="edit_event_title_create_agenda">Pridať udalosť</string>
+  <string name="edit_event_title_create_anniversary">Pridať výročie</string>
+  <string name="edit_event_title_create_birthday">Pridať narodeniny</string>
+  <string name="edit_event_title_create_countdown">Pridať odpočet</string>
+  <string name="edit_event_title_edit_agenda">Upraviť udalosť</string>
+  <string name="edit_event_title_edit_anniversary">Upraviť výročie</string>
+  <string name="edit_event_title_edit_birthday">Upraviť narodeniny</string>
+  <string name="edit_event_title_edit_countdown">Upraviť odpočet</string>  
 </resources>

@@ -123,4 +123,24 @@
   <string name="usagestats_device_timeout_negative">Pripomenúť o 1 hodinu</string>
   <string name="usagestats_device_timeout_positive">Rozumiem</string>
   <string name="usagestats_device_timeout_title">Upozornenie na používanie</string>
+  <string name="back">Späť</string>
+  <string name="search_menu_title">Vyhľadať</string>
+  <string name="usage_state_accurate_date">dd. MMMM, yyyy</string>
+  <string name="usage_state_add_up_count">Sessions</string>
+  <string name="usage_state_add_up_days">Dní</string>
+  <string name="usage_state_add_up_time">Celkový čas</string>
+  <string name="usage_state_focus_mode_summary">Obmedziť všetky funkcie okrem SOS a fotoaparátu</string>
+  <string name="usage_state_focus_mode_summary1">Polovica je za vami</string>
+  <string name="usage_state_focus_mode_summary2">Ostaňte sústredený</string>
+  <string name="usage_state_focus_mode_summary3">Ostať sústredený vyžaduje odhodlanie</string>
+  <string name="usage_state_focus_mode_title">Režim sústredenia</string>
+  <string name="usage_state_focus_mode_warning_message">Režim sústredenia povoľuje len použitie fotoaparátu a SOS hovorov.</string>
+  <string name="usage_state_focus_mode_warning_title">Upozornenie</string>
+  <string name="usage_state_focus_take_photo">Fotoaparát</string>
+  <string name="usage_state_focus_warning_text">Sústreďte sa na niečo dôležité</string>
+  <string name="usage_state_focus_weak_summary">Odložte svoj telefón</string>
+  <string name="usage_state_open_focus_mode">Povoliť Režim sústredenia</string>
+  <string name="usage_state_running_days">Séria (dní)</string>
+  <string name="usage_state_statistic_data">Štatistika</string>
+  <string name="usage_state_turn_on">Povoliť</string>
 </resources>

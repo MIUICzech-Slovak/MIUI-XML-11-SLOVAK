@@ -115,4 +115,32 @@
         <item quantity="other">Vymazať súbory (%1$d)?</item>
         <item quantity="one">Vymazať súbory (%1$d)?</item>
     </plurals>	
+    <plurals name="dc_group_title_normal">
+        <item quantity="other">%1$d krokmi uvoľníte %2$s</item>
+        <item quantity="one">%1$d krokom uvoľníte %2$s</item>
+    </plurals>
+    <plurals name="dc_item_summary_apk">
+        <item quantity="other">Môžete vymazať %d inštalačných balíčkov</item>
+        <item quantity="one">Môžete vymazať %d inštalačný balíček</item>
+    </plurals>
+    <plurals name="dc_item_summary_app_data">
+        <item quantity="other">Môžete vymazať dáta pre %d apl.</item>
+        <item quantity="one">Môžete vymazať dáta pre %d apl.</item>
+    </plurals>
+    <plurals name="dc_item_summary_image">
+        <item quantity="other">Môžete vymazať  %d fotografií</item>
+        <item quantity="one">Môžete vymazať  %d fotografiu</item>
+    </plurals>
+    <plurals name="dc_item_summary_large_file">
+        <item quantity="other">Môžete vymazať %d veľkých súborov</item>
+        <item quantity="one">Môžete vymazať %d veľký súbor</item>
+    </plurals>
+    <plurals name="dc_item_summary_uninstall_app">
+        <item quantity="other">Môžete vymazať %d nepoužívaných apl.</item>
+        <item quantity="one">Môžete vymazať %d nepoužívanú apl.</item>
+    </plurals>
+    <plurals name="dc_item_summary_video">
+        <item quantity="other">Môžete vymazať %d videí</item>
+        <item quantity="one">Môžete vymazať %d video</item>
+    </plurals>	
 </resources>

@@ -2055,4 +2055,5 @@ Akýkoľvek používateľ môže aktualizovať aplikácie všetkých ostatných 
   <string name="zen_silence_introduction_voice">Zablokujú sa VŠETKY zvuky a vibrácie vrátane budíkov, hudby, videí a hier. Stále však budete môcť telefonovať.</string>
   <string name="gxzw_quick_close">Zatvoriť</string>
   <string name="gxzw_quick_open_title">Otvorené menu skratiek</string>
+  <string name="quick_settings_sim_disabled">(Deaktivovaná)</string>
 </resources>
