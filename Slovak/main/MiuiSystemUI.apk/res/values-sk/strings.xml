@@ -2056,4 +2056,21 @@ Akýkoľvek používateľ môže aktualizovať aplikácie všetkých ostatných 
   <string name="gxzw_quick_close">Zatvoriť</string>
   <string name="gxzw_quick_open_title">Otvorené menu skratiek</string>
   <string name="quick_settings_sim_disabled">(Deaktivovaná)</string>
+  <string name="gxzw_area">Skener odtlačku prsta</string>
+  <string name="gxzw_press_harder">Stlačte o trochu viac</string>
+  <string name="gxzw_quick_close">Zatvoriť</string>
+  <string name="gxzw_quick_open_add_event">Udalosť</string>
+  <string name="gxzw_quick_open_add_event_sub">Kalendár</string>
+  <string name="gxzw_quick_open_qr_code">QR kód</string>
+  <string name="gxzw_quick_open_qr_code_sub">Skener</string>
+  <string name="gxzw_quick_open_search">Hľadať</string>
+  <string name="gxzw_quick_open_search_sub">Prehliadač</string>
+  <string name="gxzw_quick_open_skip_teach">Preskočiť</string>
+  <string name="gxzw_quick_open_title">Otvoriť menu skratiek</string>
+  <string name="gxzw_quick_tip_press">Stále držte...</string>
+  <string name="gxzw_quick_tip_slide">Nedvíhajte váš prst. Potiahnite pre výber.</string>
+  <string name="gxzw_try_again">Skúste to znova</string>
+  <string name="gxzw_try_more_again">Skúste to znova</string>
+  <string name="gxzw_use_password">Použite vaše heslo pre odomknutie</string>
+  <string name="gxzw_use_password_to_unlock">Zadajte heslo</string>  
 </resources>

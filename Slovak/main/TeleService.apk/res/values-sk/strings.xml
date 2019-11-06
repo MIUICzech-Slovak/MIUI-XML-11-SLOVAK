@@ -1704,4 +1704,6 @@ Počet dní do začiatku ďalšieho obdobia: %2$d (%3$s)"</string>
   <string name="xdivert_setting">X-Divert Nastavenia</string>
   <string name="xdivert_summary">CFNRc Nastavenia</string>
   <string name="xdivert_title">X-Divert</string>
+  <string name="last_sim_callback_title">Pamätať nastavenie SIM kariet</string>
+  <string name="last_sim_callback_summary">Pri vytáčaní hovoru z histórie hovorov, použiť SIM z ktorej už bolo volané.</string>
 </resources>
