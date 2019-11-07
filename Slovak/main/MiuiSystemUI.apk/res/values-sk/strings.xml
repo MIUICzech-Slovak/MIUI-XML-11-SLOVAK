@@ -776,13 +776,7 @@ Ak chcete pokračovať, stlačte tlačidlo Vymazať a konvertovať…"</string>
   <string name="guest_wipe_session_message">Chcete v relácii pokračovať?</string>
   <string name="guest_wipe_session_title">Hosť, vitajte späť!</string>
   <string name="guest_wipe_session_wipe">Začať odznova</string>
-  <string name="gxzw_area">Skener odtlačku prsta</string>
   <string name="gxzw_long_press_tip"/>
-  <string name="gxzw_press_harder">Stlačte silnejšie</string>
-  <string name="gxzw_try_again">Skúste to znova</string>
-  <string name="gxzw_try_more_again">Skúste to znova</string>
-  <string name="gxzw_use_password">Použite heslo</string>
-  <string name="gxzw_use_password_to_unlock">Zadajte heslo</string>
   <string name="hdcp_checking_dialog_title">Nastaviť spôsob kontroly HDCP</string>
   <string name="hdcp_checking_title">Kontrola HDCP</string>
   <string name="headset">Náhlavná súprava</string>
@@ -2053,8 +2047,6 @@ Akýkoľvek používateľ môže aktualizovať aplikácie všetkých ostatných 
   <string name="zen_priority_introduction">Nebudú vás vyrušovať zvuky ani vibrácie, iba budíky, pripomenutia, udalosti a volajúci, ktorých určíte. Budete naďalej počuť všetko, čo sa rozhodnete prehrať, ako napríklad hudbu, videá a hry.</string>
   <string name="zen_silence_introduction">Zablokujú sa tým VŠETKY zvuky a vibrácie vrátane zvukov budíkov, hudby, videí a hier.</string>
   <string name="zen_silence_introduction_voice">Zablokujú sa VŠETKY zvuky a vibrácie vrátane budíkov, hudby, videí a hier. Stále však budete môcť telefonovať.</string>
-  <string name="gxzw_quick_close">Zatvoriť</string>
-  <string name="gxzw_quick_open_title">Otvorené menu skratiek</string>
   <string name="quick_settings_sim_disabled">(Deaktivovaná)</string>
   <string name="gxzw_area">Skener odtlačku prsta</string>
   <string name="gxzw_press_harder">Stlačte o trochu viac</string>
