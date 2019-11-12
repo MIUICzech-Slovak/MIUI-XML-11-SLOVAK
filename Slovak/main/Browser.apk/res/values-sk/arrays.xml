@@ -42,18 +42,14 @@
         <item>Zmeniť kartu</item>
         <item>Žiadna</item>
     </string-array>		
-     <string-array name="pref_navscreen_layoutstate_choices">
-        <item>Na šírku</item>
+    <string-array name="pref_navscreen_layoutstate_choices">
+        <item>Dlaždice</item>
         <item>Na výšku</item>
-     </string-array>	
+        <item>Na šírku</item>
+    </string-array>	
     <string-array name="pref_tab_restore_array">
         <item>Vždy sa opýtať</item>
         <item>Otvoriť</item>
         <item>Zatvoriť</item>
     </string-array>	 
-    <string-array name="pref_navscreen_layoutstate_choices">
-        <item>Dlaždice</item>
-        <item>Na výšku</item>
-        <item>Na šírku</item>
-    </string-array>
 </resources>
