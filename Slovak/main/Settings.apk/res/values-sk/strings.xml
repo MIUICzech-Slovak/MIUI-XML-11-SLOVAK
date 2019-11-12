@@ -6050,4 +6050,20 @@ Skontrolujte nasledovné:
   <string name="unlock_type_category_title">Spôsob rozpoznávania</string>
   <string name="wellbing_title">Čas používania a rodičovská kontrola</string>
   <string name="xiaomi_cloud_find_device">Vyhľadávanie zariadenia</string>
+  <string name="dual_wifi">Zrýchlenie duálnej Wi-Fi siete</string>
+  <string name="dual_wifi_acceleration">Zrýchlenie pomocnej Wi-Fi</string>
+  <string name="dual_wifi_avaliable_slave_wifi">Dostupná pomocná Wi-Fi</string>
+  <string name="dual_wifi_avaliable_slave_wifi_24G">Dostupná pomocná Wi-Fi(2.4G)</string>
+  <string name="dual_wifi_avaliable_slave_wifi_5G">Dostupná pomocná Wi-Fi(5G)</string>
+  <string name="dual_wifi_enabler_summary">Použiť naraz dve Wi-Fi siete pre zrýchlenie pripojenia</string>
+  <string name="dual_wifi_off">Vyp.</string>
+  <string name="dual_wifi_on">Zap.</string>
+  <string name="dual_wifi_primary_wifi_connected">Pripojená primárna Wi-Fi</string>
+  <string name="dual_wifi_slave_wifi_connected">Pripojená pomocná Wi-Fi</string>
+  <string name="dual_wifi_summary">Pripojte sa k primárnej Wi-Fi a povoľte pomocnú Wi-Fi sieť pre zrýchlenie pripojenia.</string>
+  <string name="dual_wifi_switching_not_remind">Viac nezobrazovať</string>
+  <string name="dual_wifi_switching_prompt">Prepnutie Wi-Fi</string>
+  <string name="dual_wifi_switching_summary">Duálna Wi-Fi vyžaduje siete s rôznymi pásmami (2.4GHz a 5GHz).</string>  
+  <string name="multi_network_acceleration_app_settings">Správa zrýchlenia Wi-Fi siete</string>
+  <string name="wifi_multi_network_acceleration">Inteligentné zrýchlenie siete</string>
 </resources>

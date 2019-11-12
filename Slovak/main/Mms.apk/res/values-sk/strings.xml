@@ -880,4 +880,5 @@ Pokus: %s."</string>
   <string name="zero_sms_feedback_title">Nahlásiť</string>
   <string name="cloud_recommend_view_tip">Povoľte synchronizáciu s Cloudom pre obnovenie dôležitých SMS</string>
   <string name="mx_main_purpose_short">Mi Správy umožňujú používateľom MIUI odosielať SMS a MMS správy zdarma.</string>  
+  <string name="contact_card_unknown_contact">Neznámy kontakt</string>
 </resources>
