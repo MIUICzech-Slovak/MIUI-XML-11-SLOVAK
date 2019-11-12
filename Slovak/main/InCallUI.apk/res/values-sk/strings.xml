@@ -260,4 +260,5 @@
   <string name="wait_prompt_str">"Odoslať nasledujúce tóny?
 "</string>
   <string name="waiting_close_airplane_mode">Čakanie na ukončenie režimu Lietadlo...</string>
+  <string name="wifi_call">VoWi-fi hovor</string>
 </resources>
