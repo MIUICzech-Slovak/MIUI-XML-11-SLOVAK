@@ -74,6 +74,7 @@
   <string name="card_detail">Guide</string>
   <string name="card_example">Card</string>
   <string name="card_expand_note_clear">Vymazať</string>
+  <string name="card_expand_note_clear_all">Vymazať</string>
   <string name="card_expand_note_dialog_button">Rozumiem</string>
   <string name="card_expand_note_dialog_message">Nová poznámka je vytvorená vždy keď stlačíte tlačidlo \"Uložiť\".</string>
   <string name="card_expand_note_dialog_title">Uloženie poznámky</string>
@@ -161,6 +162,7 @@
   <string name="detail_action_report_format_problem">The format is invalid</string>
   <string name="detail_action_settings">Open Settings</string>
   <string name="detail_action_share">Zdieľať</string>
+  <string name="miuishare_title_share">Zdieľať</string>
   <string name="detail_title">Záložky</string>
   <string name="dialog_cancel_like">Deleted mark successfully</string>
   <string name="dialog_delete_cancel">Zrušiť</string>
@@ -541,4 +543,7 @@
   <string name="year_month_day_all_format_en">MM.dd.yyyy HH:mm:ss</string>
   <string name="yesterday">Včera</string>
   <string name="ball_football_recent_ing">Prebieha</string>
+  <string name="battery_history">Batéria</string>
+  <string name="search_clear_header">Odstrániť obrázok pozadia</string>
+  <string name="search_change_header">Nahradiť obrázok pozadia</string>
 </resources>

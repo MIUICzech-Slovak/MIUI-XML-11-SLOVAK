@@ -2358,9 +2358,9 @@ Keď zapnete automatické zálohovanie, údaje zariadenia a aplikácií sa budú
   <string name="location_agps_params_settings_title">Nastavenie AGPS</string>
   <string name="location_agps_pref_apn_title">Preferovaná APN</string>
   <string name="location_agps_pref_network_title">Preferovať sieť</string>
-  <string name="location_agps_pref_reset_type_title">Preferred reset type</string>
+  <string name="location_agps_pref_reset_type_title">Preferovaný typ obnovenia</string>
   <string name="location_agps_pref_si_title">Preferovaný režim</string>
-  <string name="location_agps_register_network_type">Access network type</string>
+  <string name="location_agps_register_network_type">Typ siete</string>
   <string name="location_agps_register_network_type_dialog_summary">Vyberte sieť</string>
   <string name="location_agps_register_network_type_dialog_title">Vyberte sieť</string>
   <string name="location_agps_register_network_type_summary">Vyberte sieť pre povolenie AGPS...</string>
@@ -6066,4 +6066,18 @@ Skontrolujte nasledovné:
   <string name="dual_wifi_switching_summary">Duálna Wi-Fi vyžaduje siete s rôznymi pásmami (2.4GHz a 5GHz).</string>  
   <string name="multi_network_acceleration_app_settings">Správa zrýchlenia Wi-Fi siete</string>
   <string name="wifi_multi_network_acceleration">Inteligentné zrýchlenie siete</string>
+  <string name="accessibility_autoclick_description">Ak používate myšku, môžete nastaviť automatickú akciu po zastavení kurzora v určitý čas.</string>
+  <string name="ota_disable_automatic_update_summary">Aktualizovať po reštarte zariadenia</string>
+  <string name="select_logd_level">Úroveň záznamov</string>
+  <string name="feature_flags_dashboard_title">Špeciálne funkcie</string>
+  <string name="enable_gpu_debug_layers">Povoliť vrstvy ladenia GPU</string>
+  <string name="enable_gpu_debug_layers_summary">Povoliť načítanie vrstiev ladenia GPU na ladenie aplikácií</string>
+  <string name="system_trace_sensitive_data">Súbory vytvorené sledovaním systému môžu obsahovať vaše osobné údaje.</string>
+  <string name="system_tracing">Sledovanie systému</string>
+  <string name="record_system_activity">Zaznamenávať aktivity systému pre ich ďalšiu analýzu</string>
+  <string name="wifi_coverage_extend">Povoliť rozširené Wi-Fi pokrytie</string>
+  <string name="wifi_coverage_extend_summary">Rozšíriť Wi-Fi pokrytie pomocou hot-spotu</string>
+  <string name="share_this_wifi">Rozšíriť pokrytie Wi-Fi</string>
+  <string name="app_permission_summary_not_allowed">Nie je povolené</string>
+  <string name="app_permission_summary_allowed">Povolené</string>
 </resources>

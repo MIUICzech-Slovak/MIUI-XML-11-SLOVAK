@@ -2,7 +2,7 @@
 <resources>
   <string name="alert_reminder_interval_title">Pripomienka upozornenia</string>
   <string name="alert_sound_duration_title">Trvanie výstražného zvuku</string>
-  <string name="app_label">Cell Broadcast</string>
+  <string name="app_label">Tiesňové upozornenia</string>
   <string name="button_cancel">Zrušiť</string>
   <string name="button_delete">Odstrániť</string>
   <string name="button_dismiss">OK</string>

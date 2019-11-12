@@ -24,7 +24,7 @@
   <string name="action_menu_bookshelf">Bookshelf</string>
   <string name="action_menu_current_version">Súčasná verzia</string>
   <string name="action_menu_download">Stiahnuť</string>
-  <string name="action_menu_request_desktop_site">Rozloženie stránky ako na PC</string>
+  <string name="action_menu_request_desktop_site">Ako na PC</string>
   <string name="action_menu_request_desktop_site_off">Vyp</string>
   <string name="action_menu_request_desktop_site_on">Zap</string>
   <string name="action_menu_text_add_bookmark">Pridať záložku</string>

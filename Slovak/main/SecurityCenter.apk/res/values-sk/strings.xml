@@ -3363,4 +3363,5 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="power_save_ps_close_setting_5g">Obmedziť funkcie náročné na spotrebu batérie (synchr., 5G, GPS)</string>
   <string name="privacyapp_number_masked_text">Obsah upozornenia je skrytý</string>
   <string name="privacyapp_number_unmasked_text">Obsah pripojenia môže byť skrytý</string>
+  <string name="game_booster_close">Zrýchlenie hier je vypnuté</string>
 </resources>

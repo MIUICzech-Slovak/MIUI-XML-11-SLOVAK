@@ -594,4 +594,6 @@ ale obsah ktorý hľadáte nie je dostupný vo vašej krajine."</string>
   <string name="wallpaper_settings_pad_more_page_title">Viac tapiet</string>
   <string name="wallpaper_settings_page_title">tapeta</string>
   <string name="wallpaper_static">Statické</string>
+  <string name="lab">Experimentálne</string>
+  <string name="like_list">Obľúbené</string>
 </resources>

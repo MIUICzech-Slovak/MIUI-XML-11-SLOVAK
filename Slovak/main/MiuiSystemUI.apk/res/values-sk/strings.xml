@@ -2065,8 +2065,10 @@ Akýkoľvek používateľ môže aktualizovať aplikácie všetkých ostatných 
   <string name="gxzw_try_more_again">Skúste to znova</string>
   <string name="gxzw_use_password">Použite vaše heslo pre odomknutie</string>
   <string name="gxzw_use_password_to_unlock">Zadajte heslo</string>  
-  <string name="gxzw_quick_open_add_note">Nová</string>
+  <string name="gxzw_quick_open_add_note">Nová poznámka</string>
   <string name="gxzw_quick_open_add_note_sub">Poznámky</string>
   <string name="gxzw_quick_open_dialer">Telefón</string>
   <string name="gxzw_quick_open_dialer_sub">Hovor</string>  
+  <string name="wifi_coverage_extend">Povoliť rozširené Wi-Fi pokrytie</string>
+  <string name="wifi_coverage_extend_summary">Rozšíriť Wi-Fi pokrytie pomocou hot-spotu</string>
 </resources>

@@ -51,4 +51,9 @@
         <item>Otvoriť</item>
         <item>Zatvoriť</item>
     </string-array>	 
+    <string-array name="pref_navscreen_layoutstate_choices">
+        <item>Dlaždice</item>
+        <item>Na výšku</item>
+        <item>Na šírku</item>
+    </string-array>
 </resources>

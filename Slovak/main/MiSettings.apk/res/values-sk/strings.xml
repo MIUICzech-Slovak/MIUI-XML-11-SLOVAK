@@ -179,6 +179,6 @@
   <string name="stop_app_timer">Deaktivovať Čas displeja</string>
   <string name="stop_app_timer_fail">Čas displeja nebolo možné deaktivovať</string>
   <string name="stop_app_timer_success">Čas displeja bol deaktivovaný</string>
-  <string name="stop_app_timer_tip">Všetky dáta a povolenia k Času displeja budú vymazaní po jeho deaktivácii.</string>
+  <string name="stop_app_timer_tip">Všetky dáta a povolenia k Času displeja budú vymazané po jeho deaktivácii.</string>
   <string name="wait_tip">Čakajte prosím...</string>
 </resources>

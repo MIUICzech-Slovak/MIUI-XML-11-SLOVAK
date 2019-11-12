@@ -56,6 +56,8 @@
   <string name="pressure_title">Tlak</string>
   <string name="pressure_unit">hPa</string>
   <string name="shake_enter_tip">Zatrasením skalibrujete</string>
+  <string name="preference_other">Ostatné</string>
+  <string name="preference_privacy_title">Ochrana súkromia</string>
   <string name="using_camera_confirm_cancel">Ukončiť</string>
   <string name="using_camera_confirm_ok">OK</string>
 </resources>

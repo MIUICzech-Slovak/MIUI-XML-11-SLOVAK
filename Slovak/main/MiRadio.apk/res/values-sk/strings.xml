@@ -160,6 +160,7 @@
   <string name="type_rd"/>
   <string name="using_recorder_cancel">Odmietnuť</string>
   <string name="using_recorder_confirm">Prijať</string>
+  <string name="msg_try_plug_headset">Pripojte slúchadlá.</string>
   <string name="using_recorder_dialog_message">FM rádio vyžaduje povolenie pre používanie nahrávania pre jeho správne fungovanie.</string>
   <string name="using_recorder_dialog_title">Povolenie prístupu</string>
   <string name="view_stations_list">Zobraziť zoznam staníc</string>
