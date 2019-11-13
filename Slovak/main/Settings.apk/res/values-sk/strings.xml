@@ -6080,4 +6080,6 @@ Skontrolujte nasledovné:
   <string name="share_this_wifi">Rozšíriť pokrytie Wi-Fi</string>
   <string name="app_permission_summary_not_allowed">Nie je povolené</string>
   <string name="app_permission_summary_allowed">Povolené</string>
+  <string name="wifi_generation">Použiť ikony Wi-Fi frekvencie</string>
+  <string name="wifi_generation_summary">Pridať číslo Wi-Fi frekvencie za názvom siete</string>
 </resources>
