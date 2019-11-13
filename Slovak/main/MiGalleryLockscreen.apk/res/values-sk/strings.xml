@@ -230,4 +230,12 @@
   <string name="main_fragment_title_home">Odporúčané</string>
   <string name="main_fragment_title_search">Najlepšie</string>
   <string name="main_fragment_title_user">Nastavenia</string>  
+  <string name="mode_auto_desc_selected">Dostávať nové tapety automaticky</string>
+  <string name="mode_cw_desc_open">Pridajte vaše obrázky do prezentácie</string>
+  <string name="mode_cw_desc_selected">Používate vlastné obrázky v prezentácií</string>
+  <string name="local_default_category">Lokálne</string>
+  <string name="sst_morning_greeting_desc2">Dostávať pozdravy medzi %1$s a %2$s každí ráno</string>
+  <string name="sst_morning_history_title">História ranných pozdravov</string>
+  <string name="sst_morning_history_desc">Zobraziť predchádzajúce ranné pozdravy</string>
+  <string name="morning_greet_title">Ranné pozdravy</string>
 </resources>
