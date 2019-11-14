@@ -78,4 +78,6 @@
   <string name="custom_image">Vlastný obrázok</string>
   <string name="shownone_arround_image">Žiadne</string>
   <string name="time_location">Pozícia hodín</string>
+  <string name="aod_lock_screen_date">EE d. MMMM</string>
+  <string name="aod_lock_screen_date_12">EE d. MMMM</string>  
 </resources>
