@@ -1147,4 +1147,5 @@ Chcete opustiť túto web stránku?"</string>
   <string name="week_picker_dialog_title">Nastaviť týždeň</string>
   <string name="sug_search_history_delete_text">Odstrániť</string>
   <string name="sug_search_history_empty_text">Vymazať</string>
+  <string name="slide_guide">Potiahnite pre návrat</string>
 </resources>
