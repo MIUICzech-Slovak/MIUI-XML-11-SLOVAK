@@ -1768,8 +1768,6 @@
   <string name="cloud_authorizing_to_device">Autorizácia...</string>
   <string name="cloud_cancel_authorizing_to_device">Zrušenie autorizácie...</string>
   <string name="cloud_watch_on_tv">Zobraziť na TV</string>
-  <string name="delete_in_album">Vybrané položky budú vymazané z cloudu a všetkých pripojených zariadení a uložené v koši po dobu 30 dní. Vymazať?</string>
-  <string name="delete_in_home_page">Vybrané položky budú vymazané z cloudu a všetkých pripojených zariadení a uložené v koši po dobu 30 dní. Vymazať?</string>
   <string name="member_menu_vipname_free">Zdarma</string>
   <string name="member_menu_vipname_mega">Mega</string>
   <string name="member_menu_vipname_premium">Prémium</string>
