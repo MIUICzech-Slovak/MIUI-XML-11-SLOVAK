@@ -181,4 +181,19 @@
   <string name="stop_app_timer_success">Čas displeja bol deaktivovaný</string>
   <string name="stop_app_timer_tip">Všetky dáta a povolenia k Času displeja budú vymazané po jeho deaktivácii.</string>
   <string name="wait_tip">Čakajte prosím...</string>
+  <string name="category_other">Ostatné</string>
+  <string name="first_unlock_time">"Prvé odomknutie: "</string>
+  <string name="healthy_use_phone">Spravovať čas obrazovky</string>
+  <string name="most_unlock_week_day">"Väčšina odomknutí: "</string>
+  <string name="several_days_use_time">Čas obrazovky: %2$s</string>
+  <string name="today_usage_title">Dnes</string>
+  <string name="today_use_time">Čas obrazovky: %1$s</string>
+  <string name="trend_from_yesterday_equal">Rovnaký ako včera</string>
+  <string name="trend_from_yesterday_less">%1$s menej ako včera</string>
+  <string name="trend_from_yesterday_less_simple">%1$s menej ako včera</string>
+  <string name="trend_from_yesterday_more">%1$s viac ako včera</string>
+  <string name="trend_from_yesterday_more_simple">%1$s viac ako včera</string>
+  <string name="unlock_times_per_day">"Denný priemer: "</string>
+  <string name="unlock_times_per_hour">"Odomknutí za hodiny: "</string>
+  <string name="usage_state_focus_mode_experience_warning_message">Režim Sústredenia umožňuje používať len fotoaparát a SOS hovory. Nie je možné predčasne vypnúť režim Sústredenia.</string>
 </resources>

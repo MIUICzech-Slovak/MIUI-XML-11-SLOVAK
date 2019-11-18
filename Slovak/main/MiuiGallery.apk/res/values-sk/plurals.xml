@@ -557,4 +557,28 @@
         <item quantity="other">Súborov: %1$d</item>
         <item quantity="one">Súborov: %1$d</item>
      </plurals>	
+    <plurals name="photo_remain_days">
+        <item quantity="other">%d dní</item>
+        <item quantity="one">%d deň</item>
+    </plurals>	 
+    <plurals name="trash_purge_dialog_message_image">
+        <item quantity="other">Nebude možné obnoviť vybrané položky (%d) ak ich vymažete. Aj tak ich chcete vymazať?</item>
+        <item quantity="one">Nebude možné obnoviť vybranú položku (%d) ak ju vymažete. Aj tak ju chcete vymazať?</item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_media">
+        <item quantity="other">Nebude možné obnoviť vybrané položky (%d) ak ich vymažete. Aj tak ich chcete vymazať?</item>
+        <item quantity="one">Nebude možné obnoviť vybranú položku (%d) ak ju vymažete. Aj tak ju chcete vymazať?</item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_video">
+        <item quantity="other">Nebude možné obnoviť vybrané položky (%d) ak ich vymažete. Aj tak ich chcete vymazať?</item>
+        <item quantity="one">Nebude možné obnoviť vybranú položku (%d) ak ju vymažete. Aj tak ju chcete vymazať?</item>
+    </plurals>
+    <plurals name="trash_vip_info_text_login">
+        <item quantity="other">Položky môžu byť uložené tu po dobu %1$d dní (%2$s)</item>
+        <item quantity="one">Položky môžu byť uložené tu po dobu %1$d dňa (%2$s)</item>
+    </plurals>
+    <plurals name="trash_vip_info_text_unlogin">
+        <item quantity="other">Položky môžu byť uložené tu po dobu %1$d dní. Navýšte si vaše predplatné pre predĺženie tejto doby.</item>
+        <item quantity="one">Položky môžu byť uložené tu po dobu %1$d dňa. Navýšte si vaše predplatné pre predĺženie tejto doby.</item>
+    </plurals>	
 </resources>
