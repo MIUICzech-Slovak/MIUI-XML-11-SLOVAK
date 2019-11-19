@@ -130,7 +130,7 @@
   <string name="usage_state_add_up_days">Dní</string>
   <string name="usage_state_add_up_time">Celkový čas</string>
   <string name="usage_state_focus_mode_summary">Obmedziť všetky funkcie okrem SOS a fotoaparátu</string>
-  <string name="usage_state_focus_mode_summary1">Polovica je za vami</string>
+  <string name="usage_state_focus_mode_summary1">Začiatok je prvá polovica</string>
   <string name="usage_state_focus_mode_summary2">Ostaňte sústredený</string>
   <string name="usage_state_focus_mode_summary3">Ostať sústredený vyžaduje odhodlanie</string>
   <string name="usage_state_focus_mode_title">Režim sústredenia</string>
@@ -195,5 +195,6 @@
   <string name="trend_from_yesterday_more_simple">%1$s viac ako včera</string>
   <string name="unlock_times_per_day">"Denný priemer: "</string>
   <string name="unlock_times_per_hour">"Odomknutí za hodiny: "</string>
+  <string name="usage_state_focus_call">Núdzový hovor</string>
   <string name="usage_state_focus_mode_experience_warning_message">Režim Sústredenia umožňuje používať len fotoaparát a SOS hovory. Nie je možné predčasne vypnúť režim Sústredenia.</string>
 </resources>
