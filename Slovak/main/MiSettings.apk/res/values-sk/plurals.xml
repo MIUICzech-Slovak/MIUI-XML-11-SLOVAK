@@ -85,8 +85,8 @@
 	    <item quantity="one">%d deň</item>
     </plurals>
     <plurals name="trend_from_last_several_day_equal">
-        <item quantity="other">Dnešný čas dospleja je rovnaký ako %d-dňový priemer</item>
-        <item quantity="one">Dnešný čas dospleja je rovnaký ako %d-dňový priemer</item>
+        <item quantity="other">Dnešný čas displeja je rovnaký ako %d-dňový priemer</item>
+        <item quantity="one">Dnešný čas displeja je rovnaký ako %d-dňový priemer</item>
     </plurals>
     <plurals name="trend_from_last_several_day_less">
         <item quantity="other">%2$s menej času displeja ako váš %1$d-dňový piemer</item>
