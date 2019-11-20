@@ -6088,4 +6088,6 @@ Skontrolujte nasledovné:
   <string name="cool_color">Studené</string>
   <string name="nature_color">Prirodzené</string>
   <string name="warm_color">Teplé</string>
+  <string name="sunlight_mode">Režim denného svetla</string>
+  <string name="sunlight_mode_summary">Prispôsobiť jas priamemu slnku ak je automatický jas vypnutý</string>  
 </resources>

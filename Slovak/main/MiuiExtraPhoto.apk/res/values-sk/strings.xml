@@ -21,4 +21,5 @@
   <string name="refocus_type_relighting_small_face">3D osvetlenie funguje len na fotografiách kde tvár zaberá jej väčšiu časť.</string>
   <string name="refocus_type_static">Úroveň rozmazania</string>
   <string name="refocus_type_video">Svetelné stopy</string>
+  <string name="extra_photo_common_save_fail">Ukladanie zlyhalo</string>
 </resources>
