@@ -6086,6 +6086,6 @@ Skontrolujte nasledovné:
   <string name="enrol_fingerprint_data">Pridať odtlačok prsta</string>
   <string name="max_fingerprint_reached_toast">Môžete pridať maximálne 5 odtlačkov</string>
   <string name="cool_color">Studené</string>
-  <string name="nature_color">Predvolené</string>
+  <string name="nature_color">Prirodzené</string>
   <string name="warm_color">Teplé</string>
 </resources>
