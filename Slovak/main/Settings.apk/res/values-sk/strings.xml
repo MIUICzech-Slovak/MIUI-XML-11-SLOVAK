@@ -6090,4 +6090,7 @@ Skontrolujte nasledovné:
   <string name="warm_color">Teplé</string>
   <string name="sunlight_mode">Režim denného svetla</string>
   <string name="sunlight_mode_summary">Prispôsobiť jas priamemu slnku ak je automatický jas vypnutý</string>  
+  <string name="usb_headset_not_support_cancel">Rozumiem</string>
+  <string name="usb_headset_not_support_message">Nie je možné prehrávať zvukové súbory cez redukciu. Použite Bluetooth slúchadlá alebo 3.5mm jack konektor.</string>
+  <string name="usb_headset_not_support_tile">Nie je možné prehrať zvuk</string>  
 </resources>
