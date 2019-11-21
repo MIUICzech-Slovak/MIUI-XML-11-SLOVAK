@@ -102,4 +102,31 @@
         <item>Čierne</item>
         <item>Auto</item>
     </string-array>	 
+    <string-array name="bedtime_guide_repeat_type">
+        <item>Pondelok až Piatok</item>
+        <item>Každý deň</item>
+        <item>Pracovné dni</item>
+    </string-array>
+    <string-array name="bedtime_repeat_entries">
+        <item>Každý deň</item>
+        <item>Pondelok až Piatok</item>
+        <item>Pracovné dni</item>
+        <item>Vlastné</item>
+    </string-array>
+    <string-array name="days_of_week">
+        <item>Ned</item>
+        <item>Pon</item>
+        <item>Uto</item>
+        <item>Str</item>
+        <item>Štv</item>
+        <item>Pia</item>
+        <item>Sob</item>
+    </string-array>
+    <string-array name="notification_adv_time_entries">
+        <item>V nastavený čas</item>
+        <item>15 minút predtým</item>
+        <item>30 minút predtým</item>
+        <item>1 hodinu predtým</item>
+        <item>Žiaden</item>
+    </string-array>	
 </resources>
