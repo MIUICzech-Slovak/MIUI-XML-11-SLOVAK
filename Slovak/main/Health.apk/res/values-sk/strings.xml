@@ -427,4 +427,12 @@ Neaktualizujte aplikáciu manuálne!"</string>
     <string name="weight_trend_offset_date">"Od %1$s do %2$s: "</string>
     <string name="weight_unit_kg">KG</string>
     <string name="year">Rok</string>
+     <string name="mtrl_picker_date_header_title">Vyberte dátum</string>
+     <string name="mtrl_picker_date_header_unselected">Vybraný dátum</string>
+     <string name="mtrl_picker_range_header_selected">%1$s - %2$s</string>
+     <string name="mtrl_picker_range_header_title">Vyberte rozpätie dátumu</string>
+     <string name="mtrl_picker_range_header_unselected">Začiatok - Koniec</string>
+     <string name="password_toggle_content_description">Zobraziť heslo</string>
+     <string name="mtrl_badge_numberless_content_description">Nové upozornenie</string>
+     <string name="mtrl_chip_close_icon_content_description">Odstrániť %1$s</string>
 </resources>

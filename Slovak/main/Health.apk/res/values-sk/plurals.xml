@@ -174,6 +174,10 @@
         <item quantity="few">" dni"</item>
         <item quantity="many">" dňa"</item>
     </plurals>
+     <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d nových upozornení</item>
+        <item quantity="one">%d nové upozornenie</item>
+     </plurals>
     <plurals name="user_age_display_format_year">
         <item quantity="other">%1$d rokov</item>
         <item quantity="one">%1$d rok</item>
