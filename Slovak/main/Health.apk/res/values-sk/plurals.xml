@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="daily_suggestions_steps">
-        <item quantity="other">Prejdite aspoň %1$d ktokov každý deň</item>
-        <item quantity="one">Prejdite aspoň %1$d ktokov každý deň</item>
-        <item quantity="few">Prejdite aspoň %1$d ktokov každý deň</item>
-        <item quantity="many">Prejdite aspoň %1$d ktokov každý deň</item>
+        <item quantity="other">Prejdite aspoň %1$d krokov každý deň</item>
+        <item quantity="one">Prejdite aspoň %1$d krokov každý deň</item>
+        <item quantity="few">Prejdite aspoň %1$d krokov každý deň</item>
+        <item quantity="many">Prejdite aspoň %1$d krokov každý deň</item>
     </plurals>
     <plurals name="day_index">
         <item quantity="other">%1$d dní</item>
