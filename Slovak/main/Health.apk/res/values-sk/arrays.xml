@@ -44,17 +44,17 @@
         <item>"  m/s"</item>
     </string-array>
     <string-array name="temperature_unit">
-        <item>℃</item>
+        <item>°C</item>
         <item>°F</item>
     </string-array>
     <string-array name="week">
-        <item>Sunday</item>
-        <item>Monday</item>
-        <item>Tuesday</item>
-        <item>Wednesday</item>
-        <item>Thursday</item>
-        <item>Friday</item>
-        <item>Saturday</item>
+        <item>Nedeľa</item>
+        <item>Pondelok</item>
+        <item>Utorok</item>
+        <item>Streda</item>
+        <item>Štvrtok</item>
+        <item>Piatok</item>
+        <item>Sobota</item>
     </string-array>
     <string-array name="week_label">
         <item>Neď</item>
