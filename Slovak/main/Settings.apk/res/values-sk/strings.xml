@@ -6093,4 +6093,6 @@ Skontrolujte nasledovné:
   <string name="usb_headset_not_support_cancel">Rozumiem</string>
   <string name="usb_headset_not_support_message">Nie je možné prehrávať zvukové súbory cez redukciu. Použite Bluetooth slúchadlá alebo 3.5mm jack konektor.</string>
   <string name="usb_headset_not_support_tile">Nie je možné prehrať zvuk</string>  
+  <string name="lockscreen_sidepanel_shortcuts_summary">Prispôsobiť skratky aplikácií na ľavej obrazovke zamykania</string>
+  <string name="lockscreen_sidepanel_shortcuts_title">Skratky na bočnom panely</string>
 </resources>
