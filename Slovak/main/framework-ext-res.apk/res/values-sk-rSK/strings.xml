@@ -244,4 +244,5 @@
   <string name="xspace_head">Klonovaná aplikácia</string>
   <string name="xspace_resolver_activity_title">Vybrať apl.</string>
   <string name="data_usage_context">Ak Wi-Fi nie je zapnuté, vaše zariadenie bude pripojené k mobilným dátam.</string>
+  <string name="app_running_notification_tip_text">Môže spomaliť zariadenie a vybiť batériu. Dotykom ukončíte aplikáciu.</string>
 </resources>

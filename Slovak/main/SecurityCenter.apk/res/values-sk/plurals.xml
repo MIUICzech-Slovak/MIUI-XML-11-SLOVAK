@@ -570,4 +570,12 @@ If you turn on mobile data again, your carrier may charge you for additional dat
         <item quantity="other">Aktualizácií: %d</item>
         <item quantity="one">Aktualizácií: %d</item>
     </plurals>
+    <plurals name="keyguard_charging_info_drained_hour_time_format">
+        <item quantity="other">%sh</item>
+        <item quantity="one">%sh</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_drained_min_time_format">
+        <item quantity="other">%smin</item>
+        <item quantity="one">%smin</item>
+    </plurals>	
 </resources>

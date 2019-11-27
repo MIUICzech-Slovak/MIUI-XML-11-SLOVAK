@@ -42,4 +42,5 @@
   <string name="summary_float_enable_notification_first">Pre zobrazovanie plávajúcich upozornení najskôr povoľte upozornenia</string>
   <string name="summary_lock_screen_enable_notification_first">Pre zobrazovanie upozornení na Zamknutej obrazovke najskôr povoľte upozornenia</string>
   <string name="summary_show_badge_enable_notification_first">Pre zapnutie bublín upozornení najskôr povoľte upozornenia</string>
+  <string name="last_sent_time_second">Práve teraz</string>
 </resources>

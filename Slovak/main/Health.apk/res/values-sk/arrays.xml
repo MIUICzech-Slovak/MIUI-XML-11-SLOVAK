@@ -66,7 +66,7 @@
         <item>Sobota</item>
     </string-array>
     <string-array name="week_label">
-        <item>Neď</item>
+        <item>Ned</item>
         <item>Pon</item>
         <item>Uto</item>
         <item>Str</item>
