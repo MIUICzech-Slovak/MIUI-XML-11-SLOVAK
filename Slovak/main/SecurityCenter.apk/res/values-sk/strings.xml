@@ -3373,7 +3373,7 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="battery_low_button_not_open_power_save">Neskôr</string>
   <string name="battery_low_button_open_power_save">Povoliť</string>
   <string name="battery_low_percent_format_save_mode_closed">Ostáva menej ako %s batérie. Nezabudnite pripojiť zariadenie k nabíjačke.</string>
-  <string name="battery_low_percent_format_save_mode_open">Ostáva menej ako %s batérie. Povoľte šetrenie batérie a pridajte %2$s času navyše.</string>
+  <string name="battery_low_percent_format_save_mode_open">Ostáva menej ako %1$s batérie. Povoľte šetrenie batérie a pridajte %2$s času navyše.</string>
   <string name="battery_low_title">Batéria je skoro vybitá</string>
   <string name="battery_low_title_power_save">Šetrenie batérie</string>
   <string name="dlg_cancel">Zrušiť</string>
