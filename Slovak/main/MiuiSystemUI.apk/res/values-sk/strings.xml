@@ -1486,7 +1486,7 @@ Máte tiež aktívne pripojenie k sieti VPN, ktorá môže sledovať vašu akti
   <string name="quick_settings_dual_location_label">Dual GPS</string>
   <string name="quick_settings_edit_label">Upraviť</string>
   <string name="quick_settings_extreme_batterysaver_label">Extrémna úspora</string>
-  <string name="quick_settings_flashlight_label">Baterka</string>
+  <string name="quick_settings_flashlight_label">Svietidlo</string>
   <string name="quick_settings_hotspot_label">Hotspot</string>
   <string name="quick_settings_ime_label">Metóda vstupu</string>
   <string name="quick_settings_inversion_label">Inverzia farieb</string>
@@ -1701,7 +1701,7 @@ monitorovaná"</string>
   <string name="start_driving">Začať šoférovať</string>
   <string name="status_bar">Stavový riadok</string>
   <string name="status_bar_accessibility_dismiss_recents">Zatvoriť nedávne aplikácie</string>
-  <string name="status_bar_airplane">Režim v lietadle</string>
+  <string name="status_bar_airplane">Lietadlo</string>
   <string name="status_bar_alarm">Budík</string>
   <string name="status_bar_clear_all_button">Vymazať</string>
   <string name="status_bar_clock_date_format">EEEE, d. MMMM</string>
