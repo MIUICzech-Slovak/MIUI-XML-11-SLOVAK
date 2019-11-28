@@ -360,7 +360,7 @@ pre %s."</string>
   <string name="global_actions">Možnosti telefónu</string>
   <string name="global_actions_airplane_mode_off_status">Režim v lietadle je VYPNUTÝ</string>
   <string name="global_actions_airplane_mode_on_status">Režim v lietadle je ZAPNUTÝ</string>
-  <string name="global_actions_toggle_airplane_mode">Režim v lietadle</string>
+  <string name="global_actions_toggle_airplane_mode">Lietadlo</string>
   <string name="gpsNotifMessage">Žiadosť od používateľa %1$s (%2$s)</string>
   <string name="gpsNotifTicker">Žiadosť o informácie o polohe od používateľa %s</string>
   <string name="gpsNotifTitle">Žiadosť o informácie o polohe</string>
