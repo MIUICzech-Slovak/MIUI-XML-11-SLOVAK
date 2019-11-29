@@ -775,4 +775,5 @@ Všetky predchádzajúce používateľské údaje budú uložené."</string>
      <string name="virus_scan_is_virus">Táto aplikácia obsahuje vírusy.</string>
      <string name="virus_title_subtext">"Táto aplikácia obsahuje vírusy: "</string>
      <string name="waiting_tip">Môže to chvíľu trvať</string>    
+     <string name="dlg_msg_unoffical">Nie je možné aktualizovať systémovú aplikáciu z neoficiálneho zdroja</string>
 </resources>
