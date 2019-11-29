@@ -358,7 +358,6 @@ Všetky predchádzajúce používateľské údaje budú uložené."</string>
     <string name="picture_color_mode_desc">Použije sa sRGB</string>
     <string name="pointer_location">Umiestnenie kurzora</string>
     <string name="pointer_location_summary">Zobraziť prekryvnú vrstvu s aktuálnymi údajmi o klepnutiach</string>
-    <string name="power_charging">%1$s – %2$s</string>
     <string name="power_charging_duration">^1 – ^2 do úplného nabitia</string>
     <string name="power_discharging_duration">^1 – približný zostávajúci čas: ^2</string>
     <string name="power_discharging_duration_enhanced">^1 – zostáva približne ^2 v závislosti od intenzity využitia</string>
