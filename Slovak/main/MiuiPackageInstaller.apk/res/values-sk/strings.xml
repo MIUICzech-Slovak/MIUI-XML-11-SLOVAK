@@ -395,7 +395,6 @@ Všetky predchádzajúce používateľské údaje budú uložené."</string>
     <string name="picture_color_mode_desc">Použije sa sRGB</string>
     <string name="pointer_location">Umiestnenie kurzora</string>
     <string name="pointer_location_summary">Zobraziť prekryvnú vrstvu s aktuálnymi údajmi o klepnutiach</string>
-    <string name="power_charging">%1$s – %2$s</string>
     <string name="power_charging_duration">%1$s – %2$s do úplného nabitia</string>
     <string name="power_discharge_by">Mal by vydržať približne %1$s (%2$s)</string>
     <string name="power_discharge_by_enhanced">Mal by vydržať približne do %1$s v závislosti od využitia (%2$s)</string>
