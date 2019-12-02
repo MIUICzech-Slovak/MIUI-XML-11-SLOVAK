@@ -2069,8 +2069,22 @@ Akýkoľvek používateľ môže aktualizovať aplikácie všetkých ostatných 
   <string name="gxzw_quick_open_add_note_sub">Poznámky</string>
   <string name="gxzw_quick_open_dialer">Telefón</string>
   <string name="gxzw_quick_open_dialer_sub">Hovor</string>  
-  <string name="wifi_coverage_extend">Povoliť rozširené Wi-Fi pokrytie</string>
+  <string name="wifi_coverage_extend">Povoliť rozšírené Wi-Fi pokrytie</string>
   <string name="wifi_coverage_extend_summary">Rozšíriť Wi-Fi pokrytie pomocou hot-spotu</string>
   <string name="screenshot_failed_to_capture_title">Táto aplikácia blokuje vytváranie screenshotov</string>
   <string name="screenshot_failed_to_save_title">Nie je dostatok voľného miesta na úložisku</string>
+  <string name="multi_face_delete_message">Upozornenie</string>
+  <string name="multi_face_delete_show_message">Vymazať dáta o tvári?</string>
+  <string name="multi_face_input">Pridať tvár</string>
+  <string name="multi_face_input_enroll">Pridať tvár</string>
+  <string name="multi_face_input_enrolling">Pridávanie tváre...</string>
+  <string name="multi_face_input_reach_upper_limit">Nebolo možné pridať tvár. Skúste to znova neskôr.</string>
+  <string name="multi_face_input_success_msg_lift">Potiahnuť nahor na zamknutej obrazovke pre odomknutie tvárou</string>
+  <string name="multi_face_input_success_msg_normal">Použiť odomknutie tvárou keď sa rozsvieti displej</string>
+  <string name="multi_face_input_success_msg_slide">Potiahnuť nadol na zamknutej obrazovke pre odomknutie tvárou</string>
+  <string name="multi_face_input_success_name_title">Názov</string>
+  <string name="multi_face_list">Dáta tváre</string>
+  <string name="multi_face_name_prefix">"Tvár "</string>
+  <string name="multi_face_number_reach_limit">Nie je možné pridať viac ako 2 tváre</string>
+  <string name="quick_settings_cellular_detail_unable_change">Nie je možné nastaviť počas hovoru</string>
 </resources>

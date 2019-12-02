@@ -6100,4 +6100,14 @@ Skontrolujte nasledovné:
   <string name="mtp_connection_not_remind">Viac nezobrazovať</string>
   <string name="mtp_solution_button_cancel">Rozumiem</string>
   <string name="mtp_solution_button_ok">OK</string>  
+  <string name="color_lamp_applications_title">Spravovať upozornenia</string>
+  <string name="color_lamp_applications_title_summary">Povoliť alebo zakázať používanie LED v \"Kategóriach upozornení\"</string>
+  <string name="color_lamp_battery_title">Ponechať zapnuté počas nabíjania</string>
+  <string name="color_lamp_charging_summary">LED bude vypnutá keď sa zariadenie nabije doplna</string>
+  <string name="color_lamp_incall_pulse_title">Blikať pre prichádzajúce hovory</string>
+  <string name="color_lamp_notification_pulse_title">Blikať pre upozornenia ak je displej vypnutý</string>
+  <string name="color_lamp_title">LED</string>
+  <string name="dual_wifi_auto_disable">Zastaviť automatické zrýchlenie</string>
+  <string name="dual_wifi_auto_disable_summary">Odpojiť z pomocnej Wi-Fi siete ak je displej vypnutý</string>
+  <string name="popup_led_try_later">Počkajte 1-2 minúty a skúste to znova</string>
 </resources>
