@@ -3410,4 +3410,7 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="permdesc_in_calls">Sledovať prichádzajúce hovory</string>
   <string name="permdesc_out_calls">Sledovať odchádzajúce hovory</string>
   <string name="system_permission_perm_optional">" (voliteľné)"</string>
+  <string name="power_center_list_item_haptic_feedback">Deaktivovať hmatovú odozvu</string>
+  <string name="power_center_list_item_wake_notification">Nerozsvecovať displej upozorneniami</string>
+  <string name="power_optimize_disable_gps_high_accuracy">Vypnúť GPS</string>
 </resources>

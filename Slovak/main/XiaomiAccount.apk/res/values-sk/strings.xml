@@ -598,4 +598,5 @@ Uistite sa, že nezabudnete odpovede na otázky."</string>
   <string name="wipe_data_dialog_title">Niektoré položky neboli synchronizované.</string>
   <string name="pwd_width_phone_number_or_mail_num">Heslo nesmie obsahovať vaše telefónne číslo, email alebo Mi ID</string>
   <string name="risky_pwd_not_allow">Nové heslo nie je bezpečné. Nastavte ho znova.</string>
+  <string name="passport_can_not_receive_verification_code">Nedostali ste overovací kód?</string>
 </resources>

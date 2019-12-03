@@ -1332,4 +1332,5 @@ Zvoľte jednu z nasledujúcich možností:</string>
   <string name="yellowpage_user_profile">Profil</string>
   <string name="yesterday">Včera</string>
   <string name="zero_items_selected">Nič nie je vybrané</string>
+  <string name="cloud_upgrade_recommend">Nie je možné synchronizovať kontakty z dôvodu nedostatku miesta na cloudovom úložisku.</string>
 </resources>
