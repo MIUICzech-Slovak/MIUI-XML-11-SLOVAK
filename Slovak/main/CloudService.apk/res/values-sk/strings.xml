@@ -782,4 +782,5 @@ Prečítajte si a odsúhlaste naše Podmienky používania a Ochranu súkromia.
   <string name="menu_add_short_cut">Vytvoriť odkaz na ploche</string>
   <string name="tip_short_cut_added_success">Vytvorené</string>
   <string name="tip_short_cut_already_added">Vytvorené</string>  
+  <string name="wipe_data_query_progress_title">Kontrola...</string>
 </resources>

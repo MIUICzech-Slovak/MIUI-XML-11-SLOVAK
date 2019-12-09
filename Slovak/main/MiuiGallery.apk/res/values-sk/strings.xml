@@ -1788,4 +1788,17 @@
   <string name="trash_vip_button_login">Rozšíriť</string>
   <string name="trash_vip_button_login_top_level">Obnoviť</string>
   <string name="trash_vip_button_unlogin">Prihlásiť sa</string>
+  <string name="can_not_transfer_when_screening">Nie je možné vysielať počas prenosu</string>
+  <string name="filter_portrait_hint">Color pop</string>
+  <string name="photo_portrait_color_download_fail">Nebolo možné stiahnuť doplnok. Pripojte sa k sieti a skúste to znova.</string>
+  <string name="photo_portrait_color_download_success">Filtre stiahnuté</string>
+  <string name="photo_portrait_color_no_face">Color pop funguje len na fotografiách s osobami</string>
+  <string name="photo_portrait_download_sdk_without_wifi_msg">Nie ste pripojený na Wi-Fi. Môžete stiahnuť filtre (%1$dMB) cez mobilné dáta.</string>
+  <string name="photo_portrait_download_sdk_without_wifi_title">Stiahnuť filtre</string>
+  <string name="send_heif_summary">Konvertujte obrázky pred odoslaním</string>
+  <string name="send_heif_title">Konvertovať HEIF do JPG pred odoslaním</string>
+  <string name="unsupported_media_downloading_tip_common">Prezeranie obrázkov v tomto formáte nie je podporované na vašej verzii Androidu. Aj tak stiahnuť?</string>
+  <string name="unsupported_media_downloading_tip_format">Prezeranie obrázkov %s nie je podporované na vašej verzii Androidu. Aj tak stiahnuť?</string>
+  <string name="unsupported_media_scanned_tip">%1$s obrázkov bolo nájdených. Zobrazenie %2$s obrázkov nie je podporovaní na vašej verzii Androidu.</string>
+  <string name="unsupported_media_view_tip">Zobrazenie %s obrázkov nie je podporované na vašej verzii Androidu</string>
 </resources>

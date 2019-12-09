@@ -6111,4 +6111,12 @@ Skontrolujte nasledovné:
   <string name="dual_wifi_auto_disable_summary">Odpojiť z pomocnej Wi-Fi siete ak je displej vypnutý</string>
   <string name="popup_led_try_later">Počkajte 1-2 minúty a skúste to znova</string>
   <string name="delete_fingerprint_confirm_title">Upozornenie</string>
+  <string name="display_advanced_mode_summary">Nastavenie tónu farieb</string>
+  <string name="display_advanced_mode_title">Ďalšie nastavenia</string>  
+  <string name="haptic_feedback_progress">Úroveň hmatovej odozvy</string>
+  <string name="haptic_feedback_summary">Dostávajte odozvu na gestá a ovládanie systému</string>
+  <string name="haptic_feedback_title">Hmatová odozva</string>
+  <string name="ime_security_warning_global">Klávesnica môže zaznamenávať text ktorý píšete. Použiť %1$s?</string>
+  <string name="ime_security_warning_title_global">Povolenie klávesnice</string>
+  <string name="open_haptic_feedback">Hmatová odozva</string>
 </resources>

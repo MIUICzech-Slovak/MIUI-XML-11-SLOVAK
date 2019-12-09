@@ -581,4 +581,8 @@
         <item quantity="other">Položky môžu byť uložené tu po dobu %1$d dní. Navýšte si vaše predplatné pre predĺženie tejto doby.</item>
         <item quantity="one">Položky môžu byť uložené tu po dobu %1$d dňa. Navýšte si vaše predplatné pre predĺženie tejto doby.</item>
     </plurals>	
+    <plurals name="photo_remain_hours">
+        <item quantity="other">%dh</item>
+        <item quantity="one">%dh</item>
+    </plurals>	
 </resources>

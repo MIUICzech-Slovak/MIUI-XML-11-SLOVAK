@@ -3413,4 +3413,6 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="power_center_list_item_haptic_feedback">Deaktivovať hmatovú odozvu</string>
   <string name="power_center_list_item_wake_notification">Nerozsvecovať displej upozorneniami</string>
   <string name="power_optimize_disable_gps_high_accuracy">Vypnúť GPS</string>
+  <string name="power_save_ps_close_setting_5g_q">Vypnite služby ktoré majú vysokú spotrebu energie (synchr., 5G sieť, vibrácie, atď.)</string>
+  <string name="power_save_ps_close_setting_q">Vypnite služby ktoré majú vysokú spotrebu energie (synchr., vibrácie, atď.)</string>  
 </resources>
