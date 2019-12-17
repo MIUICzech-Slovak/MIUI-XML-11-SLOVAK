@@ -3446,7 +3446,7 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="gb_voice_changer_normal">Originál</string>
   <string name="gb_voice_changer_robot">Robot</string>
   <string name="phone_manage_recent_use">Nedávno použité</string>
-    <string name="vb_advanced_settings">Obrázok</string>
+  <string name="vb_advanced_settings">Obrázok</string>
   <string name="vb_advanced_settings_after_open">Potom</string>
   <string name="vb_advanced_settings_before_open">Predtým</string>
   <string name="vb_advanced_settings_pic_stronger_desc">Urobte pohybujúce sa objekty ostrejšie použitím vylepšenia animácií. Táto funkcia zvýši spotrebu batérie.</string>
@@ -3480,4 +3480,8 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="videobox_settings_title">Video nástroje</string>
   <string name="vtb_other_milink_connect">Momentálne nie je možné vysielať...</string>
   <string name="vtb_stop_milink_connect">Vysielanie videá je zastavené</string>  
+  <string name="power_center_dialog_msg_title">Povoľte pre získanie %1$s extra času. Tieto úlohy budú vykonané pre šetrenie batérie:</string>
+  <string name="power_save_mode_other_optimization">Ďalšia optimalizácia</string>
+  <string name="power_save_mode_close_notification_screenon_title">Nerozsvecovať displej upozorneniami</string>
+  <string name="power_save_mode_close_notification_screenon_summary">Funguje keď je povolené šetrenie batérie</string>
 </resources>
