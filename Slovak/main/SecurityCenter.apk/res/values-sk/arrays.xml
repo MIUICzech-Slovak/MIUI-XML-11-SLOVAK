@@ -217,4 +217,9 @@
         <item>Používa sa predvolený teplotný režim</item>
         <item>Uprednostniť výkon</item>
     </string-array>	
+    <string-array name="applock_password_types">
+        <item>Vzor</item>
+        <item>PIN</item>
+        <item>Heslo</item>
+    </string-array>	
 </resources>

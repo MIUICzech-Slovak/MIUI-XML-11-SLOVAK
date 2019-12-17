@@ -28,4 +28,16 @@
         <item>Pre identifikáciu vášho zariadenia</item>
         <item>Pre získanie polohy vášho zariadenia</item>
     </string-array>	
+    <string-array name="privacy_dialog_sync_runtime_perm_desc">
+        <item>Pre synch. udalostí</item>
+        <item>Pre synch. správ</item>
+        <item>Pre synch. správ</item>
+        <item>Pre synch. kontaktov</item>
+        <item>Pre synch. kontaktov</item>
+        <item>Pre ukladanie súborov do vášho zariadenia</item>
+    </string-array>
+    <string-array name="privacy_dialog_finddevice_runtime_perm_desc">
+        <item>Pre identifikáciu vášho zariadenia</item>
+        <item>Pre získanie polohy vášho zariadenia</item>
+    </string-array>		
 </resources>
