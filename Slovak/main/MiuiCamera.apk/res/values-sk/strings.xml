@@ -839,4 +839,9 @@ Objekt bude ostrý na rozmazanom pozadí."</string>
   <string name="pref_camera_quick_settings">Rýchle nastavenia</string>
   <string name="pref_camera_heic_image_format_description">Uložiť fotografie v efektívnom formáte HEIF</string>
   <string name="pref_camera_heic_image_format_title">HEIC Formát</string>  
+  <string name="pic_flaw_blink_more">Vyzerá to, že niekto na fotke má zatvorené oči</string>
+  <string name="pic_flaw_blink_one">Vyzerá to, že osoba na fotke má zatvorené oči</string>
+  <string name="pic_flaw_cover">Vyzerá to, že objektív je čiastočne zakrytý</string>
+  <string name="pref_pic_flaw_tip_summary">Dostávať upozornenia ak niekto na fotografii má zatvorené oči</string>
+  <string name="pref_pic_flaw_tip_title">Upozorniť na chyby</string>
 </resources>
