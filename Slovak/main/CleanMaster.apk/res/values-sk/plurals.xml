@@ -163,24 +163,4 @@
         <item quantity="other">Hlasové správy: %1$d</item>
         <item quantity="one">Hlasové správy: %1$d</item>
     </plurals>	
-   <plurals name="global_wa_clean_finish_audio">
-        <item quantity="other">Uvoľnené %1$s (dosť pre %2$d skladieb)</item>
-        <item quantity="one">Uvoľnené %1$s (dosť pre %2$d skladieb)</item>
-    </plurals>
-    <plurals name="global_wa_clean_finish_picture">
-        <item quantity="other">Uvoľnené %1$s (dosť pre %2$d fotografií)</item>
-        <item quantity="one">Uvoľnené %1$s (dosť pre %2$d fotografií)</item>
-    </plurals>
-    <plurals name="global_wa_image">
-        <item quantity="other">Položiek: %1$d</item>
-        <item quantity="one">Položiek: %1$d</item>
-    </plurals>
-    <plurals name="global_wa_video">
-        <item quantity="other">Položiek: %1$d</item>
-        <item quantity="one">Položiek: %1$d</item>
-    </plurals>
-    <plurals name="global_wa_voice">
-        <item quantity="other">Nájdených %1$d hlasových správ</item>
-        <item quantity="one">Nájdená %1$d hlasová správa</item>
-    </plurals>
 </resources>
