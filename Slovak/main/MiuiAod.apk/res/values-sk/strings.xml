@@ -79,5 +79,7 @@
   <string name="shownone_arround_image">Žiadne</string>
   <string name="time_location">Pozícia hodín</string>
   <string name="aod_lock_screen_date">EE d. MMMM</string>
-  <string name="aod_lock_screen_date_12">EE d. MMMM</string>  
+  <string name="aod_lock_screen_date_12">EE d. MMMM</string>
+  <string name="disable_aod_in_power_save_mode">Vypnúť pri režime Šetrenie batérie</string>
+  <string name="disable_aod_in_power_save_mode_summary">Položky nebudú zobrazované pre úsporu energie</string>
 </resources>
