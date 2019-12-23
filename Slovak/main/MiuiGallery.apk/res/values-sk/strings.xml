@@ -1801,4 +1801,19 @@
   <string name="unsupported_media_downloading_tip_format">Prezeranie obrázkov %s nie je podporované na vašej verzii Androidu. Aj tak stiahnuť?</string>
   <string name="unsupported_media_scanned_tip">%1$s obrázkov bolo nájdených. Zobrazenie %2$s obrázkov nie je podporovaní na vašej verzii Androidu.</string>
   <string name="unsupported_media_view_tip">Zobrazenie %s obrázkov nie je podporované na vašej verzii Androidu</string>
+  <string name="delete_album_msg_format_cloud">Vymazať %1$s %2$s z Xiaomi Cloudu a všetkých zariadení?</string>
+  <string name="delete_album_msg_format_local">Vymazať %1$s %2$s?</string>
+  <string name="filter_sky_clear_sky">Jasné nebo</string>
+  <string name="filter_sky_cumulus">Cumulus</string>
+  <string name="filter_sky_dawn">Dawn</string>
+  <string name="filter_sky_double_rainbow">Dvojitá dúha</string>
+  <string name="filter_sky_nimbus">Nimbus</string>
+  <string name="filter_sky_snowy">Zasnežená</string>
+  <string name="filter_sky_stratus">Stratus</string>
+  <string name="filter_sky_twilight">Západ slnka</string>
+  <string name="risk_control_deleted_date">dd.MM</string>
+  <string name="risk_control_deleted_message">Niekto vymazal vaše položky Galérie z cloudu %3$s na %1$s o %2$s. Boli ste to vy?</string>
+  <string name="risk_control_deleted_time">HH:mm</string>
+  <string name="risk_control_deleted_title">Bezpečnostné upozornenie</string>
+  <string name="trash_bin_summary_local">Zobraziť nedávno vymazané fotky a videá</string>
 </resources>

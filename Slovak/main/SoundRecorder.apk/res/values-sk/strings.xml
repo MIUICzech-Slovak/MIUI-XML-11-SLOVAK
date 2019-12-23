@@ -175,4 +175,7 @@ Pri použití mobilných dát sa budú účtovať poplatky od operátora."</stri
   <string name="search_hint">Vyhľadať</string>
   <string name="cancel_rename">Zrušiť</string>
   <string name="loading_more">Načítavanie...</string>
+  <string name="delete_cloud_data_at_same_time">Vymazať aj z cloudu</string>
+  <string name="preference_record_desktop_indicator_summary">Zobraziť modrý indikátor na ploche ak prebieha nahrávanie na pozadí</string>
+  <string name="preference_record_desktop_indicator_title">Indikátor na ploche</string>
 </resources>

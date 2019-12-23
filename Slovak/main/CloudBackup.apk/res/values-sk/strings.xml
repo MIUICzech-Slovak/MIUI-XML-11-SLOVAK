@@ -248,4 +248,5 @@ Poznámka: Nastavenie doinštalovaných aplikácií nebude zálohované na MiClo
   <string name="wait_icon_download">Sťahovanie ikony aplikácie</string>
   <string name="loading_progress_num">(%s%%)</string>
   <string name="restoring_home_screen_apps">Obnovenie z MiCloudu...</string>
+  <string name="restore_from_mimover">Presunúť z vášho starého zariadenia pomocou Prenosu</string>
 </resources>

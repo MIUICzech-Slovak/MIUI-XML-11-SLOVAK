@@ -585,4 +585,8 @@
         <item quantity="other">%dh</item>
         <item quantity="one">%dh</item>
     </plurals>	
+    <plurals name="album_item_msg_format_new">
+        <item quantity="other">Albumov: %d</item>
+        <item quantity="one">Albumov: %d</item>
+    </plurals>
 </resources>

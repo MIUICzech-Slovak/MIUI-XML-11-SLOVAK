@@ -29,7 +29,7 @@
   <string name="description_content">Kalkulačka slúži nielen na matematické úlohy ale aj konverziu mien a výpočet fyzikálnych veličín.</string>
   <string name="description_title">O Kalkulačke</string>
   <string name="devided_by_zero_reminder_message">Nie je možné deliť nulou</string>
-  <string name="dialog_privacy_content">Niektoré funkcie Kalkulačky vyžadujú pripojenie k sieti. Používaním tejto aplikácie súhlasíte s našimi %1$s a %2$s.</string>
+  <string name="dialog_privacy_content">Niektoré funkcie Kalkulačky vyžadujú pripojenie k sieti. Používaním tejto aplikácie súhlasíte s našimi Podmienkami používania a Ochranou súkromia.</string>
   <string name="dialog_privacy_title">Podmienky používania</string>
   <string name="error">Chyba</string>
   <string name="error_fomrat">Chyba formátu</string>
@@ -221,4 +221,7 @@
   <string name="item_title_radix">Číselný systém</string>
   <string name="view_float_window_move">Presunúť okno</string>
   <string name="wf_word_figure">Finančné znaky</string>
+  <string name="disallow">Nesúhlasím</string>
+  <string name="preference_privacy_title">Ochrana súkromia</string>
+  <string name="privacy_policy">Ochrana súkromia</string>
 </resources>

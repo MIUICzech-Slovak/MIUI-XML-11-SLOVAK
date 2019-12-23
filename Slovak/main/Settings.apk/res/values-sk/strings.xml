@@ -6119,4 +6119,7 @@ Skontrolujte nasledovné:
   <string name="ime_security_warning_global">Klávesnica môže zaznamenávať text ktorý píšete. Použiť %1$s?</string>
   <string name="ime_security_warning_title_global">Povolenie klávesnice</string>
   <string name="open_haptic_feedback">Hmatová odozva</string>
+  <string name="gps_description">Je podporovaných viacero navigačných systémov (GPS, BeiDou, GLONASS, Galileo)</string>
+  <string name="speaker">Reproduktor</string>
+  <string name="speaker_clean">Vyčistiť reproduktor</string>
 </resources>

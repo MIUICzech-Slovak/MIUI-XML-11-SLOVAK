@@ -219,4 +219,28 @@
   <string name="search_empty">Žiadne aplikácie</string>
   <string name="srgb_color_region">sRGB</string>
   <string name="srgb_color_region_summary">Zobraziť celý obsah displeja v sRGB tóne farieb</string>  
+  <string name="create">Vytvoriť</string>
+  <string name="create_failed">Nebolo možné vytvoriť</string>
+  <string name="create_shortcut">Odkaz na ploche</string>
+  <string name="created">Vytvorené</string>
+  <string name="created_successfully">Odkaz vytvorený</string>
+  <string name="lock_summary">Chráňte vaše súkromné informácie</string>
+  <string name="more_settings">Nastavenia</string>
+  <string name="no_matching">Nenašla sa aplikácia pre tento odkaz</string>
+  <string name="privacy_policy">Ochrana súkromia</string>
+  <string name="screen_time_lock">Zámok času displeja</string>
+  <string name="shortcut_created">Tento odkaz už existuje</string>
+  <string name="stop_summary">Všetky vaše štatistiky budú vymazané po deaktivácií tejto funkcii</string>
+  <string name="suggestion">Spätná väzba</string>
+  <string name="usage_agree">Súhlasím</string>
+  <string name="usage_exit">Ukončiť</string>
+  <string name="usage_home_permission_account_summary">Pre prihlásenie do Mi účtu</string>
+  <string name="usage_home_permission_account_title">Prístup k osobným informáciam</string>
+  <string name="usage_home_permission_phone_summary">Pre identifikáciu vášho zariadenia cez VAID</string>
+  <string name="usage_home_permission_phone_title">Prístup k informáciam o zariadení</string>
+  <string name="usage_home_premission_main_summary_new">"Vitajte v Čase používania!
+Pre správne fungovanie, táto aplikácia vyžaduje pripojenie na internet a nasledujúce povolenia:"</string>
+  <string name="usage_home_premission_main_summary_new_o">"Vitajte v Čase používania!
+Pre správne fungovanie, táto aplikácia vyžaduje pripojenie na internet a nasledujúce povolenia:"</string>
+  <string name="usage_home_premission_second_summary_new">Vaše dáta sú chránené.</string>
 </resources>
