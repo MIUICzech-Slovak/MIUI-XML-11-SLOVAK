@@ -853,6 +853,7 @@ is poskytuje predovšetkým spoločnosť Ultimate Inc."</string>
   <string name="online_service_title">Online služby</string>
   <string name="online_special">Špeciálne</string>
   <string name="online_switch">Online obsahové služby</string>
+  <string name="online_switch_confirm_title">Vypnutím online služieb nebudú všetky online funkcie k dispozícii. Aj tak vypnúť? </string>
   <string name="online_switch_message">Vypnutie online služieb ovplyvní VIP služby a odporúčania. Chcete ich vypnúť aj tak?</string>
   <string name="online_switch_setting">Nastavenia online obsahu</string>
   <string name="open_download">Otvoriť</string>
