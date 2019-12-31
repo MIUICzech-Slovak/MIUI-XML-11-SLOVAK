@@ -6121,4 +6121,17 @@ Skontrolujte nasledovné:
   <string name="open_haptic_feedback">Hmatová odozva</string>
   <string name="gps_description">Je podporovaných viacero navigačných systémov (GPS, BeiDou, GLONASS, Galileo)</string>
   <string name="speaker_clean">Vyčistiť reproduktor</string>
+  <string name="privacy_failed_need_to_unlock_nofingerprint">Zadajte heslo pred použitím nového odtlačku prsta</string>
+  <string name="default_suppression_title">Predvolené (Odporúčané)</string>
+  <string name="diy_suppression_summary">Prispôsobiť veľkosť plochy pri hranách kde budú ignorované dotyky</string>
+  <string name="diy_suppression_title">Vlastné</string>
+  <string name="edge_mode_state_summary">Plocha pri zahnutých hranách bude ignorovať dotyky</string>
+  <string name="edge_mode_state_title">Ignorovať nechcené dotyky pri hranách</string>
+  <string name="seek_bar_info">Nastaviť veľkosť</string>
+  <string name="strong_suppression_summary">Vaše zariadenie nebude reagovať na nechcené dotyky</string>
+  <string name="strong_suppression_title">Veľká plocha</string>
+  <string name="wake_suppression_summary">Vaše zariadenie bude reagovať na nechcené dotyky</string>
+  <string name="wake_suppression_title">Malá plocha</string>
+  <string name="wifi_direct_close_hotspot_hint">Vypnite prenosný hotspot pred použitím Wi-Fi direct</string>
+  <string name="wifi_direct_close_slave_wifi_hint">Odpojte sa od sekundárnej Wi-Fi pred použitím Wi-Fi direct</string>
 </resources>

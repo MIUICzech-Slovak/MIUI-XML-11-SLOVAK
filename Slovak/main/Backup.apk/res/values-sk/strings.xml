@@ -651,4 +651,5 @@ Veľkosť: %2$s"</string>
   <string name="xiaomi_update_dialog_message_diff">"Predstavujeme verziu %1$s
 Veľkosť Delta aktualizácie: %2$s"</string>
   <string name="xiaomi_update_dialog_title">Dostupná aktualizácia</string>
+  <string name="camera_summary_for_cta">Nastavenie fotoaparátu</string>
 </resources>

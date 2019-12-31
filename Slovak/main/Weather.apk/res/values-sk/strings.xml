@@ -228,4 +228,9 @@ Zadajte vaše mesto manuálne"</string>
   <string name="your_location">Vaša poloha</string>
   <string name="q_version_location_provider_btn_text">Povoľte prístup k polohe pre presnejšiu predpoveď počasia</string>
   <string name="refresh_empty_data">Nebolo možné načítať dáta. Skúste to znova neskôr.</string>
+  <string name="manager_city_option_add_city_back_search">Naspäť na vyhľadávanie</string>
+  <string name="manager_city_option_add_city_content">Mesto je pridané</string>
+  <string name="manager_city_option_add_city_title">Pridané</string>
+  <string name="manager_city_option_add_home">Pridať na prvú stranu</string>
+  <string name="manager_city_option_view_on_home">Zobraziť na prvej strane</string>
 </resources>

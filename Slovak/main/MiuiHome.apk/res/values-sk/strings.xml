@@ -438,4 +438,8 @@
   <string name="reset_cate_tip_content">Ak budete pokračovať, budú obnovené predvolené kategórie. Pokračovať?</string>
   <string name="reset_cate_tip_title">Obnoviť predvolené kategórie</string>  
   <string name="system_shortcuts_remove">Odobrať</string>
+  <string name="category_edit_back_confirm_dialog_content">Uložiť zmeny?</string>
+  <string name="category_edit_back_confirm_dialog_negative_button">Neukladať</string>
+  <string name="category_edit_back_confirm_dialog_positive_button">Uložiť</string>
+  <string name="auto_add_app_shortcut">Pridať nové nainštalované aplikácie na plochu</string>
 </resources>

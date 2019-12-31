@@ -844,4 +844,6 @@ Objekt bude ostrý na rozmazanom pozadí."</string>
   <string name="pic_flaw_cover">Vyzerá to, že objektív je čiastočne zakrytý</string>
   <string name="pref_pic_flaw_tip_summary">Dostávať upozornenia ak niekto na fotografii má zatvorené oči</string>
   <string name="pref_pic_flaw_tip_title">Upozorniť na chyby</string>
+  <string name="camcorder_tip_8k_max_video_duration">Môžete nahrať maximálne 6 minút v 8K rozlíšení</string>
+  <string name="video_beauty_tip_filter">Filtre</string>
 </resources>

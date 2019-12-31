@@ -546,4 +546,5 @@
   <string name="battery_history">Batéria</string>
   <string name="search_clear_header">Odstrániť obrázok pozadia</string>
   <string name="search_change_header">Nahradiť obrázok pozadia</string>
+  <string name="card_expand_note_toast_share_null">Táto poznámka je prázdna</string>
 </resources>

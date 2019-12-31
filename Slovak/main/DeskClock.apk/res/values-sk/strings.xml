@@ -380,4 +380,21 @@
   <string name="wake_up_alert_desc">Prehrať zvuk budíka v čas prebudenia</string>
   <string name="wake_up_ringtone">Zvonenie budíka</string>
   <string name="wake_up_time">Prebuďte sa</string>  
+  <string name="alert_ringtone">Zvonenie budíka</string>
+  <string name="alert_volume">Hlasitosť zvonenia</string>
+  <string name="alert_volume_summary">Nastaviť hlasitosť zvonenia pre budíky a časovač</string>
+  <string name="auto_silence_summary">Nastaviť čas po ktorom budú budíky a časovač stíšené</string>
+  <string name="edit_label">Upraviť názov budíka</string>
+  <string name="holiday_update_title">Aktualizovať informácie o sviatkoch</string>
+  <string name="label_input_desc">Tento názov bude zobrazený na displeji keď sa vypne budík</string>
+  <string name="label_input_hint">Zadajte názov</string>
+  <string name="more_alert_setting">Ďalšie nastavenia budíka</string>
+  <string name="net_permission_cancel">Nesúhlasím</string>
+  <string name="net_permission_ok">Súhlasím</string>
+  <string name="new_label">Pridať názov budíka</string>
+  <string name="normal_settings">Všeobecné nastavenia</string>
+  <string name="other_settings">Ďalšie nastavenia</string>
+  <string name="ringtone_digital_timer">Časovač</string>
+  <string name="time_settings">Nastavenie hodín</string>
+  <string name="timer_ringtone">Zvonenie časovača</string>
 </resources>
