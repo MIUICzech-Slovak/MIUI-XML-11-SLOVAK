@@ -579,8 +579,8 @@ If you turn on mobile data again, your carrier may charge you for additional dat
         <item quantity="one">%smin</item>
     </plurals>	
     <plurals name="applock_guide_app_count_tips">
-        <item quantity="other">Môžete ochrániť aspoň %s aplikácií</item>
-        <item quantity="one">Môžete ochrániť aspoň %s aplikáciu</item>
+        <item quantity="other">Môžete ochrániť %s aplikácií</item>
+        <item quantity="one">Môžete ochrániť %s aplikáciu</item>
     </plurals>
     <plurals name="gb_record_time_title">
         <item quantity="other">%ds</item>
