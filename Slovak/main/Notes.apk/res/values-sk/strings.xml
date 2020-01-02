@@ -184,7 +184,7 @@
   <string name="pref_title_todo_shorcut">Nástroje</string>
   <string name="privacy_hint">Súkromie</string>
   <string name="privacy_notes_fragment_title">Ukryté poznámky</string>
-  <string name="recover_notes_hint">Boli zistené chyby poznámok， skúste ich obnoviť na i.mi.com</string>
+  <string name="recover_notes_hint">Boli zistené chyby poznámok, skúste ich obnoviť na i.mi.com</string>
   <string name="redo">Znovu</string>
   <string name="refuse_to_open_as_pic_because_of_loading">Počkajte kým sa poznámka načíta a skúste to znova.</string>
   <string name="refuse_to_share_as_pic_because_of_content">Táto poznámka je príliš veľká na zdieľanie.</string>
@@ -362,4 +362,27 @@ http://www.miuios.cz/rom
   <string name="new_audio_create_done_talkback_des">Vytvorené</string>
   <string name="new_audio_create_guide_tip">Podržte pre vytvorenie nahrávky</string>
   <string name="new_audio_create_talkback_des">Dotknite sa pre vytvorenie poznámky. Podržte pre vytvorenie nahrávky. Pustite tlačidlo pre ukončenie nahrávky alebo potiahnite nahor pre zrušenie.</string>  
+  <string name="repeat_mode_day">Každý deň</string>
+  <string name="repeat_mode_default">Nikdy</string>
+  <string name="repeat_mode_dialog_title">Opakovať</string>
+  <string name="repeat_mode_month">Každý mesiac</string>
+  <string name="repeat_mode_normal_workday">Pondelok až Piatok</string>
+  <string name="repeat_mode_set_item_day">Každý deň</string>
+  <string name="repeat_mode_set_item_month_detail_lastday">Posledný deň v mesiaci</string>
+  <string name="repeat_mode_set_item_month_global">Každý mesiac (rovnaký dátum)</string>
+  <string name="repeat_mode_set_item_none">Nikdy</string>
+  <string name="repeat_mode_set_item_normal_workday">Pondelok až Piatok</string>
+  <string name="repeat_mode_set_item_week">Každý týždeň (%s)</string>
+  <string name="repeat_mode_set_item_week_detail">Každý týždeň (%s)</string>
+  <string name="repeat_mode_set_item_year">Každý rok (%s)</string>
+  <string name="repeat_mode_set_item_year_detail">Každý rok (%s)</string>
+  <string name="repeat_mode_set_item_year_detail_day">dd.MM</string>
+  <string name="repeat_mode_set_title">Opakovať</string>
+  <string name="repeat_mode_week">Každý týždeň</string>
+  <string name="repeat_mode_year">Každý rok</string>
+  <string name="todo_schedule_time_repeat_day">, každý deň</string>
+  <string name="todo_schedule_time_repeat_month">, každý mesiac</string>
+  <string name="todo_schedule_time_repeat_normal_workday">, Pondelok až Piatok</string>
+  <string name="todo_schedule_time_repeat_week">, každý týždeň</string>
+  <string name="todo_schedule_time_repeat_year">, každý rok</string>
 </resources>

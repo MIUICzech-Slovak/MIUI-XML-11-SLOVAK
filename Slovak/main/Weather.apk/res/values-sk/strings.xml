@@ -233,4 +233,5 @@ Zadajte vaše mesto manuálne"</string>
   <string name="manager_city_option_add_city_title">Pridané</string>
   <string name="manager_city_option_add_home">Pridať na prvú stranu</string>
   <string name="manager_city_option_view_on_home">Zobraziť na prvej strane</string>
+  <string name="more_expanded">Viac</string>
 </resources>
