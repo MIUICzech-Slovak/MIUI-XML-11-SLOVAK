@@ -867,7 +867,7 @@ Vysielanie používa signály Bluetooth s nízkou spotrebou energie."</string>
   <string name="bt_ldac_property">Atribúty</string>
   <string name="bt_ldac_remember_choice">Pamätať nastavenie</string>
   <string name="bt_ldac_settings">Nastavenia</string>
-  <string name="bt_rarely_used_device_title">Zriedkavo používané zaridenia (%d)</string>
+  <string name="bt_rarely_used_device_title">Zriedkavo používané zariadenia (%d)</string>
   <string name="bt_trace_log">Povoliť Bluetooth Trace log</string>
   <string name="bt_trace_log_summary">Povoliť Bluetooth Trace log</string>
   <string name="btn_back">Späť</string>
