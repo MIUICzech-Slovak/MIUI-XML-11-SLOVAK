@@ -249,4 +249,10 @@
      <string name="sst_switch_wallpaper_order_fixed">Za sebou</string>
      <string name="sst_switch_wallpaper_order_random">Náhodne</string>
      <string name="minutes_5">Každých 5 minút</string>
+     <string name="open_gallery_tips">Dotykom povolíte Dennú tapetu</string>
+     <string name="mode_auto_desc">Povoľte Dennú tapetu pre získavanie nových tapiet automaticky</string>
+     <string name="mode_auto_desc_open">Dostávať nové tapety automaticky</string>
+     <string name="sst_subscripted2">Dostupné kategórie</string>
+     <string name="mode_cw_desc">Povoľte Dennú tapetu pre prispôsobenie prezentácie</string>
+     <string name="more">Viac</string>
 </resources>
