@@ -735,6 +735,8 @@ Vysielanie používa signály Bluetooth s nízkou spotrebou energie."</string>
   <string name="bluetooth_pairing_request">Párovať s %1$s?</string>
   <string name="bluetooth_pairing_shares_phonebook">Povoliť zariadeniu %1$s prístup k vašim kontaktom a histórii hovorov</string>
   <string name="bluetooth_pairing_will_share_phonebook">Párovaním udelíte zariadeniam po pripojení prístup k svojim kontaktom a histórii hovorov.</string>
+  <string name="bluetooth_pairing_page_title">Párovať nové zariadenie</string>
+  <string name="bluetooth_pairing_pref_title">Párovať nové zariadenie</string>
   <string name="bluetooth_pan_nap_profile_summary_connected">Lokálne internetové pripojenie je zdieľané so zariadením</string>
   <string name="bluetooth_pan_profile_summary_use_for">Použiť pre prístup k internetu</string>
   <string name="bluetooth_pan_user_profile_summary_connected">Pripojené k zariadeniu za účelom prístupu k internetu</string>
@@ -6134,4 +6136,9 @@ Skontrolujte nasledovné:
   <string name="wake_suppression_title">Malá plocha</string>
   <string name="wifi_direct_close_hotspot_hint">Vypnite prenosný hotspot pred použitím Wi-Fi direct</string>
   <string name="wifi_direct_close_slave_wifi_hint">Odpojte sa od sekundárnej Wi-Fi pred použitím Wi-Fi direct</string>
+  <string name="auto_clean_description">"O tejto funkcii:
+1. Spustite túto funkciu raz alebo dvakrát ak je reproduktor zanesený prachom.
+2. Ak je reproduktor zablokovaný, spustite čistenie 2-5 krát a zatraste zariadením."</string>
+  <string name="auto_clean_summary">Prehrať 30s zvuk pre vyčistenie reproduktoru</string>
+  <string name="auto_clean_title">Vyčistiť reproduktor</string>
 </resources>
