@@ -6141,4 +6141,10 @@ Skontrolujte nasledovné:
 2. Ak je reproduktor zablokovaný, spustite čistenie 2-5 krát a zatraste zariadením."</string>
   <string name="auto_clean_summary">Prehrať 30s zvuk pre vyčistenie reproduktoru</string>
   <string name="auto_clean_title">Vyčistiť reproduktor</string>
+  <string name="call_example_name">Meno</string>
+  <string name="use_otg_charge_only">Spätné nabíjanie</string>
+  <string name="use_otg_charge_only_summary">Rýchlejšie 1A nabíjanie</string>
+  <string name="use_otg_file_transfers">Spätné nabíjanie a prenos súborov</string>
+  <string name="use_otg_file_transfers_summary">Pomalšie 500mA nabíjanie a prenos súborov</string>
+  <string name="use_otg_title">USB On-The-Go</string>
 </resources>

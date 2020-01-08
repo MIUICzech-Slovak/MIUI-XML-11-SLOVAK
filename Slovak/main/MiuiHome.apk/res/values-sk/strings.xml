@@ -442,4 +442,5 @@
   <string name="category_edit_back_confirm_dialog_negative_button">Neukladať</string>
   <string name="category_edit_back_confirm_dialog_positive_button">Uložiť</string>
   <string name="auto_add_app_shortcut">Pridať nové nainštalované aplikácie na plochu</string>
+  <string name="one_key_call_title">Dotykom zavolať</string>
 </resources>

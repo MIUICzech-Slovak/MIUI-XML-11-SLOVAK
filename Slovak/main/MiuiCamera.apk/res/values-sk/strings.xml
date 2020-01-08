@@ -846,4 +846,7 @@ Objekt bude ostrý na rozmazanom pozadí."</string>
   <string name="pref_pic_flaw_tip_title">Upozorniť na chyby</string>
   <string name="camcorder_tip_8k_max_video_duration">Môžete nahrať maximálne 6 minút v 8K rozlíšení</string>
   <string name="video_beauty_tip_filter">Filtre</string>
+  <string name="document_mode_use_hint_text_body">"Zarovnať a vylepšiť
+skenované dokumenty automaticky"</string>
+  <string name="document_mode_use_hint_text_title">Skenovanie dokumentov</string>
 </resources>
