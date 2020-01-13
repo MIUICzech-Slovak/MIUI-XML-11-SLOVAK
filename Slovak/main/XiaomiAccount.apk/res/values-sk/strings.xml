@@ -387,7 +387,7 @@ Skontrolujte aj SPAM."</string>
   <string name="passport_next">Ďalej</string>
   <string name="passport_no">Nie</string>
   <string name="passport_notification_title">Chyba prihlásenia pre %1$s</string>
-  <string name="passport_password_phone_login">Heslo</string>
+  <string name="passport_password_phone_login">Prihlásiť Mi účtom</string>
   <string name="passport_password_req_notice">Heslo musí obsahovať 8-16 znakov a obsahovať písmena a číslice.</string>
   <string name="passport_phone_num_hint_text">Telefónne číslo</string>
   <string name="passport_phone_ticket_login">Overovací kód</string>
