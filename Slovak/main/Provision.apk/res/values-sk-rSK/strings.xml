@@ -236,4 +236,5 @@ Pred použitím tejto funkcie musíte súhlasiť so Zásadami ochrany osobných 
     <string name="voice_assist_title">Prebudenie hlasom</string>
     <string name="welcome">Vitajte</string>
     <string name="zone_picker_title">Vyberte časovú zónu</string>
+  <string name="data_traffic_enable_dialog_title">Ak nie ste pripojený na Wi-Fi, vaše zariadenie použije mobilné dáta.</string>
 </resources>

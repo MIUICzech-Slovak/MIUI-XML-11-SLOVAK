@@ -2089,4 +2089,8 @@ Akýkoľvek používateľ môže aktualizovať aplikácie všetkých ostatných 
   <string name="quick_settings_cellular_detail_unable_change">Nie je možné nastaviť počas hovoru</string>
   <string name="ime_security_warning_global">Klávesnice môžu zaznamenávať text ktorý zadávate. Použiť %1$s?</string>
   <string name="ime_security_warning_title_global">Zapínanie klávesnice</string>  
+  <string name="accessibility_status_bar_micphone">Mikrofón pripojený</string>
+  <string name="how_to_use_app_quick">Ako prepínať medzi aplikáciami</string>
+  <string name="how_to_use_app_quick_hide_line_summary">Potiahnite zdola nahor, potom vľavo alebo vpravo</string>
+  <string name="how_to_use_app_quick_summary">Potiahnite vľavo alebo vpravo z indikátora alebo zo spodu displeja</string>
 </resources>

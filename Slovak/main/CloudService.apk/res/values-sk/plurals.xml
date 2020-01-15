@@ -88,4 +88,8 @@
         <item quantity="other">%d fráz</item>
         <item quantity="one">%d fráza</item>
     </plurals>
+    <plurals name="select_no_more_than">
+        <item quantity="other">Nie je možné vybrať viac ako %d položiek</item>
+        <item quantity="one">Nie je možné vybrať viac ako %d položku</item>
+    </plurals>    
 </resources>

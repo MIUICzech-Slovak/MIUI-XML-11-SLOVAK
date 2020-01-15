@@ -1713,4 +1713,12 @@ Počet dní do začiatku ďalšieho obdobia: %2$d (%3$s)"</string>
   <string name="mobile_connection_management">Spravovať sieťové pripojenia</string>
   <string name="mobile_property">Nastavenia mobilnej siete</string>
   <string name="netcheck_title">Diagnostika mobilnej siete</string>
+  <string name="mobile_advanced_nr_network_title">Typ 5G siete</string>
+  <string name="nr_network_info">Využitie 5G siete</string>
+  <string name="nr_usaged_first_used_time">Prihlásené do 5G siete</string>
+  <string name="nr_usaged_module">Zariadenie</string>
+  <string name="nr_usaged_network_rate">Najvyššia rýchlosť</string>
+  <string name="nr_usaged_network_usaged">Dnešné dáta</string>
+  <string name="nr_usaged_operator">Operátor</string>
+  <string name="nr_usaged_used_time">Čas používania</string>
 </resources>

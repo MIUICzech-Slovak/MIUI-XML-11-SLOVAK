@@ -737,4 +737,5 @@ Získali ste ďalších %1$s"</string>
   <string name="year_month_day_format">dd. MMM. yyyy</string>
   <string name="yes">Áno</string>
   <string name="yesterday">Včera</string>
+  <string name="error_hint_copy_folder_to_self_or_sub">Nie je možné presunúť alebo skopírovať zložky samé do seba</string>
 </resources>

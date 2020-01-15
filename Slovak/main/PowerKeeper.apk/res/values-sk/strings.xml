@@ -266,4 +266,5 @@
   <string name="warm_performance_tip">Vo výkonných operáciach sa môže teplota zariadenia zvýšiť viac ako je bežné</string>
   <string name="permstep_description">Povoliť aplikácií prístup k počtu krokov</string>
   <string name="permstep_label">Čítať kroky</string>  
+  <string name="power_tools_current">Súčasné</string>
 </resources>

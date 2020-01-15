@@ -840,4 +840,10 @@ Pre vyhľadanie vášho zariadenia
 
 Prečítajte si a odsúhlaste naše Podmienky používania a Ochranu súkromia.
 "</string>  
+  <string name="check_contact">Pridať</string>
+  <string name="choose_contact_title">Kontakty</string>
+  <string name="picker_list_empty">Žiadne kontakty</string>
+  <string name="picker_search_empty">Nebolo možné nájsť kontakty</string>
+  <string name="picker_search_hint">Vyhľadať</string>
+  <string name="starred_contact">Obľúbené</string>
 </resources>
