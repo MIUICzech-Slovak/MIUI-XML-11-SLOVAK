@@ -6156,4 +6156,6 @@ Skontrolujte nasledovné:
   <string name="navigation_guide_hide_gesture_line_title">Skryť indikátor</string>
   <string name="power_monitor_summary">Nástroje používané pre sledovanie spotreby</string>
   <string name="power_monitor_title">Monitor výkonu</string>
+  <string name="corner_assistant_gesture_summary">Potiahnite zo spodného pravého alebo ľavého rohu pre spustenie Google Asistenta</string>
+  <string name="corner_assistant_gesture_title">Potiahnutím z rohu spustiť Google Asistenta</string>
 </resources>
