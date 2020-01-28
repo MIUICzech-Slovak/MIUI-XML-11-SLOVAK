@@ -18,6 +18,7 @@
   <string name="motion_behavior">Režim pohybu</string>
   <string name="name_alipay_payment_code">Alipay quick pay</string>
   <string name="name_alipay_scan">Alipay scan code</string>
+  <string name="name_handy_mode">Ovládanie jednou rukou</string>
   <string name="name_long_press_power_key">Dlhé podržanie zapínania</string>
   <string name="name_memory_clean">Vyčistiť cache</string>
   <string name="name_music_next_song">Ďalšia skladba</string>
