@@ -10,4 +10,8 @@
     <string name="reset">Obnoviť</string>
     <string name="select_app">Vyberte aplikáciu</string>
     <string name="select_apps">Vyberte aplikácie</string>
+  <string name="hide_apps_close">Viditeľné ikony aplikácií</string>
+  <string name="hide_apps_open">Skryté ikony aplikácií</string>
+  <string name="home_hide_apps">Skryť ikony aplikácií</string>
+  <string name="loading">Načítavanie...</string>
 </resources>
