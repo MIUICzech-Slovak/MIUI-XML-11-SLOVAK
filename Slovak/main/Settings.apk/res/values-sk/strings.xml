@@ -6158,4 +6158,5 @@ Skontrolujte nasledovné:
   <string name="power_monitor_title">Monitor výkonu</string>
   <string name="corner_assistant_gesture_summary">Potiahnite zo spodného pravého alebo ľavého rohu pre spustenie Google Asistenta</string>
   <string name="corner_assistant_gesture_title">Potiahnutím z rohu spustiť Google Asistenta</string>
+  <string name="screen_fps_title">Frekvencia displeja</string>
 </resources>

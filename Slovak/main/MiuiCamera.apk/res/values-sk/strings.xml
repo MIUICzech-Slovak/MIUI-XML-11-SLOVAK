@@ -849,4 +849,5 @@ Objekt bude ostrý na rozmazanom pozadí."</string>
   <string name="document_mode_use_hint_text_body">"Zarovnať a vylepšiť
 skenované dokumenty automaticky"</string>
   <string name="document_mode_use_hint_text_title">Skenovanie dokumentov</string>
+  <string name="location_permission_not_ask_again_go_to_settings">Povoliť</string>
 </resources>
