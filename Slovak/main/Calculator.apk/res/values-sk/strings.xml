@@ -428,7 +428,6 @@ Ročné a päťročné ZÚS budú stanovené vždy v 20. deň v mesiaci (môžu 
     <string name="unit_data_display_currency_bnd">Brunejský dolár</string>
     <string name="unit_data_display_currency_brl">Brazílsky real</string>
     <string name="unit_data_display_currency_byn">Bieloruský rubeľ</string>
-    <string name="unit_data_display_currency_byr">@string/unit_data_display_currency_byn</string>
     <string name="unit_data_display_currency_cad">Kanadský dolár</string>
     <string name="unit_data_display_currency_chf">Švajčiarsky frank</string>
     <string name="unit_data_display_currency_clp">Čílske peso</string>
@@ -719,11 +718,8 @@ Ročné a päťročné ZÚS budú stanovené vždy v 20. deň v mesiaci (môžu 
     <string name="word_figure_unit_shi">拾</string>
     <string name="word_figure_yuan">元</string>
     <string name="word_figure_zheng">整</string>
-    <string name="xiaomi_bytes_unit">%1$s B</string>
     <string name="xiaomi_connect_download_manager_fail">Nepodarilo sa pripojiť ku Stiahnutým súborom. Skontrolujte, či má táto aplikácia všetky dostupné oprávnenia v Nastaveniach > Nainštalované aplikácie.</string>
     <string name="xiaomi_external_storage_unavailable">Úložisko je nedostupné. Skontrolujte vašu SD kartu.</string>
-    <string name="xiaomi_kilobytes_unit">%1$s KB</string>
-    <string name="xiaomi_megabytes_unit">%1$s MB</string>
     <string name="xiaomi_update_dialog_message">"Predstavujeme verziu %1$s
 Veľkosť: %2$s"</string>
     <string name="xiaomi_update_dialog_message_diff">"Predstavujeme verziu %1$s
