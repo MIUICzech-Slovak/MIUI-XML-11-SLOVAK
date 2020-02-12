@@ -6148,7 +6148,7 @@ Skontrolujte nasledovné:
   <string name="use_otg_file_transfers_summary">Pomalšie 500mA nabíjanie a prenos súborov</string>
   <string name="use_otg_title">USB On-The-Go</string>
   <string name="navigation_guide_app_quick_switch_hide_line_summary">Potiahnite zdola nahor, potom vľavo alebo vpravo</string>
-  <string name="navigation_guide_app_quick_switch_summary">Potiahnite vľavo alebo vpravo z indikátora alebo zo spodu displeja</string>
+  <string name="navigation_guide_app_quick_switch_summary">Potiahnite vľavo alebo vpravo z indikátora alebo zospodu displeja</string>
   <string name="navigation_guide_app_quick_switch_title">Prepínanie medzi aplikáciami</string>
   <string name="navigation_guide_gesture_line_dialog_summary">Nové gesto pre prepínanie aplikácií bude použité po skrytí indikátora celého displeja. Chcete sa ho naučiť?</string>
   <string name="navigation_guide_gesture_line_dialog_title">Naučte sa nové gesto</string>
@@ -6159,4 +6159,73 @@ Skontrolujte nasledovné:
   <string name="corner_assistant_gesture_summary">Potiahnite zo spodného pravého alebo ľavého rohu pre spustenie Google Asistenta</string>
   <string name="corner_assistant_gesture_title">Potiahnutím z rohu spustiť Google Asistenta</string>
   <string name="screen_fps_title">Frekvencia displeja</string>
+  <string name="acount_data">Účty</string>
+  <string name="application_data">Aplikácie</string>
+  <string name="backup_data">Zálohy</string>
+  <string name="backup_difference_content">"Lokálne zálohy:
+Lokálne zálohy môžu obsahovať viac dát aplikácií a položiek. Súbory zálohy sú uložené v MIUI-backup-AllBackup a musia byť skopírované do vášho PC po skončení zálohovania aby ste ich nestratili pri obnove továrnych nastavení.
+
+Cloudová zálohy:
+Zálohy sú uložené v MiCloude. Tento spôsob je rýchlejší ale nie je možné zálohovať dáta aplikácií do MiCloud.
+"</string>
+  <string name="backup_difference_title">4. Aký je rozdiel medzi lokálnou zálohou a tou v MiCloud?</string>
+  <string name="backup_restore_data_content">"Vaše zálohy môžu obsahovať kontakty, správy (SMS a MMS), históriu hovorov, udalosti v kalendári, fotografie, videá, dokumenty, aplikácie, dáta aplikácií a rozloženie plochy.
+"</string>
+  <string name="backup_restore_data_title">5. Ktoré položky môžem zálohovať alebo obnoviť?</string>
+  <string name="clear_all_data">Vymazať všetky dáta</string>
+  <string name="clear_phone_data_category">Vymazať nasledujúce položky</string>
+  <string name="cloud_restore_section_summary_new">Zálohovať rozloženie plochy, aplikácie, nastavenia systému, atď</string>
+  <string name="cloud_restore_section_title_new">V MiCloude</string>
+  <string name="common_issue">FAQ</string>
+  <string name="contact_data">Kontakty</string>
+  <string name="datasize_decrease_content">Kontakty, správy, a nastavenie systému sú skomprimované počas zálohovania</string>
+  <string name="datasize_decrease_title">6. Prečo sú zálohované súbory menšie ako tie nainštalované?</string>
+  <string name="how_backup_content">"Existujú 3 rôzne typy zálohovania: lokálne, MiCloud a USB.
+
+Lokálne zálohy:
+Lokálne zálohy môžu obsahovať viac dát aplikácií a položiek. Súbory zálohy sú uložené v MIUI-backup-AllBackup a musia byť skopírované do vášho PC po skončení zálohovania aby ste ich nestratili pri obnove továrnych nastavení.
+
+MiCloud zálohy:
+Zálohy sú uložené v MiCloude. Tento spôsob je rýchlejší ale nie je možné zálohovať dáta aplikácií do MiCloud..
+
+USB zálohy:
+Tento spôsob je totožný s lokálnou zálohou ale súbory zálohy sú ukladané na USB kľúč.
+"</string>
+  <string name="how_backup_title">1. Ako môžem zálohovať položky?</string>
+  <string name="how_encrypt_content">"Môžete zašifrovať len lokálne zálohy. Existujú dva spôsoby:
+a) Otvorte stránku s vašimi lokálnymi zálohami, povoľte šifrovanie tlačidlom, a prihláste sa k svojmu Mi účtu. Zálohy budú automaticky zašifrované. Pre obnovenie zašifrovaných záloh sa musíte prihlásiť k vášmu Mi účtu.
+b) Ak používate MiPC Suite, môžete vybrať možnosť šifrovania v jeho nastaveniach.
+
+Poznámka:
+Zapamätajte si nastavené heslo pre šifrovanie záloh! Ak ho zabudnete, nebude možné zálohy dešifrovať.
+"</string>
+  <string name="how_encrypt_title">3. Ako zašifrujem moje zálohy?</string>
+  <string name="how_restore_backup_content">"Ako obnoviť zálohy:
+
+Lokálne zálohy:
+Nakopírujte zálohy z vášho PC naspäť do zložky (MIUI-backup-AllBackup) v telefóne. Choďte do Nastavenia &gt; Zálohovanie a obnovenie &gt; Lokálne zálohy, a vyberte zálohu ktorú chcete obnoviť.
+
+MiCloud zálohy:
+Prihláste sa do vášho Mi účtu, choďte do Nastavenia &gt; Záloha a obnovenie &gt; MiCloud záloha, a vyberte zálohu ktorú chcete obnoviť.
+
+USB zálohy:
+Nakopírujte zálohy z USB naspäť do zložky (MIUI-backup-AllBackup) v telefóne. Choďte do Nastavenia &gt; Zálohovanie a obnovenie &gt; Lokálne zálohy, a vyberte zálohu ktorú chcete obnoviť.
+"</string>
+  <string name="how_restore_backup_title">2. Ako obnovím zálohované položky?</string>
+  <string name="local_backup_section_summary_new">Zálohovať účty, dáta aplikácií, nastavenia systému, atď</string>
+  <string name="local_backup_section_title_new">V tomto zariadení</string>
+  <string name="master_clear_title_new">Vymazať všetky dáta (obnova továrnych nastavení)</string>
+  <string name="other_data">Ostatné položky v tomto zariadení</string>
+  <string name="photo_data">Fotografie a videá</string>
+  <string name="privacy_settings_new">Zálohovanie alebo obnovenie</string>
+  <string name="reset_title">Obnoviť</string>
+  <string name="sd_data">SD karta</string>
+  <string name="system_backup_section_title_new">Zálohovať alebo obnoviť</string>
+  <string name="tip_remove_data">Obnovenie továrnych nastavení vymaže tieto položky z vášho zariadenia</string>
+  <string name="wifi_assist">Wi-Fi asistent</string>
+  <string name="wifi_link_turbo_customize">Vlastné aplikácie</string>
+  <string name="wifi_link_turbo_customize_summary">Vyberte aplikácie ktoré budú používať Wi-Fi asistenta podľa vašich nastavení</string>
+  <string name="wifi_link_turbo_list">Aplikácie</string>
+  <string name="wifi_link_turbo_recommendation">Odporúčané aplikácie</string>
+  <string name="wifi_link_turbo_recommendation_summary">Dostávať odporúčania na základe štatistík používania dát</string>  
 </resources>

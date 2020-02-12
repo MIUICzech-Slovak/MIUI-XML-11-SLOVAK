@@ -246,4 +246,6 @@
   <string name="data_usage_context">Ak Wi-Fi nie je zapnuté, vaše zariadenie bude pripojené k mobilným dátam.</string>
   <string name="app_running_notification_tip_text">Môže spomaliť zariadenie a vybiť batériu. Dotykom ukončíte aplikáciu.</string>
   <string name="slatoast">Používanie zrýchlenia mobilných dát, môže spotrebovať mobilné dáta</string>
+  <string name="sunlight_notification_content">Prispôsobiť jas displeja silnému slnečnému svetlu</string>
+  <string name="sunlight_notification_title">Povoliť Slnečný režim</string>  
 </resources>

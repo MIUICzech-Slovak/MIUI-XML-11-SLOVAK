@@ -652,4 +652,31 @@ Veľkosť: %2$s"</string>
 Veľkosť Delta aktualizácie: %2$s"</string>
   <string name="xiaomi_update_dialog_title">Dostupná aktualizácia</string>
   <string name="camera_summary_for_cta">Nastavenie fotoaparátu</string>
+  <string name="local_back_up_detail_description">"Poznámka:
+1. Pre zamedzenie straty dát, skopírujte lokálnu zálohu do vášho PC.
+2. Vždy pred obnovou továrnych nastavení zariadenia, skopírujte lokálnu zálohu do vášho PC.
+3. Kde sú uložené lokálne zálohy? %1$s"</string>
+  <string name="local_backup_select_activity">Vytvoriť zálohu</string>
+  <string name="local_button_backup_data">Zálohovať</string>
+  <string name="local_button_backup_now">Zálohovať</string>
+  <string name="local_button_restore_data">Obnoviť do tohto zariadenia</string>
+  <string name="local_button_restore_now">Obnoviť</string>
+  <string name="local_click_to_jump">Dotykom zobrazíte</string>
+  <string name="local_config_off">Vyp.</string>
+  <string name="local_config_on">Zap.</string>
+  <string name="local_main_auto_backup_title">Zálohovať automaticky</string>
+  <string name="local_main_backup">Lokálne zálohy</string>
+  <string name="local_main_backup_and_restore">V tomto zariadení</string>
+  <string name="local_main_backup_detail_title">Nastavenia systému, účty, a dáta aplikácií</string>
+  <string name="local_main_backup_manager">Spravovať lokálne zálohy</string>
+  <string name="local_main_backup_manager_title">Spravovať zálohy</string>
+  <string name="local_main_backup_settings">Nastavenie lokálnej zálohy</string>
+  <string name="local_main_backup_time">Posledná záloha: %1$s</string>
+  <string name="local_main_date_format">dd.MM.yyyy HH:mm</string>
+  <string name="local_main_encrypt_backup_summary">Zašifrujte svoju zálohu pomocou Mi účtu</string>
+  <string name="local_main_encrypt_backup_title">Zašifrovať zálohy</string>
+  <string name="local_main_latest_backup_time_loading">Načítavanie...</string>
+  <string name="local_no_backup_data">Žiadne zálohy</string>
+  <string name="local_restore_select_activity">Spravovať zálohy</string>
+  <string name="local_restore_select_data_activity">Obnoviť zo zálohy</string>  
 </resources>

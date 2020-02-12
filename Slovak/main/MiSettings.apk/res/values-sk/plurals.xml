@@ -101,4 +101,20 @@
         <item quantity="zero">%.2f krát</item>
         <item quantity="one">%.2f krát</item>
     </plurals>
+    <plurals name="usage_remain_about_hour">
+        <item quantity="other">≈%sh</item>
+        <item quantity="one">≈%sh</item>
+    </plurals>
+    <plurals name="usage_remain_about_miunte">
+        <item quantity="other">≈%smin</item>
+        <item quantity="one">≈%smin</item>
+    </plurals>
+    <plurals name="usage_stats_remain_hour">
+        <item quantity="other">%sh</item>
+        <item quantity="one">%sh</item>
+    </plurals>
+    <plurals name="usage_stats_remain_miunte">
+        <item quantity="other">%smin</item>
+        <item quantity="one">%smin</item>
+    </plurals>	
 </resources>

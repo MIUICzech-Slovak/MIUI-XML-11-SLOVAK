@@ -90,4 +90,8 @@
         <item quantity="few">Znovu importujte %d položky.</item>
         <item quantity="many">Znovu importujte %d položiek.</item>
     </plurals>
+    <plurals name="local_main_backup_manage_summary">
+        <item quantity="other">%1$s záloh (%2$s)</item>
+        <item quantity="one">%1$s záloha (%2$s)</item>
+    </plurals>	
 </resources>

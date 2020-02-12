@@ -66,4 +66,5 @@ Vaše dáta nebudú vymazané."</string>
   <string name="wifi_recommended">Pripojte sa na Wi-fi sieť pre stiahnutie aktualizácie!</string>
   <string name="fetching_data">Pripravuje sa spustenie sťahovania...</string>
   <string name="no_mirror">Server je momentálne nedostupný, skúste to neskôr...</string>
+  <string name="message_checkbox_device">Viac nezobrazovať</string>
 </resources>

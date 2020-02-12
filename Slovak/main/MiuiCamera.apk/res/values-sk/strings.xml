@@ -49,13 +49,10 @@
   <string name="accessibility_shutter_button">Tlačidlo spúšte</string>
   <string name="accessibility_skin_beautify_button">Vylepšenie pleti</string>
   <string name="accessibility_stereo_button">Dual-Camera Režim</string>
-  <string name="accessibility_ultra_pixel_photography_64mp_off">64MP </string>
+  <string name="accessibility_ultra_pixel_photography_64mp_off">64MP</string>
   <string name="accessibility_ultra_pixel_photography_64mp_on">64MP</string>
   <string name="accessibility_ultra_pixel_photography_off">%s Ultra HD je vypnuté</string>
   <string name="accessibility_ultra_pixel_photography_on">%s Ultra HD je zapnuté</string>
-  <string name="accessibility_video_capture_button">VideoCaptureButton</string>
-  <string name="accessibility_video_module_picker">VideoModulePicker</string>
-  <string name="accessibility_video_pause_button">VideoPauseButton</string>
   <string name="accessibility_zoom_button">Režim priblíženia</string>
   <string name="ai_scene_mode_use_hint_text">Povoľte Ai Fotoaparát, identifikuje scénu automaticky a optimalizuje nastavenia pre čo nalepší záber</string>
   <string name="ai_scene_top_moon_off">Režim nízkeho osvetlenia</string>
