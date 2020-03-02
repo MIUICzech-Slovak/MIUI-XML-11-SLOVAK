@@ -1721,4 +1721,9 @@ Počet dní do začiatku ďalšieho obdobia: %2$d (%3$s)"</string>
   <string name="nr_usaged_network_usaged">Dnešné dáta</string>
   <string name="nr_usaged_operator">Operátor</string>
   <string name="nr_usaged_used_time">Čas používania</string>
+  <string name="phone_report_title">Čítať informácie o hovore</string>
+  <string name="preferred_network_type_pref_entries_only_4g">Iba LTE</string>
+  <string name="report_method_entries_item1">Len ak sú pripojené slúchadlá</string>
+  <string name="report_method_entries_item2">Vždy</string>
+  <string name="report_method_entries_item3">Vypnúť</string>  
 </resources>

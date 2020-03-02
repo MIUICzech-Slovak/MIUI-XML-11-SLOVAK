@@ -385,4 +385,5 @@ http://www.miuios.cz/rom
   <string name="todo_schedule_time_repeat_normal_workday">, Pondelok až Piatok</string>
   <string name="todo_schedule_time_repeat_week">, každý týždeň</string>
   <string name="todo_schedule_time_repeat_year">, každý rok</string>
+  <string name="notification_content_add_todo_from_other_app">Pridali ste novú úlohu. Dotykom ju zobrazíte.</string>  
 </resources>

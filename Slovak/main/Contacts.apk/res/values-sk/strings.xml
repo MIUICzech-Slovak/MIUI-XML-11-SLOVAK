@@ -1338,4 +1338,11 @@ Zvoľte jednu z nasledujúcich možností:</string>
   <string name="no_phone_no_shortcut">Nie je možné vytvoriť odkaz na kontakt bez telefónneho čísla</string>
   <string name="delete_conference_call_log_message">Vymazať všetky nahrávky konferenčných hovorov s týmto kontaktom?</string>
   <string name="delete_conference_call_log_title">Vymazať nahrávky konferenčných hovorov</string>
+  <string name="return_call">Dotykom sa vrátite k hovoru</string>
+  <string name="return_call_calling">Prebieha hovor</string>
+  <string name="return_call_dialing">Vytáčanie</string>
+  <string name="return_call_incoming">Prichádzajúci hovor</string>
+  <string name="send_contact_shortcut_todesktop_duplicate">Tento odkaz už existuje</string>
+  <string name="send_contact_shortcut_todesktop_failed">Nebolo možné vytvoriť odkaz na ploche</string>
+  <string name="send_contact_shortcut_todesktop_overflow">Nie je možné vytvoriť viac odkazov na ploche</string>  
 </resources>

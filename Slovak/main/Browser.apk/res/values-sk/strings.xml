@@ -1148,4 +1148,8 @@ Chcete opustiť túto web stránku?"</string>
   <string name="sug_search_history_delete_text">Odstrániť</string>
   <string name="sug_search_history_empty_text">Vymazať</string>
   <string name="slide_guide">Potiahnite pre návrat</string>
+  <string name="dark_mode_setting_dark">Tmavý režim</string>
+  <string name="dark_mode_setting_follow">Podľa systému</string>
+  <string name="dark_mode_setting_light">Svetlý režim</string>
+  <string name="dark_mode_setting_title">Tmavý režim</string>  
 </resources>

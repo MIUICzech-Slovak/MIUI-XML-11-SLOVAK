@@ -248,4 +248,10 @@
   <string name="slatoast">Používanie zrýchlenia mobilných dát, môže spotrebovať mobilné dáta</string>
   <string name="sunlight_notification_content">Prispôsobiť jas displeja silnému slnečnému svetlu</string>
   <string name="sunlight_notification_title">Povoliť Slnečný režim</string>  
+  <string name="handset_text_unsupported_handset_insert">Zobraziť podrobnosti</string>
+  <string name="handset_text_usb_handset_insert">Dotykom otvoríte ďalšie nastavenia</string>
+  <string name="handset_title_unsupported_handset_insert">USB adaptér nie je podporovaný</string>
+  <string name="handset_title_usb_handset_insert">Prehrávanie zvuku cez USB</string>  
+  <string name="miaudiovisual_notification_summary">Povoľte pre zobrazenie efektov na zamykacej obrazovke</string>
+  <string name="miaudiovisual_notification_title">Audio a vizuálne efekty</string>  
 </resources>

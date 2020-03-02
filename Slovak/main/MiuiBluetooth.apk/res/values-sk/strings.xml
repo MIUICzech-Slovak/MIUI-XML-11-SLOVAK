@@ -71,4 +71,17 @@
   <string name="fast_connect_device_battery">Batéria</string>
   <string name="fast_connect_nzbt_reset">Podržte horné tlačidlo %1$s sekúnd kým sa nevypne</string>  
   <string name="fast_connect_wbs_reset">Podržte horné tlačidlo %1$s sekúnd keď je vypnuté</string>
+  <string name="mi_home_device_find">Vyhľadať zariadenia</string>
+  <string name="mi_home_device_ignore">Ignorovať</string>
+  <string name="mi_home_device_start_binding">Spárovať</string>
+  <string name="mihome_app_download">Inštalovať</string>
+  <string name="mihome_app_update">Aktualizovať</string>
+  <string name="mihome_download_tips">Nainštalujte MiHome aplikáciu, prihláste sa a nevzdiaľujte sa od zariadenia.</string>
+  <string name="mihome_download_title">Inštalovať MiHome</string>
+  <string name="mihome_ignore">Zrušiť</string>
+  <string name="mihome_ignore_query">Ignorovať</string>
+  <string name="mihome_ignore_tips">Ak budete ignorovať toto zariadenie, budete ho musieť pridať manuálne v MiHome.</string>
+  <string name="mihome_ignore_title">Ignorovať toto zariadenie?</string>
+  <string name="mihome_update_tips">Aktualizujte MiHome aplikáciu a nevzdiaľujte sa od zariadenia.</string>
+  <string name="mihome_update_title">Aktualizovať MiHome</string>  
 </resources>

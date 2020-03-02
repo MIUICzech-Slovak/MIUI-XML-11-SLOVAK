@@ -776,4 +776,8 @@ Všetky predchádzajúce používateľské údaje budú uložené."</string>
      <string name="virus_title_subtext">"Táto aplikácia obsahuje vírusy: "</string>
      <string name="waiting_tip">Môže to chvíľu trvať</string>    
      <string name="dlg_msg_unoffical">Nie je možné aktualizovať systémovú aplikáciu z neoficiálneho zdroja</string>
+  <string name="install_app_progress_clear_apk">Vymazať APK</string>
+  <string name="install_control_cancel_install">Neinštalovať</string>
+  <string name="install_control_continue_install">Aj tak inštalovať</string>
+  <string name="install_control_normal_mode_explain_des">Nie je možné nainštalovať túto aplikáciu z právnych dôvodov</string>	 
 </resources>
