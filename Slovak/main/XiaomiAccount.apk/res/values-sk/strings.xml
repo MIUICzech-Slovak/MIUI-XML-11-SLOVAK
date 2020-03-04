@@ -599,4 +599,13 @@ Uistite sa, že nezabudnete odpovede na otázky."</string>
   <string name="pwd_width_phone_number_or_mail_num">Heslo nesmie obsahovať vaše telefónne číslo, email alebo Mi ID</string>
   <string name="risky_pwd_not_allow">Nové heslo nie je bezpečné. Nastavte ho znova.</string>
   <string name="passport_can_not_receive_verification_code">Nedostali ste overovací kód?</string>
+  <string name="find_device">Vyhľadávanie zariadenia</string>
+  <string name="find_device_clear_data">Vymazať dáta</string>
+  <string name="find_device_close">Vypnuté</string>
+  <string name="find_device_location">Lokalizovať</string>
+  <string name="find_device_open">Zapnuté</string>
+  <string name="find_device_play_sound">Prehrať zvuk</string>
+  <string name="find_device_set_lost_model">Stratený režim</string>
+  <string name="find_device_title">Vyhľadať zariadenie</string>  
+  <string name="password_toggle_content_description">Prepnúť viditeľnosť hesla</string>
 </resources>

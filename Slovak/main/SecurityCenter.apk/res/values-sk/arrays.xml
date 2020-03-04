@@ -222,4 +222,11 @@
         <item>PIN</item>
         <item>Heslo</item>
     </string-array>	
+    <string-array name="app_behavior_type_menu">
+        <item>Všetky záznamy</item>
+        <item>Autoštart</item>
+        <item>Reťazový štart</item>
+        <item>Povolenia</item>
+        <item>Citlivé akcie</item>
+    </string-array>	
 </resources>

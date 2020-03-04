@@ -590,4 +590,20 @@ If you turn on mobile data again, your carrier may charge you for additional dat
         <item quantity="other">Aplikácií: %d</item>
         <item quantity="one">Aplikácií: %d</item>
     </plurals>	
+    <plurals name="app_behavior_desc_allow">
+        <item quantity="other">Povolené %3$d krát medzi %1$s a %2$s</item>
+        <item quantity="one">Povolené %3$d krát medzi %1$s a %2$s</item>
+    </plurals>
+    <plurals name="app_behavior_desc_deny">
+        <item quantity="other">Zakázané %3$d krát medzi %1$s a %2$s</item>
+        <item quantity="one">Zakázané %3$d krát medzi %1$s a %2$s</item>
+    </plurals>
+    <plurals name="app_behavior_privacy_manager_off">
+        <item quantity="other">Nebudete upozornený na citlivé akcie vykonané %1$d apl.</item>
+        <item quantity="one">Nebudete upozornený na citlivé akcie vykonané %1$d apl.</item>
+    </plurals>
+    <plurals name="app_behavior_privacy_manager_on">
+        <item quantity="other">Budete upozornený na citlivé akcie vykonané %1$d apl.</item>
+        <item quantity="one">Budete upozornený na citlivé akcie vykonané %1$d apl.</item>
+    </plurals>	
 </resources>
