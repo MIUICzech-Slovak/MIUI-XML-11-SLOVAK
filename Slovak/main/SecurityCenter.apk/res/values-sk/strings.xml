@@ -3540,7 +3540,6 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="power_save_ps_close_setting_sync">synchr.</string>
   <string name="gb_add_game_loading_tips">Načítavanie...</string>
   <string name="st_hint_operatelist">Toto pravidlo už existuje</string>
-  
   <string name="antivirus_monitored_app_empty">Nebolo možné nájsť kompatibilné platobné aplikácie</string>
   <string name="app_behavior_about_content_no_link">MIUI môže zobraziť ak aplikácie spustia iné aplikácie, spustia sa automaticky, použijú povolenia, a vykonajú citlivé akcie. Kvôli problémom s kompatibilitou verzie Androidu niektoré funkcie nemusia pracovať správne.</string>
   <string name="app_behavior_about_negative">Spätná väzba</string>
@@ -3563,7 +3562,7 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="app_behavior_denied">Zakázať</string>
   <string name="app_behavior_desc_allow_once">Povolené o %1$s</string>
   <string name="app_behavior_desc_deny_once">Zakázané o %1$s</string>
-  <string name="app_behavior_door">Správanie aplikácií</string>
+  <string name="app_behavior_door">Správanie aplikácie</string>
   <string name="app_behavior_header_time">dd. MMMM</string>
   <string name="app_behavior_list_load_more">Načítavanie...</string>
   <string name="app_behavior_location">%1s sa pokúsila o prístup k vašej polohe</string>
@@ -3575,8 +3574,8 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="app_behavior_monitor_off_positive">Vypnúť</string>
   <string name="app_behavior_monitor_off_select">Viac nezobrazovať</string>
   <string name="app_behavior_monitor_tips_if_trust">Ak dôverujete tejto aplikácií môžete vypnúť upozornenia na vykonané citlivé akcie</string>
-  <string name="app_behavior_monitor_tips_key">Upozornenia na vykonané citlivé akcie</string>
-  <string name="app_behavior_monitor_tips_summary">Môžete dostávať upozornenia ak aplikácie budú nahrávať zvuk, získajú prístup k vašej polohe alebo vykonajú citlivú akciu na pozadí.</string>
+  <string name="app_behavior_monitor_tips_key">Upozornenia citlivé akcie</string>
+  <string name="app_behavior_monitor_tips_summary">Môžete dostávať upozornenia ak aplikácia bude nahrávať zvuk, získa prístup k vašej polohe alebo vykoná citlivú akciu na pozadí.</string>
   <string name="app_behavior_no_recorder">Nič sa nenašlo</string>
   <string name="app_behavior_notification_title_calllog_read">%1s načítala históriu hovorov na pozadí</string>
   <string name="app_behavior_notification_title_calllog_write">%1s načítala vaše kontakty na pozadí</string>
