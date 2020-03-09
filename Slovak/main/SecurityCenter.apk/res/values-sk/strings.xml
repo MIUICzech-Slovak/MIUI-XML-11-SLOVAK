@@ -917,7 +917,7 @@ For more info check the message you received from your service provider"</string
   <string name="dialog_roaming_message">Aplikácie v zozname výnimiek budú mať prístup k dátovému pripojeniu počas medzinárodného roamingu. Pridať túto aplikáciu do výnimiek?</string>
   <string name="dialog_roaming_title">Medzinárodný roaming</string>
   <string name="dialog_roaming_warning_checkbox">Viac nezobrazovať</string>
-  <string name="dialog_roaming_warning_message">Oprátor môže účtovať ďalšie poplatky po povolení medzinárodného data roamingu. Aj tak chcete povoliť?</string>
+  <string name="dialog_roaming_warning_message">Operátor môže účtovať ďalšie poplatky po povolení medzinárodného data roamingu. Aj tak chcete povoliť?</string>
   <string name="dialog_roaming_warning_ok">Povoliť</string>
   <string name="dialog_text">Vytvoriť odkaz na ploche pre Zrýchlenie hier</string>
   <string name="dialog_title_attention">Upozornenie</string>
