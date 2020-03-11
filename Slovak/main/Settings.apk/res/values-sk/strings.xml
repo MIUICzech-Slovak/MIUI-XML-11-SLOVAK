@@ -6239,7 +6239,7 @@ Nakopírujte zálohy z USB naspäť do zložky (MIUI-backup-AllBackup) v telefó
   <string name="input_method_cloud_data_title">Schránka v cloude</string>
   <string name="input_method_cloud_paste_mode_bubble_des">Zobrazí sa bublina po pridaní nového obsahu do schránky.</string>
   <string name="input_method_cloud_paste_mode_bubble_title">Bublina</string>
-  <string name="input_method_cloud_paste_mode_no_des">Nezobrazí sa žiadne upozornenie po pridaní nového obsahu do schránky,</string>
+  <string name="input_method_cloud_paste_mode_no_des">Nezobrazí sa žiadne upozornenie po pridaní nového obsahu do schránky.</string>
   <string name="input_method_cloud_paste_mode_no_title">Žiadne</string>
   <string name="input_method_cloud_paste_mode_red_point_des">Zobrazí sa červená bodka v spodnej časti klávesnice po pridaní nového obsahu do schránky.</string>
   <string name="input_method_cloud_paste_mode_red_point_title">Červená bodka</string>
