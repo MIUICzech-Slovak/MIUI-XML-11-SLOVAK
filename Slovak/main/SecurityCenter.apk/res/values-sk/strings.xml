@@ -3610,7 +3610,7 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="app_behavior_warning_audio_title">%1s nahráva zvuk na pozadí</string>
   <string name="app_behavior_warning_content">Ukončite tento proces ak ste ho nepovolili</string>
   <string name="app_behavior_warning_location_title">%1s používa vašu polohu</string>
-  <string name="google_base_app_fail">Nebolo možné stiahnuť. skontrolujte povolenia pripojenia k sieti.</string>
+  <string name="google_base_app_fail">Nebolo možné stiahnuť. Skontrolujte povolenia pripojenia k sieti.</string>
   <string name="google_base_app_installed">Nainštalované</string>
   <string name="google_base_app_installing">Inštalácia...</string>
   <string name="google_base_app_network_anomaly">Nebolo možné pripojiť sa k sieti.</string>
