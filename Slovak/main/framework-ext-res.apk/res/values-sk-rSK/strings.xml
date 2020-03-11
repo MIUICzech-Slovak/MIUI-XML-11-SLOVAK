@@ -254,4 +254,18 @@
   <string name="handset_title_usb_handset_insert">Prehrávanie zvuku cez USB</string>  
   <string name="miaudiovisual_notification_summary">Povoľte pre zobrazenie efektov na zamykacej obrazovke</string>
   <string name="miaudiovisual_notification_title">Audio a vizuálne efekty</string>  
+  <string name="input_method_clipboard_check_more_add_to_phrase">Pridať časté frázy</string>
+  <string name="input_method_clipboard_check_more_copy">Kopírovať</string>
+  <string name="input_method_clipboard_check_more_delete">Vymazať</string>
+  <string name="input_method_clipboard_checkbox_cancle">Zrušiť</string>
+  <string name="input_method_clipboard_checkbox_confirm">Vymazať</string>
+  <string name="input_method_clipboard_clear_all_button">Vymazať všetko</string>
+  <string name="input_method_clipboard_clear_all_phrase_des">Vymazať všetko zo schránky?</string>
+  <string name="input_method_clipboard_clear_all_phrase_title">Vymazanie schránky</string>
+  <string name="input_method_clipboard_copy_success">Skopírované</string>
+  <string name="input_method_clipboard_delete_success">Vymazané</string>
+  <string name="input_method_clipboard_participle">Oddeliť slová</string>
+  <string name="input_method_clipboard_settings_button">Nastavenia</string>  
+  <string name="input_method_phrase_edit">Upraviť</string>
+  <string name="input_method_phrase_top">Pripnúť</string>  
 </resources>

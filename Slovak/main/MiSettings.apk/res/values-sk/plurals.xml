@@ -117,4 +117,8 @@
         <item quantity="other">%smin</item>
         <item quantity="one">%smin</item>
     </plurals>	
+    <plurals name="steady_on_screen_notification_summary">
+        <item quantity="other">Používali ste vaše zariadenie %d minút bez prestávky</item>
+        <item quantity="one">Používali ste vaše zariadenie %d minútu bez prestávky</item>
+    </plurals>	
 </resources>

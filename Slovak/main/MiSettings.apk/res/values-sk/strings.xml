@@ -265,4 +265,10 @@ Pre správne fungovanie, táto aplikácia vyžaduje pripojenie na internet a nas
   <string name="usage_stats_limit_time_warn_summary">Zobraziť zostávajúci čas v roletke</string>
   <string name="usage_stats_limit_time_warn_title">Upozorniť na zostávajúci čas</string>
   <string name="usage_stats_no_limit">Výnimky aplikácií</string>  
+  <string name="cu_confirm">Nastaviť</string>
+  <string name="steady_on_screen_notification_title">Položte váš telefón a oddýchnite si</string>
+  <string name="steady_on_screen_notify">Upozorniť na používanie bez prestávky</string>
+  <string name="steady_on_screen_setting">Časový limit používania</string>
+  <string name="steady_on_screen_summary">Časový limit pre používanie bez prestávky</string>
+  <string name="to_authorize">Udeliť povolenia</string>
 </resources>

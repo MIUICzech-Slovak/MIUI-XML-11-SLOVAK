@@ -1864,4 +1864,7 @@
   <string name="slideshow_loop_title">Všetky strany v slučke</string>
   <string name="sort">Zoradiť</string>
   <string name="vlog_mi_clip_cn">Video editor</string>
+  <string name="drag_view_tip_sub_title">Stlačte a podržte album pre jeho presunutie</string>
+  <string name="drag_view_tip_title">Presunúť album</string>
+  <string name="vlog_clip_cut_fail_min_time">Klip musí byť aspoň %1$ss dlhý</string>
 </resources>

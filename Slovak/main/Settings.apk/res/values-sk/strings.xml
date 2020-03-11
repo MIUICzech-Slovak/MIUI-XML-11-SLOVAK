@@ -6228,7 +6228,6 @@ Nakopírujte zálohy z USB naspäť do zložky (MIUI-backup-AllBackup) v telefó
   <string name="wifi_link_turbo_list">Aplikácie</string>
   <string name="wifi_link_turbo_recommendation">Odporúčané aplikácie</string>
   <string name="wifi_link_turbo_recommendation_summary">Dostávať odporúčania na základe štatistík používania dát</string>  
-  
   <string name="bluetooth_connect_settings">Nastavenie Bluetooth pripojenia</string>
   <string name="bluetooth_display_settings">Nastavenie Bluetooth displeja</string>
   <string name="bluetooth_mi_fast_connect">MiLink</string>
@@ -6236,4 +6235,21 @@ Nakopírujte zálohy z USB naspäť do zložky (MIUI-backup-AllBackup) v telefó
   <string name="dark_wallpaper_mode">Upraviť sýtosť farieb tapety v Tmavom režime</string>
   <string name="tether_use_wifi6_summary">Niektoré zariadenia nie sú kompatibilné s 802.11ax štandardom.</string>
   <string name="tether_use_wifi6_title">Podpora pre 6 generáciu Wi-Fi siete</string>  
+  <string name="input_method_clipboard_settings">Nastavenie schránky</string>
+  <string name="input_method_cloud_data_title">Schránka v cloude</string>
+  <string name="input_method_cloud_paste_mode_bubble_des">Zobrazí sa bublina po pridaní nového obsahu do schránky.</string>
+  <string name="input_method_cloud_paste_mode_bubble_title">Bublina</string>
+  <string name="input_method_cloud_paste_mode_no_des">Nezobrazí sa žiadne upozornenie po pridaní nového obsahu do schránky,</string>
+  <string name="input_method_cloud_paste_mode_no_title">Žiadne</string>
+  <string name="input_method_cloud_paste_mode_red_point_des">Zobrazí sa červená bodka v spodnej časti klávesnice po pridaní nového obsahu do schránky.</string>
+  <string name="input_method_cloud_paste_mode_red_point_title">Červená bodka</string>
+  <string name="input_method_quick_access">Rýchly prístup</string>
+  <string name="input_method_quick_cloud_mode_title">Upozornenie o novom obsahu v schránke</string>
+  <string name="input_method_quick_cloud_summary">Skopírovať položky na PC a vložiť vo vašom zariadení</string>
+  <string name="input_method_quick_cloud_title">Cloud clipboard</string>
+  <string name="input_method_quick_paste_summary">Zobraziť skopírované položky dotykom na ikonu schránky</string>
+  <string name="input_method_quick_paste_title">Rýchle vloženie</string>
+  <string name="input_method_quick_url_summary">Otvoriť skopírované URL dotykom na ikonu schránky</string>
+  <string name="input_method_quick_url_title">Webstránky</string>  
+  <string name="aggregate_title">Pravidlá pre združené upozornenia</string>
 </resources>
