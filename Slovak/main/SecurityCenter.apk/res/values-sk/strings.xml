@@ -3629,16 +3629,10 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="app_behavior_calendar_single">Táto aplikácia načítala vaše udalosti z kalendára</string>
   <string name="app_behavior_calllog_bg_single">Táto aplikácia načítala históriu hovorov na pozadí</string>
   <string name="app_behavior_calllog_single">Táto aplikácia načítala históriu hovorov</string>
-  <string name="app_behavior_callphone">%1s uskutočnila hovor</string>
   <string name="app_behavior_callphone_single">Táto aplikácia uskutočnila hovor</string>
-  <string name="app_behavior_camera">%1s zhotovila fotografie alebo video</string>
   <string name="app_behavior_camera_single">Táto aplikácia zhotovila fotografie alebo video</string>
-  <string name="app_behavior_clipboard">%1s načítala alebo uložila obsah do schránky</string>
-  <string name="app_behavior_clipboard_bg">%1s načítala alebo uložila obsah do schránky na pozadí</string>
   <string name="app_behavior_clipboard_bg_single">Táto aplikácia načítala alebo uložila obsah do schránky na pozadí</string>
   <string name="app_behavior_clipboard_single">Táto aplikácia načítala alebo uložila obsah do schránky</string>
-  <string name="app_behavior_contacts">%1s načítala vaše kontakty</string>
-  <string name="app_behavior_contacts_bg">%1s načítala vaše kontakty na pozadí</string>
   <string name="app_behavior_contacts_bg_single">Táto aplikácia načítala vaše kontakty na pozadí</string>
   <string name="app_behavior_contacts_single">Táto aplikácia načítala vaše kontakty</string>
   <string name="app_behavior_kill_process">Ukončiť</string>
@@ -3650,11 +3644,8 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="app_behavior_sensor_single">Táto aplikácia načítala dáta zo senzorov</string>
   <string name="app_behavior_sms_read_single">Táto aplikácia načítala SMS</string>
   <string name="app_behavior_sms_send_single">Táto aplikácia odoslala SMS</string>
-  <string name="app_behavior_storage">%1s otvorila alebo uložila súbory</string>
-  <string name="app_behavior_storage_bg">%1s otvorila alebo uložila súbory na pozadí</string>
   <string name="app_behavior_storage_bg_single">Táto aplikácia otvorila alebo uložila súbory na pozadí</string>
   <string name="app_behavior_storage_single">Táto aplikácia otvorila alebo uložila súbory</string>
-  <string name="app_behavior_wakepath" formatted="false">%1s spustila %2s</string>
   <string name="app_behavior_wakepath_single">Táto aplikácia spustila %2s</string>
   <string name="app_statusbar_audio_now">Nahrávanie</string>
   <string name="app_statusbar_camera_now">Fotenie</string>

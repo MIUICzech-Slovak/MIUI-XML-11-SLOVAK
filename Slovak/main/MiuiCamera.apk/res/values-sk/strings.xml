@@ -848,7 +848,6 @@ skenované dokumenty automaticky"</string>
   <string name="document_mode_use_hint_text_title">Skenovanie dokumentov</string>
   <string name="location_permission_not_ask_again_go_to_settings">Povoliť</string>
   <string name="location_access_allow">Povoliť</string>
-  <string name="pref_advance_settings">Ďalšie nastavenia</string>
   <string name="preview_back_pressed_hint">Dotknite sa znova pre návrat</string>
   <string name="share">Zdieľať</string>
   <string name="unknow_error">Neznáma chyba</string>
