@@ -1152,4 +1152,8 @@ Chcete opustiť túto web stránku?"</string>
   <string name="dark_mode_setting_follow">Podľa systému</string>
   <string name="dark_mode_setting_light">Svetlý režim</string>
   <string name="dark_mode_setting_title">Tmavý režim</string>  
+  <string name="mw_save_password_message">Zapamätať heslo?</string>
+  <string name="mw_save_password_never">Nikdy</string>
+  <string name="mw_save_password_notnow">Neskôr</string>
+  <string name="mw_save_password_remember">Zapamätať si</string>  
 </resources>
