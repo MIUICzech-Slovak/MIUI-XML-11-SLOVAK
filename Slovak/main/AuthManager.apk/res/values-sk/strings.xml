@@ -348,4 +348,7 @@
   <string name="screen_overlay_message">Pre zmenu nastavenia tohoto povolenia, musíte najskôr vypnúť prekrytie displeja v Nastavenia &gt; Aplikácie</string>
   <string name="screen_overlay_title">Zistené prekrytie displeja</string>
   <string name="permdesc_location_background">Prístup k polohe na pozadí</string>  
+  <string name="HIPS_Perm_clipboard">Schránka</string>
+  <string name="HIPS_Perm_clipboard_Desc">Zmeniť obsah schránky</string>
+  <string name="grant_dialog_button_allow_onetime">Povoliť</string>
 </resources>
