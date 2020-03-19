@@ -606,4 +606,16 @@ If you turn on mobile data again, your carrier may charge you for additional dat
         <item quantity="other">Budete upozornený na citlivé akcie vykonané %1$d apl.</item>
         <item quantity="one">Budete upozornený na citlivé akcie vykonané %1$d apl.</item>
     </plurals>	
+    <plurals name="app_behavior_notification_audio_more">
+        <item quantity="other">\"%1$1s\" %2$d nahrávajú</item>
+        <item quantity="one">\"%1$1s\" %2$d nahráva</item>
+    </plurals>
+    <plurals name="app_behavior_notification_camera_more">
+        <item quantity="other">\"%1$1s\" %2$d fotografujú</item>
+        <item quantity="one">\"%1$1s\" %2$d fotografuje</item>
+    </plurals>
+    <plurals name="app_behavior_notification_location_more">
+        <item quantity="other">\"%1$1s\" %2$d používajú vašu polohu</item>
+        <item quantity="one">\"%1$1s\" %2$d používa vašu polohu</item>
+    </plurals>	
 </resources>

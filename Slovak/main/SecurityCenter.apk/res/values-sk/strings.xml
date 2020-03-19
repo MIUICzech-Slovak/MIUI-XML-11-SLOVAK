@@ -3650,4 +3650,33 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="app_statusbar_audio_now">Nahrávanie</string>
   <string name="app_statusbar_camera_now">Fotenie</string>
   <string name="app_statusbar_location_now">Lokalizovanie</string>  
+  <string name="privacy_notification_subtitle">Skontrolujte povolenia aplikácie</string>
+  <string name="privacy_notification_title_camera">%1s používa fotoaparát na pozadí</string>
+  <string name="privacy_notification_title_camera_mic">%1s používa fotoaparát a mikrofón na pozadí</string>
+  <string name="privacy_notification_title_mic">%1s používa mikrofón na pozadí</string>  
+  <string name="app_behavior_key_audio">Zvuk</string>
+  <string name="app_behavior_key_camera">Fotoaparát</string>
+  <string name="app_behavior_key_location">Poloha</string>
+  <string name="app_behavior_key_protect">Ochrana súkromia</string>
+  <string name="app_behavior_notification_audio_now_one">\"%1s\" nahráva zvuk</string>
+  <string name="app_behavior_notification_audio_now_two">\"%1s\" nahráva zvuk</string>
+  <string name="app_behavior_notification_camera_one">\"%1s\" používa fotoaparát</string>
+  <string name="app_behavior_notification_camera_two">\"%1s\" používa fotoaparát</string>
+  <string name="app_behavior_notification_location_one">\"%1s\" používa vašu polohu</string>
+  <string name="app_behavior_notification_location_two">\"%1s\" používa vašu polohu</string>
+  <string name="app_behavior_settings_category_perm">Upozornenie na povolenia</string>
+  <string name="app_behavior_settings_category_privacy">Upozornenie na súkromie</string>
+  <string name="app_behavior_settings_perm_tips">Ak aplikácia použíje nahrávanie zvuku, fotoaprát alebo vašu polohu, zobrazí sa upozornenie</string>
+  <string name="app_behavior_settings_privacy_tips">Ak aplikácia použíje vaše kontakty, históriu hovorov alebo in= citlivé dáta, zobrazí sa upozornenie</string>
+  <string name="app_behavior_start_from_app_single">Spustené %1s</string>
+  <string name="app_behavior_start_from_launcher">%1s spustené z plochy</string>
+  <string name="app_behavior_start_from_launcher_single">Spustené z plochy</string>
+  <string name="app_behavior_start_from_notification">%1s spustené z upozornenia</string>
+  <string name="app_behavior_start_from_notification_single">Spustené z upozornenia</string>
+  <string name="app_behavior_start_from_recent">%1s spustené z nedávnych</string>
+  <string name="app_behavior_start_from_recent_single">Spustené z nedávnych</string>
+  <string name="app_behavior_time_today">Dnes</string>
+  <string name="app_behavior_time_yesterday">Včera</string>
+  <string name="app_perm_manager_service">Služby správy povolní</string>
+  <string name="notify_channel_name_behavior">Záznam o správaní</string>
 </resources>
