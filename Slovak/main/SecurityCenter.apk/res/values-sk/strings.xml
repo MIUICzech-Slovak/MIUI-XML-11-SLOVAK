@@ -3677,6 +3677,6 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="app_behavior_start_from_recent_single">Spustené z nedávnych</string>
   <string name="app_behavior_time_today">Dnes</string>
   <string name="app_behavior_time_yesterday">Včera</string>
-  <string name="app_perm_manager_service">Služby správy povolní</string>
+  <string name="app_perm_manager_service">Služby správy povolení</string>
   <string name="notify_channel_name_behavior">Záznam o správaní</string>
 </resources>
