@@ -3667,7 +3667,7 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="app_behavior_settings_category_perm">Upozornenie na povolenia</string>
   <string name="app_behavior_settings_category_privacy">Upozornenie na súkromie</string>
   <string name="app_behavior_settings_perm_tips">Ak aplikácia použíje nahrávanie zvuku, fotoaprát alebo vašu polohu, zobrazí sa upozornenie</string>
-  <string name="app_behavior_settings_privacy_tips">Ak aplikácia použíje vaše kontakty, históriu hovorov alebo in= citlivé dáta, zobrazí sa upozornenie</string>
+  <string name="app_behavior_settings_privacy_tips">Ak aplikácia použíje vaše kontakty, históriu hovorov alebo citlivé dáta, zobrazí sa upozornenie</string>
   <string name="app_behavior_start_from_app_single">Spustené %1s</string>
   <string name="app_behavior_start_from_launcher">%1s spustené z plochy</string>
   <string name="app_behavior_start_from_launcher_single">Spustené z plochy</string>
