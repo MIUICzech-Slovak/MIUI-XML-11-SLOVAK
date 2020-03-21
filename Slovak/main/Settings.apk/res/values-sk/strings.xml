@@ -6252,4 +6252,7 @@ Nakopírujte zálohy z USB naspäť do zložky (MIUI-backup-AllBackup) v telefó
   <string name="input_method_quick_url_summary">Otvoriť skopírované URL dotykom na ikonu schránky</string>
   <string name="input_method_quick_url_title">Webstránky</string>  
   <string name="aggregate_title">Pravidlá pre združené upozornenia</string>
+  <string name="oldman_app_label">Jednoduchý režim</string>
+  <string name="oldman_mode_entry_name">Jednoduchý režim</string>
+  <string name="oldman_mode_settings">Jednoduchý režim</string>
 </resources>

@@ -3655,7 +3655,7 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="privacy_notification_title_camera_mic">%1s používa fotoaparát a mikrofón na pozadí</string>
   <string name="privacy_notification_title_mic">%1s používa mikrofón na pozadí</string>  
   <string name="app_behavior_key_audio">Nahráva zvuk</string>
-  <string name="app_behavior_key_camera">Požíva fotoaparát</string>
+  <string name="app_behavior_key_camera">Používa fotoaparát</string>
   <string name="app_behavior_key_location">Používa polohu</string>
   <string name="app_behavior_key_protect">Ochrana súkromia</string>
   <string name="app_behavior_notification_audio_now_one">\"%1s\" nahráva zvuk</string>
