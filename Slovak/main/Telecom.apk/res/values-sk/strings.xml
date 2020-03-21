@@ -411,4 +411,5 @@ Ak chcete pokračovať, stlačte tlačidlo Vymazať a konvertovať…"</string>
   <string name="wifi_verbose_logging">Podrobné denníky Wi-Fi</string>
   <string name="wifi_verbose_logging_summary">Zvýšiť úroveň denníkov Wi-Fi, zobrazovať podľa SSID RSSI pri výbere siete Wi-Fi</string>
   <string name="window_animation_scale_title">Mierka animácie okna</string>
+  <string name="volume_boost_text">Hlasitosť bola zvýšená</string>
 </resources>

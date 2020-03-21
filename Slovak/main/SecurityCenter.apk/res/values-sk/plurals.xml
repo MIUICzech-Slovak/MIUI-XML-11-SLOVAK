@@ -607,15 +607,15 @@ If you turn on mobile data again, your carrier may charge you for additional dat
         <item quantity="one">Budete upozornený na citlivé akcie vykonané %1$d apl.</item>
     </plurals>	
     <plurals name="app_behavior_notification_audio_more">
-        <item quantity="other">\"%1$1s\" a %2$d ďalších apl.nahrávajú zvuk</item>
-        <item quantity="one">\"%1$1s\" a %2$d apl. nahráva zvuk</item>
+        <item quantity="other">\"%2$d\" a %1$1s ďalších apl.nahrávajú zvuk</item>
+        <item quantity="one">\"%2$d\" a %1$1s apl. nahráva zvuk</item>
     </plurals>
     <plurals name="app_behavior_notification_camera_more">
-        <item quantity="other">\"%1$1s\" a %2$d ďalších apl. fotografujú</item>
-        <item quantity="one">\"%1$1s\" a %2$d apl. fotografuje</item>
+        <item quantity="other">\"%2$d\" a %1$1s ďalších apl. fotografujú</item>
+        <item quantity="one">\"%2$d\" a %1$1s apl. fotografuje</item>
     </plurals>
     <plurals name="app_behavior_notification_location_more">
-        <item quantity="other">\"%1$1s\" a %2$d ďalších apl. používajú vašu polohu</item>
-        <item quantity="one">\"%1$1s\" a %2$d apl. používa vašu polohu</item>
+        <item quantity="other">\"%2$d\" a %1$1s ďalších apl. používajú vašu polohu</item>
+        <item quantity="one">\"%2$d\" a %1$1s apl. používa vašu polohu</item>
     </plurals>	
 </resources>

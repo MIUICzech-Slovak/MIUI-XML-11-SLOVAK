@@ -294,7 +294,7 @@
   <string name="grant_dialog_button_deny">Odmietnuť</string>
   <string name="grant_dialog_button_deny_and_dont_ask_again">Zakázať a nepýtať sa</string>
   <string name="grant_dialog_button_deny_background">Ponechať prístup počas používania</string>
-  <string name="grant_dialog_button_deny_background_and_dont_ask_again">Ponechať a nepýtať sa</string>
+  <string name="grant_dialog_button_deny_background_and_dont_ask_again">Len počas používania aplikácie</string>
   <string name="location_settings">Nastavenie polohy</string>
   <string name="location_warning">%1$s je poskytovateľ služieb polohy pre toto zariadenie. Prístup k polohe môžete zmeniť v nastaveniach.</string>
   <string name="never_ask_again">Viac sa nepýtať</string>
@@ -350,5 +350,5 @@
   <string name="permdesc_location_background">Prístup k polohe na pozadí</string>  
   <string name="HIPS_Perm_clipboard">Schránka</string>
   <string name="HIPS_Perm_clipboard_Desc">Zmeniť obsah schránky</string>
-  <string name="grant_dialog_button_allow_onetime">Povoliť</string>
+  <string name="grant_dialog_button_allow_onetime">Povoliť raz</string>
 </resources>
