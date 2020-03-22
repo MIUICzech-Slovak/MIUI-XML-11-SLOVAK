@@ -1867,4 +1867,27 @@
   <string name="drag_view_tip_sub_title">Stlačte a podržte album pre jeho presunutie</string>
   <string name="drag_view_tip_title">Presunúť album</string>
   <string name="vlog_clip_cut_fail_min_time">Klip musí byť aspoň %1$ss dlhý</string>
+  <string name="operation_video_compress">Komprimovať video</string>
+  <string name="choose_video_compress_quality">Vyberte rozlišenie</string>
+  <string name="video_analytic_cancel">Zrušiť</string>
+  <string name="video_analytic_download">Stiahnut</string>
+  <string name="video_analytic_download_failed_for_notwork">Nepodarilo sa stiahnut. Skontrolujte nastavenie siete a skúste to znovu.</string>
+  <string name="video_analytic_download_sdk_without_wifi_msg">Nie je možné sa pripojiť k Wi-Fi. Doplnok môžete stiahuť cez mobilné dáta.</string>
+  <string name="video_analytic_download_sdk_without_wifi_title">Sťahovanie doplnku...</string>
+  <string name="video_compress_download_failed_for_notwork">Nepodarilo sa stiahnuť. Skontrolujte nastavenie siete a skúste to znovu.</string>
+  <string name="video_compress_encode_video">Komprimovanie videa...</string>
+  <string name="video_compress_lib_download">Stiahnuť doplnok pre kompresiu videa</string>
+  <string name="video_compress_lib_download_without_wifi">"Zdá sa, že nie ste pripojený k Wi-Fi. K stiahnutiu doplnku môžete použiť mobilné dáta (1.3MB).</string>
+  <string name="video_compress_not_with_8k">Nie je možné komprimovat 8K videa</string>
+  <string name="video_compress_not_with_format">Kompresia videa nie je pre tento formát podporovaná</string>
+  <string name="video_compress_not_with_low_quality">Aktuálne rozlíšenie je najnižšie</string>
+  <string name="video_compress_save_stop_tips">Dotykom zastavíte kompresiu</string>
+  <string name="video_compress_size">≈%s po kompresii</string>
+  <string name="video_quality_1080p_hd">1080P (vysoké rozlíšenie)</string>
+  <string name="video_quality_1080p_original">1080P (nekomprimované)</string>
+  <string name="video_quality_4k_hd">4K (vysoké rozlíšenie)</string>
+  <string name="video_quality_4k_original">4K (nekomprimované)</string>
+  <string name="video_quality_720p_hd">720P (vysoké rozlíšenie)</string>
+  <string name="video_quality_720p_original">720P (nekomprimované)</string>
+  <string name="video_quality_title_sub">Súčasné rozlíšenie: %1$s (≈%2$s)</string>
 </resources>
