@@ -1345,4 +1345,7 @@ Zvoľte jednu z nasledujúcich možností:</string>
   <string name="send_contact_shortcut_todesktop_duplicate">Tento odkaz už existuje</string>
   <string name="send_contact_shortcut_todesktop_failed">Nebolo možné vytvoriť odkaz na ploche</string>
   <string name="send_contact_shortcut_todesktop_overflow">Nie je možné vytvoriť viac odkazov na ploche</string>  
+  <string name="bind_simcard_menu">Nastaviť predvolenú SIM</string>
+  <string name="bind_simcard_default">Predvolená SIM pre hovory</string>
+  <string name="bind_simcard_title">Predvolená SIM pre hovory</string>
 </resources>
