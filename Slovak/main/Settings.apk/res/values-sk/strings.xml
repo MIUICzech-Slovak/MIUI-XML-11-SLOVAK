@@ -3149,14 +3149,6 @@ Vyberte váš operačný systém:"</string>
   <string name="off">Vyp</string>
   <string name="ok_rules">Ukončiť</string>
   <string name="okay">OK</string>
-  <string name="oldman_mode_confirm_title">Reštartovať telefón?</string>
-  <string name="oldman_mode_confirm_will_normal_mode_text">Exit Lite mode?</string>
-  <string name="oldman_mode_confirm_will_oldman_mode_text">Your device will reboot to enter Lite mode.</string>
-  <string name="oldman_mode_enabled_name">Lite mode</string>
-  <string name="oldman_mode_entry_name">Lite mode</string>
-  <string name="oldman_mode_entry_title">Lite mode</string>
-  <string name="oldman_mode_settings_caption">Lite mode settings</string>
-  <string name="oldman_mode_summary">Use simplified Home screen and menus</string>
   <string name="on">Zap</string>
   <string name="onehour">30 minút</string>
   <string name="onekey_migrate">Presun do nového zariadenia</string>
