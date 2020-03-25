@@ -3680,4 +3680,34 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="app_perm_manager_service">Povolenia</string>
   <string name="notify_channel_name_behavior">Záznam o správaní</string>
   <string name="notify_channel_optimize">Bezpečnostné oznámenia</string>
+  <string name="warningcenter_action_check">Zobraziť</string>
+  <string name="warningcenter_alert_home">Poloha</string>
+  <string name="warningcenter_alert_room">Izba</string>
+  <string name="warningcenter_alert_source">MIUI Centrum Varovania | Zdroj: %s</string>
+  <string name="warningcenter_alert_time">Čas</string>
+  <string name="warningcenter_alert_warning_time">Doručené: %s</string>
+  <string name="warningcenter_earthquake_info">Varovanie na zemetrasenia</string>
+  <string name="warningcenter_mijia_alert_close">Zatvoriť</string>
+  <string name="warningcenter_mijia_alert_settings">Zmeňte nastavenia v Optimalizácia &gt; Upozornenia zo Smart home zariadení</string>
+  <string name="warningcenter_mijia_alert_tips_1">Zistená vyskoká koncentrácia plynu</string>
+  <string name="warningcenter_mijia_alert_tips_2">Zistený dym</string>
+  <string name="warningcenter_mijia_alert_tips_3">Zistené vytopenie</string>
+  <string name="warningcenter_mijia_alert_tips_4">Váš zámok bol zničený</string>
+  <string name="warningcenter_mijia_alert_view_device">Zobraziť zariadenie</string>
+  <string name="warningcenter_mijia_devices_1">Detektor vytopenia</string>
+  <string name="warningcenter_mijia_devices_2">Detektor dymu</string>
+  <string name="warningcenter_mijia_devices_3">Detektor plynu</string>
+  <string name="warningcenter_mijia_devices_4">Inteligentný zámok</string>
+  <string name="warningcenter_mijia_devices_support">Podporované zariadenia</string>
+  <string name="warningcenter_mijia_devices_support_tips">Poznámka: Nebudete dostávať upozornenia ak sa odhlásite z vášho Mi účtu v MiHome alebo odinštalujete aplikáciu.</string>
+  <string name="warningcenter_mijia_info">Sledovať zabezpečenie domácnosti</string>
+  <string name="warningcenter_mijia_notification_summary">Môžete dostávať upozornenia</string>
+  <string name="warningcenter_mijia_notification_title">Varovania zo Smart home zariadení sú povolené</string>
+  <string name="warningcenter_mijia_open_desc">Budete dostávať varovania ak sú vyslané zo zariadení v MiHome</string>
+  <string name="warningcenter_mijia_open_title">Dostávať varovania zo Smart home</string>
+  <string name="warningcenter_mijia_page_title">Varovania</string>
+  <string name="warningcenter_mijia_title">Varovania zo Smart home</string>
+  <string name="warningcenter_smarthome">MiHome</string>
+  <string name="warningcenter_title">MIUI Centrum Varovania</string>
+
 </resources>
