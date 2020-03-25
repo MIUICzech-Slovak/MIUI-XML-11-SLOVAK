@@ -726,4 +726,9 @@ Veľkosť: %2$s"</string>
 Veľkosť delta aktualizácie: %2$s"</string>
     <string name="xiaomi_update_dialog_title">Aktualizácia aplikácie %1$s!</string>
     <string name="year" />
+    <string name="label_about">O aplikácií</string>
+    <string name="label_clear_history">Vymazať všetko</string>
+    <string name="label_delete">Vymazať</string>
+    <string name="label_history">História</string>
+    <string name="history_delete_confirmation">Vymazať históriu?</string>
 </resources>
