@@ -3689,7 +3689,7 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="warningcenter_earthquake_info">Varovanie na zemetrasenia</string>
   <string name="warningcenter_mijia_alert_close">Zatvoriť</string>
   <string name="warningcenter_mijia_alert_settings">Zmeňte nastavenia v Optimalizácia &gt; Upozornenia zo Smart home zariadení</string>
-  <string name="warningcenter_mijia_alert_tips_1">Zistená vyskoká koncentrácia plynu</string>
+  <string name="warningcenter_mijia_alert_tips_1">Zistená vysoká koncentrácia plynu</string>
   <string name="warningcenter_mijia_alert_tips_2">Zistený dym</string>
   <string name="warningcenter_mijia_alert_tips_3">Zistené vytopenie</string>
   <string name="warningcenter_mijia_alert_tips_4">Váš zámok bol zničený</string>
