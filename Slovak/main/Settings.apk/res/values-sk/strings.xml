@@ -6247,4 +6247,7 @@ Nakopírujte zálohy z USB naspäť do zložky (MIUI-backup-AllBackup) v telefó
   <string name="oldman_app_label">Jednoduchý režim</string>
   <string name="oldman_mode_entry_name">Jednoduchý režim</string>
   <string name="oldman_mode_settings">Jednoduchý režim</string>
+    <string name="screen_dark_mode_smart_dark_3rd_apps_list">Doinštalované aplikácie</string>
+    <string name="screen_dark_mode_smart_dark_apps_setting_summary">Niektoré aplikácie môžu byť zobrazené nesprávne v Tmavom režime. Môžete zakázať Tmavý režim pre jednotlivé aplikácie.</string>
+    <string name="screen_dark_mode_smart_dark_apps_setting_title">Jednotlivé aplikácie</string>  	
 </resources>
