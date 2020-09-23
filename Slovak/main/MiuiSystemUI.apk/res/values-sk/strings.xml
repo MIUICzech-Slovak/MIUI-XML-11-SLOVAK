@@ -2094,4 +2094,7 @@ Akýkoľvek používateľ môže aktualizovať aplikácie všetkých ostatných 
   <string name="how_to_use_app_quick_hide_line_summary">Potiahnite zdola nahor, potom vľavo alebo vpravo</string>
   <string name="how_to_use_app_quick_summary">Potiahnite vľavo alebo vpravo z indikátora alebo zospodu displeja</string>
   <string name="screenshot_failed_in_landscape_mode">Dlhý screenshot nie je podporovaný v režime na šírku</string>
+    <string name="small_window_guide_title">Plávajúce okná</string>
+    <string name="small_window_notification_text">Viac o tejto funkcii MIUI %d</string>
+    <string name="small_window_notification_title">Plávajúce okná</string>  
 </resources>
